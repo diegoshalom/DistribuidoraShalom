@@ -10,13 +10,13 @@
 <script>
 function myFunction() {
   // Declare variables
-  var input, filter, table, tr, td, i, txtValue;
+  var input, filter, table, tr, td, i, txtValue, indcol, mostrar;
   input = document.getElementById("myInput");
   filter = input.value.toUpperCase();
   table = document.getElementById("myTable");
   tr = table.getElementsByTagName("tr");
 
-  // Loop through all table rows, and hide those who don't match the search query
+/*  // Loop through all table rows, and hide those who don't match the search query
   for (i = 0; i < tr.length; i++) {
     td = tr[i].getElementsByTagName("td")[1];
     if (td) {
@@ -27,6 +27,25 @@ function myFunction() {
         tr[i].style.display = "none";
       }
     }
+  }  
+*/
+  for (i = 1; i < tr.length; i++) {
+	mostrar=0;
+    for(indcol = 0; indcol < 2; indcol++)
+	{
+		td = tr[i].getElementsByTagName("td")[indcol];
+		if (td) {
+		  txtValue = td.textContent || td.innerText;
+		  if (txtValue.toUpperCase().indexOf(filter) > -1) {
+			mostrar = 1;
+		  }
+		}
+	}
+	if (mostrar == 1){
+		tr[i].style.display = "";
+	} else{
+		tr[i].style.display = "none";
+	}
   }
 }
 </script>
@@ -41,7 +60,7 @@ function myFunction() {
 
 <br>
 
-<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Buscar por descripción...">
+<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Buscar por Código o Descripción...">
 
 <table id="myTable">
   <tr class="header">
@@ -406,6 +425,12 @@ function myFunction() {
 <td>4420.00</td>
 <td>5348.20</td>
 <tr><tr>
+<td></td>
+<td><b>AGUJAS de MANO </b></td>
+<td></td>
+<td></td>
+<td></td>
+<tr><tr>
 <td>05.220000</td>
 <td>ag.cuero maq.705/18x5U </td>
 <td>Sob</td>
@@ -550,6 +575,12 @@ function myFunction() {
 <td>151.25</td>
 <td>183.01</td>
 <tr><tr>
+<td></td>
+<td><b>Ag. CROCHET SILVER </b></td>
+<td></td>
+<td></td>
+<td></td>
+<tr><tr>
 <td>08.214000</td>
 <td>Crochet Silver 0000/14 </td>
 <td>Doc</td>
@@ -597,6 +628,12 @@ function myFunction() {
 <td>UNI</td>
 <td>1182.50</td>
 <td>1430.83</td>
+<tr><tr>
+<td></td>
+<td><b>AGUJAS SURTIDAS </b></td>
+<td></td>
+<td></td>
+<td></td>
 <tr><tr>
 <td>08.500000</td>
 <td>Canastita Gde agujas </td>
@@ -700,6 +737,12 @@ function myFunction() {
 <td>205.32</td>
 <td>248.44</td>
 <tr><tr>
+<td></td>
+<td><b>art.varios </b></td>
+<td></td>
+<td></td>
+<td></td>
+<tr><tr>
 <td>10.000000</td>
 <td>Abreojal chino chico </td>
 <td>UNI</td>
@@ -771,6 +814,12 @@ function myFunction() {
 <td>Paq</td>
 <td>32.00</td>
 <td>38.72</td>
+<tr><tr>
+<td></td>
+<td><b>TANZAS Y CENTIMETROS </b></td>
+<td></td>
+<td></td>
+<td></td>
 <tr><tr>
 <td>10.032000</td>
 <td>Centímetro Mexicano </td>
@@ -868,6 +917,12 @@ function myFunction() {
 <td>350.00</td>
 <td>423.50</td>
 <tr><tr>
+<td></td>
+<td><b>HILO CONO, ESTUCHE,TIJ PLEG </b></td>
+<td></td>
+<td></td>
+<td></td>
+<tr><tr>
 <td>10.046300</td>
 <td>Cono hilo poliester </td>
 <td>UNI</td>
@@ -903,6 +958,12 @@ function myFunction() {
 <td>Doc</td>
 <td>266.20</td>
 <td>322.10</td>
+<tr><tr>
+<td></td>
+<td><b>HILO CHINO Y ART. COSTURA </b></td>
+<td></td>
+<td></td>
+<td></td>
 <tr><tr>
 <td>10.047300</td>
 <td>hilo surtido gdes. </td>
@@ -958,6 +1019,18 @@ function myFunction() {
 <td>234.90</td>
 <td>284.23</td>
 <tr><tr>
+<td></td>
+<td><b>ALFILERES Y BROCHES SAETA </b></td>
+<td></td>
+<td></td>
+<td></td>
+<tr><tr>
+<td></td>
+<td><b>ALFILER GCHO, BROCHE Y PRES </b></td>
+<td></td>
+<td></td>
+<td></td>
+<tr><tr>
 <td>10.090000</td>
 <td>Alfiler x 9grs </td>
 <td>Caj</td>
@@ -1011,6 +1084,12 @@ function myFunction() {
 <td>Caj</td>
 <td>7325.69</td>
 <td>8864.08</td>
+<tr><tr>
+<td></td>
+<td><b>ABREOJAL, ENEBRADOR, TIZA </b></td>
+<td></td>
+<td></td>
+<td></td>
 <tr><tr>
 <td>11.010000</td>
 <td>Alfiler Erizo cajas </td>
@@ -1180,6 +1259,12 @@ function myFunction() {
 <td>1401.78</td>
 <td>1696.15</td>
 <tr><tr>
+<td></td>
+<td><b>CEPILLOS y ANILINAS </b></td>
+<td></td>
+<td></td>
+<td></td>
+<tr><tr>
 <td>17.000001</td>
 <td>sacamota </td>
 <td>UNI</td>
@@ -1197,6 +1282,12 @@ function myFunction() {
 <td>UNI</td>
 <td>183.00</td>
 <td>221.43</td>
+<tr><tr>
+<td></td>
+<td><b>ANILINAS </b></td>
+<td></td>
+<td></td>
+<td></td>
 <tr><tr>
 <td>17.100000</td>
 <td>Decolorante Colibrí </td>
@@ -1239,6 +1330,18 @@ function myFunction() {
 <td>UNI</td>
 <td>4.52</td>
 <td>5.47</td>
+<tr><tr>
+<td></td>
+<td><b>MARCADOR, ARPILLERA, VELCRO </b></td>
+<td></td>
+<td></td>
+<td></td>
+<tr><tr>
+<td></td>
+<td><b>BALLENA, TUL, PAÑO Y TAFETA </b></td>
+<td></td>
+<td></td>
+<td></td>
 <tr><tr>
 <td>18.091000</td>
 <td>fantasia 0910 x10m </td>
@@ -1408,6 +1511,12 @@ function myFunction() {
 <td>289.89</td>
 <td>350.77</td>
 <tr><tr>
+<td></td>
+<td><b>ENTRETELA </b></td>
+<td></td>
+<td></td>
+<td></td>
+<tr><tr>
 <td>18.810011</td>
 <td>Entret. 1001F/liviana pegar </td>
 <td>Mt</td>
@@ -1558,6 +1667,18 @@ function myFunction() {
 <td>237.38</td>
 <td>287.23</td>
 <tr><tr>
+<td></td>
+<td><b>CORDON POLIP, REP. CORTINA </b></td>
+<td></td>
+<td></td>
+<td></td>
+<tr><tr>
+<td></td>
+<td><b>CINTA PLASTICA </b></td>
+<td></td>
+<td></td>
+<td></td>
+<tr><tr>
 <td>20.000001</td>
 <td>Cordon Poliprop. x100m </td>
 <td>Pza</td>
@@ -1666,6 +1787,12 @@ function myFunction() {
 <td>1298.00</td>
 <td>1570.58</td>
 <tr><tr>
+<td></td>
+<td><b>CIERRES INVISIBLES </b></td>
+<td></td>
+<td></td>
+<td></td>
+<tr><tr>
 <td>25.001600</td>
 <td>Cierre INVISIBLE 10/16cm </td>
 <td>UNI</td>
@@ -1731,6 +1858,12 @@ function myFunction() {
 <td>UNI</td>
 <td>119.43</td>
 <td>144.51</td>
+<tr><tr>
+<td></td>
+<td><b>CIERRE 6MM FIJO Y SEP </b></td>
+<td></td>
+<td></td>
+<td></td>
 <tr><tr>
 <td>26.100000</td>
 <td>Cierre sport  fijo 08 a 14 </td>
@@ -1846,6 +1979,18 @@ function myFunction() {
 <td>149.80</td>
 <td>181.26</td>
 <tr><tr>
+<td></td>
+<td><b>CIERRE BRONCE Y EMPAVONADO </b></td>
+<td></td>
+<td></td>
+<td></td>
+<tr><tr>
+<td></td>
+<td><b>CIERRE de BRONCE FIJO </b></td>
+<td></td>
+<td></td>
+<td></td>
+<tr><tr>
 <td>28.100000</td>
 <td>cierre bronce 6/12 </td>
 <td>UNI</td>
@@ -1912,6 +2057,12 @@ function myFunction() {
 <td>218.66</td>
 <td>264.58</td>
 <tr><tr>
+<td></td>
+<td><b>CIERRE EMPAVONADO </b></td>
+<td></td>
+<td></td>
+<td></td>
+<tr><tr>
 <td>29.216000</td>
 <td>cierre empavonado 16cm </td>
 <td>UNI</td>
@@ -1966,6 +2117,12 @@ function myFunction() {
 <td>289.89</td>
 <td>350.77</td>
 <tr><tr>
+<td></td>
+<td><b>CIERRE BRONCE SEPARABLE </b></td>
+<td></td>
+<td></td>
+<td></td>
+<tr><tr>
 <td>29.300000</td>
 <td>Cierre bronce sep 25/30 </td>
 <td>UNI</td>
@@ -2001,6 +2158,12 @@ function myFunction() {
 <td>UNI</td>
 <td>198.35</td>
 <td>240.00</td>
+<tr><tr>
+<td></td>
+<td><b>ACCESORIO para CIERRES </b></td>
+<td></td>
+<td></td>
+<td></td>
 <tr><tr>
 <td>30.100000</td>
 <td>Terminal cierre arriba d y p </td>
@@ -2074,6 +2237,12 @@ function myFunction() {
 <td>42.80</td>
 <td>51.79</td>
 <tr><tr>
+<td></td>
+<td><b>desl.cierre DIENTE </b></td>
+<td></td>
+<td></td>
+<td></td>
+<tr><tr>
 <td>30.380000</td>
 <td>desl.cierre diente </td>
 <td>UNI</td>
@@ -2109,6 +2278,12 @@ function myFunction() {
 <td>Mt</td>
 <td>52.20</td>
 <td>63.16</td>
+<tr><tr>
+<td></td>
+<td><b>CIERRE S/ENVASE 4mm </b></td>
+<td></td>
+<td></td>
+<td></td>
 <tr><tr>
 <td>30.816000</td>
 <td>Cierre sin envase 10/16cm </td>
@@ -2175,6 +2350,12 @@ function myFunction() {
 <td>UNI</td>
 <td>34.46</td>
 <td>41.70</td>
+<tr><tr>
+<td></td>
+<td><b>CIERRE DIENTE PERRO </b></td>
+<td></td>
+<td></td>
+<td></td>
 <tr><tr>
 <td>30.916000</td>
 <td>cierre diente fijo 10/16 </td>
@@ -2278,6 +2459,12 @@ function myFunction() {
 <td>88.88</td>
 <td>107.54</td>
 <tr><tr>
+<td></td>
+<td><b>CIERRE ALUMINIO </b></td>
+<td></td>
+<td></td>
+<td></td>
+<tr><tr>
 <td>31.160100</td>
 <td>Cierre aluminio 8/14cm </td>
 <td>UNI</td>
@@ -2332,6 +2519,12 @@ function myFunction() {
 <td>123.82</td>
 <td>149.82</td>
 <tr><tr>
+<td></td>
+<td><b>CINTA FALLETINA </b></td>
+<td></td>
+<td></td>
+<td></td>
+<tr><tr>
 <td>32.010500</td>
 <td>Cinta Falletina 1 x 50 </td>
 <td>Pza</td>
@@ -2367,6 +2560,12 @@ function myFunction() {
 <td>Pza</td>
 <td>365.49</td>
 <td>442.24</td>
+<tr><tr>
+<td></td>
+<td><b>CINTA RASO </b></td>
+<td></td>
+<td></td>
+<td></td>
 <tr><tr>
 <td>33.001000</td>
 <td>Cinta Raso 0 x 100mt </td>
@@ -2464,6 +2663,12 @@ function myFunction() {
 <td>373.99</td>
 <td>452.53</td>
 <tr><tr>
+<td></td>
+<td><b>CINTA ARGENTINA </b></td>
+<td></td>
+<td></td>
+<td></td>
+<tr><tr>
 <td>34.010000</td>
 <td>Cinta Argentina 1 </td>
 <td>Pza</td>
@@ -2518,6 +2723,12 @@ function myFunction() {
 <td>1310.86</td>
 <td>1586.14</td>
 <tr><tr>
+<td></td>
+<td><b>CINTA DANCER </b></td>
+<td></td>
+<td></td>
+<td></td>
+<tr><tr>
 <td>34.942305</td>
 <td>DANCER 5mm x20m </td>
 <td>Pza</td>
@@ -2547,6 +2758,12 @@ function myFunction() {
 <td>Pza</td>
 <td>519.12</td>
 <td>628.14</td>
+<tr><tr>
+<td></td>
+<td><b>CINTA GROSS </b></td>
+<td></td>
+<td></td>
+<td></td>
 <tr><tr>
 <td>35.011000</td>
 <td>Gros 1 C.O x20m. seda </td>
@@ -2631,6 +2848,12 @@ function myFunction() {
 <td>Pza</td>
 <td>427.28</td>
 <td>517.01</td>
+<tr><tr>
+<td></td>
+<td><b>CINTA BIES </b></td>
+<td></td>
+<td></td>
+<td></td>
 <tr><tr>
 <td>35.130000</td>
 <td>Bies 13 mm Bco poplin </td>
@@ -2782,6 +3005,12 @@ function myFunction() {
 <td>148.24</td>
 <td>179.37</td>
 <tr><tr>
+<td></td>
+<td><b>CINTA HILERA </b></td>
+<td></td>
+<td></td>
+<td></td>
+<tr><tr>
 <td>46.090000</td>
 <td>Cinta Hilera 9 x 50m bca </td>
 <td>Pza</td>
@@ -2908,6 +3137,12 @@ function myFunction() {
 <td>1482.40</td>
 <td>1793.70</td>
 <tr><tr>
+<td></td>
+<td><b>ELÁSTICO RAYON </b></td>
+<td></td>
+<td></td>
+<td></td>
+<tr><tr>
 <td>47.090000</td>
 <td>elastico 10cm Bco </td>
 <td>Pza</td>
@@ -2919,6 +3154,12 @@ function myFunction() {
 <td>Pza</td>
 <td>197.02</td>
 <td>238.39</td>
+<tr><tr>
+<td></td>
+<td><b>mt. elastico 20cm negro </b></td>
+<td></td>
+<td></td>
+<td></td>
 <tr><tr>
 <td>47.090200</td>
 <td>mt elastico 20cm negro </td>
@@ -3009,6 +3250,12 @@ function myFunction() {
 <td>Pza</td>
 <td>335.78</td>
 <td>406.29</td>
+<tr><tr>
+<td></td>
+<td><b>AGUJAS COSER y ALFILERES </b></td>
+<td></td>
+<td></td>
+<td></td>
 <tr><tr>
 <td>50.331100</td>
 <td>Elást Bretel 3311 X 20m </td>
@@ -3196,6 +3443,12 @@ function myFunction() {
 <td>958.99</td>
 <td>1160.38</td>
 <tr><tr>
+<td></td>
+<td><b>TRENZA MULTICOLOR </b></td>
+<td></td>
+<td></td>
+<td></td>
+<tr><tr>
 <td>55.190000</td>
 <td>Trenza multicolor </td>
 <td>UNI</td>
@@ -3225,6 +3478,12 @@ function myFunction() {
 <td>UNI</td>
 <td>2730.52</td>
 <td>3303.93</td>
+<tr><tr>
+<td></td>
+<td><b>ELÁSTICO ALGODÓN </b></td>
+<td></td>
+<td></td>
+<td></td>
 <tr><tr>
 <td>56.381500</td>
 <td>elastico 3815 x25m </td>
@@ -3417,6 +3676,12 @@ function myFunction() {
 <td>UNI</td>
 <td>795.00</td>
 <td>961.95</td>
+<tr><tr>
+<td></td>
+<td><b>HILOS </b></td>
+<td></td>
+<td></td>
+<td></td>
 <tr><tr>
 <td>57.120000</td>
 <td>Hilo CADENA DIAG.450m Bco </td>
@@ -3640,6 +3905,12 @@ function myFunction() {
 <td>200.00</td>
 <td>242.00</td>
 <tr><tr>
+<td></td>
+<td><b>HOMBRERAS </b></td>
+<td></td>
+<td></td>
+<td></td>
+<tr><tr>
 <td>62.700000</td>
 <td>hombreras 0 </td>
 <td>Par</td>
@@ -3711,6 +3982,12 @@ function myFunction() {
 <td>Par</td>
 <td>33.87</td>
 <td>40.98</td>
+<tr><tr>
+<td></td>
+<td><b>PEGATELA, UHU, UNIPOX </b></td>
+<td></td>
+<td></td>
+<td></td>
 <tr><tr>
 <td>64.133000</td>
 <td>UHU x35ml </td>
@@ -3790,6 +4067,12 @@ function myFunction() {
 <td>138.00</td>
 <td>166.98</td>
 <tr><tr>
+<td></td>
+<td><b>MENDAFACIL </b></td>
+<td></td>
+<td></td>
+<td></td>
+<tr><tr>
 <td>66.100000</td>
 <td>Mendafácil chico 101 </td>
 <td>Doc</td>
@@ -3813,6 +4096,12 @@ function myFunction() {
 <td>Doc</td>
 <td>865.00</td>
 <td>1046.65</td>
+<tr><tr>
+<td></td>
+<td><b>QUITAMANCHAS </b></td>
+<td></td>
+<td></td>
+<td></td>
 <tr><tr>
 <td>66.610000</td>
 <td>Quita Oxido x10ml </td>
@@ -3844,6 +4133,12 @@ function myFunction() {
 <td>57.11</td>
 <td>69.10</td>
 <tr><tr>
+<td></td>
+<td><b>REF. KILT, BIES, AJUSTABLES </b></td>
+<td></td>
+<td></td>
+<td></td>
+<tr><tr>
 <td>67.000000</td>
 <td>Refuerzo Jean/Escosés Plas </td>
 <td>Par</td>
@@ -3867,6 +4162,18 @@ function myFunction() {
 <td>UNI</td>
 <td>570.11</td>
 <td>689.83</td>
+<tr><tr>
+<td></td>
+<td><b>CINTA ID Y ADHE DOBLADILLO </b></td>
+<td></td>
+<td></td>
+<td></td>
+<tr><tr>
+<td></td>
+<td><b>REFUERZO, NÚMEROS, RIB </b></td>
+<td></td>
+<td></td>
+<td></td>
 <tr><tr>
 <td>67.001000</td>
 <td>Cinta Dobladillos adhesiva </td>
@@ -3975,6 +4282,12 @@ function myFunction() {
 <td>Mt</td>
 <td>190.08</td>
 <td>230.00</td>
+<tr><tr>
+<td></td>
+<td><b>REPUESTO de CORPIÑO </b></td>
+<td></td>
+<td></td>
+<td></td>
 <tr><tr>
 <td>68.000000</td>
 <td>tazas SOFT </td>
@@ -4102,6 +4415,12 @@ function myFunction() {
 <td>497.88</td>
 <td>602.43</td>
 <tr><tr>
+<td></td>
+<td><b>Pza elastico bretel 811 x10m </b></td>
+<td></td>
+<td></td>
+<td></td>
+<tr><tr>
 <td>68.815000</td>
 <td>Pza ellastico bretel 815 x10m </td>
 <td>UNI</td>
@@ -4131,6 +4450,12 @@ function myFunction() {
 <td>Doc</td>
 <td>613.00</td>
 <td>741.73</td>
+<tr><tr>
+<td></td>
+<td><b>TIJERAS Y ALICATES </b></td>
+<td></td>
+<td></td>
+<td></td>
 <tr><tr>
 <td>69.708000</td>
 <td>Tijera de costura 6 Barrilito/6 </td>
@@ -4257,6 +4582,12 @@ function myFunction() {
 <td>UNI</td>
 <td>805.00</td>
 <td>974.05</td>
+<tr><tr>
+<td></td>
+<td><b>tijera 844/7 </b></td>
+<td></td>
+<td></td>
+<td></td>
 <tr><tr>
 <td>69.845000</td>
 <td>tijera bebe 845 </td>
@@ -5668,6 +5999,12 @@ function myFunction() {
 <td>293.75</td>
 <td>355.44</td>
 <tr><tr>
+<td></td>
+<td><b>BRODERIE </b></td>
+<td></td>
+<td></td>
+<td></td>
+<tr><tr>
 <td>77.001000</td>
 <td>Broderie 001 x13,70 </td>
 <td>Pza</td>
@@ -6099,6 +6436,12 @@ function myFunction() {
 <td>Pza</td>
 <td>344.17</td>
 <td>416.45</td>
+<tr><tr>
+<td></td>
+<td><b>B1 Puntilla </b></td>
+<td></td>
+<td></td>
+<td></td>
 <tr><tr>
 <td>79.001001</td>
 <td>BOLILLO B1 </td>
@@ -7528,6 +7871,12 @@ function myFunction() {
 <td>417.29</td>
 <td>504.92</td>
 <tr><tr>
+<td></td>
+<td><b>CINTA BOW 6mm--113006 </b></td>
+<td></td>
+<td></td>
+<td></td>
+<tr><tr>
 <td>80.113006</td>
 <td>BOW 6mm--113006 </td>
 <td>Pza</td>
@@ -7569,6 +7918,12 @@ function myFunction() {
 <td>Pza</td>
 <td>571.80</td>
 <td>691.88</td>
+<tr><tr>
+<td></td>
+<td><b>CINTA ESPERANZA 10 mm--113510 </b></td>
+<td></td>
+<td></td>
+<td></td>
 <tr><tr>
 <td>80.113510</td>
 <td>ESPERANZA 10mm--113510 </td>
@@ -8212,6 +8567,12 @@ function myFunction() {
 <td>478.39</td>
 <td>578.85</td>
 <tr><tr>
+<td></td>
+<td><b>SANTA 45mm--124445 </b></td>
+<td></td>
+<td></td>
+<td></td>
+<tr><tr>
 <td>80.124523</td>
 <td>SILKY ESTRELLAS 1245/23 </td>
 <td>Pza</td>
@@ -8721,6 +9082,12 @@ function myFunction() {
 <td>Pza</td>
 <td>354.89</td>
 <td>429.42</td>
+<tr><tr>
+<td></td>
+<td><b>VOLADO liso 1317-20 </b></td>
+<td></td>
+<td></td>
+<td></td>
 <tr><tr>
 <td>80.131730</td>
 <td>Volado liso 113720 </td>
@@ -9561,6 +9928,12 @@ function myFunction() {
 <td>1</td>
 <td>479.60</td>
 <td>580.32</td>
+<tr><tr>
+<td></td>
+<td><b>Pza cinta 3968 </b></td>
+<td></td>
+<td></td>
+<td></td>
 <tr><tr>
 <td>80.397600</td>
 <td>pza 3976-3978 </td>
