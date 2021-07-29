@@ -7,8 +7,8 @@ Salida guardada
 Ejecuto git pull 
 Already up to date.
 Ejecuto git commit 
-[main 9353a1d] test
- 2 files changed, 6 insertions(+), 7 deletions(-)
+[main a683f5f] test
+ 2 files changed, 5 insertions(+), 7 deletions(-)
 Ejecuto git push 
 Listo  
 03:11 p.m.
