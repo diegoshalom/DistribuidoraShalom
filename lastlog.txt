@@ -1,9 +1,8 @@
 29/07/2021 
-02:37 p.m.
-"Ejecuto python milista.py" 
+02:39 p.m.
+Ejecuto python milista.py 
 Template cargado
 Lista cargada
 Salida guardada
-"Ejecuto git pull" 
+Ejecuto git pull 
 Already up to date.
-"Ejecuto git pull" 

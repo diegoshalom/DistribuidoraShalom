@@ -1,31 +1,7 @@
 29/07/2021 
-02:36 p.m.
+02:38 p.m.
 "Ejecuto python milista.py" 
 Template cargado
 Lista cargada
 Salida guardada
 "Ejecuto git pull" 
-git@github.com: Permission denied (publickey).
-fatal: Could not read from remote repository.
-
-Please make sure you have the correct access rights
-and the repository exists.
-"Ejecuto git pull" 
-warning: LF will be replaced by CRLF in lastlog.txt.
-The file will have its original line endings in your working directory
-warning: LF will be replaced by CRLF in previouslog.txt.
-The file will have its original line endings in your working directory
-"Ejecuto git commit" 
-[main 7f80660] test
- 4 files changed, 66 insertions(+), 12 deletions(-)
- create mode 100644 SubirLista.bat
- create mode 100644 lastlog.txt
- create mode 100644 previouslog.txt
-"Ejecuto git push" 
-git@github.com: Permission denied (publickey).
-fatal: Could not read from remote repository.
-
-Please make sure you have the correct access rights
-and the repository exists.
-"Listo"  
-02:36 p.m.
