@@ -55,11 +55,15 @@ print(L)
 tabla = ''
 for item in L:
     if len(item['unit'])==0:
-        itemlista = ["",'<b>'+item['desc']+'</b>',"","",""]
-        tabla += '<tr>\n<td>'  + '</td>\n<td>'.join(itemlista) + '</td>\n<tr>'
+        # itemlista = ["",'<b>'+item['desc']+'</b>',"","",""]
+        # tabla += '<tr>\n<td>'  + '</td>\n<td>'.join(itemlista) + '</td>\n<tr>'        
+        stritem = '<tr>\n<td>%s</td>\n<td>%s</td>\n<td>%s</td>\n<td>%s</td>\n<td>%s</td>\n<tr>' % ("",'<b>'+item['desc']+'</b>',"","","")
+        tabla += stritem 
     else:
-        itemlista = [item['cod'],item['desc'],item['unidad'],item['unit'],item['iva']]
-        tabla += '<tr>\n<td>'  + '</td>\n<td>'.join(itemlista) + '</td>\n<tr>'
+        # itemlista = [item['cod'],item['desc'],item['unidad'],item['unit'],item['iva']]
+        # tabla += '<tr>\n<td>'  + '</td>\n<td>'.join(itemlista) + '</td>\n<tr>'
+        stritem = '<tr>\n<td>%s</td>\n<td>%s</td>\n<td>%s</td>\n<td style="text-align:right">%s</td>\n<td style="text-align:right">%s</td>\n<tr>' % (item['cod'],item['desc'],item['unidad'],item['unit'],item['iva'])
+        tabla += stritem
    
 
 out = miwebpage.replace('%TABLA%', tabla)
