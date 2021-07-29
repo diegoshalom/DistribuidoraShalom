@@ -1,24 +1,31 @@
 29/07/2021 
-02:29 p.m.
+02:36 p.m.
 "Ejecuto python milista.py" 
+Template cargado
+Lista cargada
+Salida guardada
 "Ejecuto git pull" 
-Already up to date.
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+"Ejecuto git pull" 
+warning: LF will be replaced by CRLF in lastlog.txt.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in previouslog.txt.
+The file will have its original line endings in your working directory
 "Ejecuto git commit" 
-On branch main
-Your branch is up to date with 'origin/main'.
-
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
-	modified:   milista.py
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	SubirLista.bat
-	lastlog.txt
-	previouslog.txt
-
-no changes added to commit (use "git add" and/or "git commit -a")
+[main 7f80660] test
+ 4 files changed, 66 insertions(+), 12 deletions(-)
+ create mode 100644 SubirLista.bat
+ create mode 100644 lastlog.txt
+ create mode 100644 previouslog.txt
 "Ejecuto git push" 
-"Listo"   
-02:30 p.m.
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+"Listo"  
+02:36 p.m.

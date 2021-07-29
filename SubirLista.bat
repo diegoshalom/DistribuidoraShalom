@@ -2,20 +2,20 @@
 c:
 cd C:\REPOS\DistribuidoraShalom
 copy lastlog.txt previouslog.txt /y
-date /t > lastlog.txt 2>&1
-time /t >> lastlog.txt 2>&1
-echo "Ejecuto python milista.py" >> lastlog.txt 2>&1
-python milista.py >> lastlog.txt 2>&1
-echo "Ejecuto git pull" >> lastlog.txt 2>&1
-echo Escribí "zapato" >con
-git pull >> lastlog.txt 2>&1
-echo "Ejecuto git pull" >> lastlog.txt 2>&1
+date /t > lastlog.txt
+time /t >> lastlog.txt
+echo "Ejecuto python milista.py" >> lastlog.txt
+python milista.py >> lastlog.txt
+echo "Ejecuto git pull" >> lastlog.txt
+echo Escribí "zapato" 
+git pull >> lastlog.txt
+echo "Ejecuto git pull" >> lastlog.txt
 echo "Ejecuto git add ."
-git add . >> lastlog.txt 2>&1
-echo "Ejecuto git commit" >> lastlog.txt 2>&1
-git commit -m "test" >> lastlog.txt 2>&1
-echo "Ejecuto git push" >> lastlog.txt 2>&1
-echo Escribí "zapato" >con 
-git push >> lastlog.txt 2>&1
-echo "Listo"  >> lastlog.txt  2>&1
-time /t >> lastlog.txt 2>&1
+git add . >> lastlog.txt
+echo "Ejecuto git commit" >> lastlog.txt
+git commit -m "test" >> lastlog.txt
+echo "Ejecuto git push" >> lastlog.txt
+echo Escribí "zapato" 
+git push >> lastlog.txt 
+echo "Listo"  >> lastlog.txt
+time /t >> lastlog.txt
