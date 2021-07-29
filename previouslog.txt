@@ -1,7 +1,15 @@
 29/07/2021 
-02:38 p.m.
-"Ejecuto python milista.py" 
+02:39 p.m.
+Ejecuto python milista.py 
 Template cargado
 Lista cargada
 Salida guardada
-"Ejecuto git pull" 
+Ejecuto git pull 
+Already up to date.
+Ejecuto git commit 
+[main 5b88c57] test
+ 3 files changed, 18 insertions(+), 44 deletions(-)
+ rewrite previouslog.txt (88%)
+Ejecuto git push 
+Listo  
+02:40 p.m.
