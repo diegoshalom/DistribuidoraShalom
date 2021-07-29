@@ -9,16 +9,14 @@ Created on Wed Jul 28 10:36:56 2021
 fname = 'mypagetemplate.html'
 with open(fname, 'r', encoding="utf-8") as f:
     miwebpage  = f.read()
-print(miwebpage  )
-
-
+print('Template cargado')
 
 #%% Cargo lista de precios
 fname = 'TEXTO.TXT'
 list_ = open(fname).read().split('\n')
 
-
 fecha = list_[1][25:].strip()
+miwebpage = miwebpage.replace('%FECHA%', fecha)
 
 import re
 L=[]
@@ -45,11 +43,12 @@ for line in list_:
             # continue
         
         L.append(l)
-print(L)
+print('Lista cargada')
 # 80.702008  FIESTA 8mm ............................. UNI   _  259.050
 # 80.705020  VICTORIAN 20mm ......................... Pza   _  245.320
 # 80.710000  Raso 0 FLUO x50m ....................... Pza   _  392.430
 # 80.723000  galon Pampa ............................ Pza   _  882.050
+
 
 #%% Convierto lista a string y reemplazo en el template
 tabla = ''
@@ -63,16 +62,13 @@ for item in L:
         # itemlista = [item['cod'],item['desc'],item['unidad'],item['unit'],item['iva']]
         # tabla += '<tr>\n<td>'  + '</td>\n<td>'.join(itemlista) + '</td>\n<tr>'
         stritem = '<tr>\n<td>%s</td>\n<td>%s</td>\n<td>%s</td>\n<td style="text-align:right">%s</td>\n<td style="text-align:right">%s</td>\n<tr>' % (item['cod'],item['desc'],item['unidad'],item['unit'],item['iva'])
-        tabla += stritem
-   
-
-out = miwebpage.replace('%TABLA%', tabla)
-out = out.replace('%FECHA%', fecha)
+        tabla += stritem  
+miwebpage = miwebpage.replace('%TABLA%', tabla)
     
 fname = 'docs/index.html'
 with open(fname, 'w', encoding="utf-8") as f:
-    f.write(out)
-
+    f.write(miwebpage)
+print('Salida guardada')
 
 
 
