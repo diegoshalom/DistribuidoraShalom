@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="es">
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="author" content="" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="stylesheet" href="css/formatos.css" type="text/css" />
+<head>
+
+
+<script>
+function myFunction() {
+  // Declare variables
+  var input, filter, table, tr, td, i, txtValue;
+  input = document.getElementById("myInput");
+  filter = input.value.toUpperCase();
+  table = document.getElementById("myTable");
+  tr = table.getElementsByTagName("tr");
+
+  // Loop through all table rows, and hide those who don't match the search query
+  for (i = 0; i < tr.length; i++) {
+    td = tr[i].getElementsByTagName("td")[1];
+    if (td) {
+      txtValue = td.textContent || td.innerText;
+      if (txtValue.toUpperCase().indexOf(filter) > -1) {
+        tr[i].style.display = "";
+      } else {
+        tr[i].style.display = "none";
+      }
+    }
+  }
+}
+</script>
+
+<title>Distribuidora Shalom</title>
+</head>
+
+<body>
+
+<h1>Lista de precios de Distribuidora Shalom - %FECHA%
+</h1>
+
+<br>
+
+<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Buscar por descripción...">
+
+<table id="myTable">
+  <tr class="header">
+    <th style="width:50px;">Código</th>
+    <th style="width:400px;">Descripción</th>
+	<th style="width:50px;">Unidad</th>
+	<th style="width:100px;">Neto</th>
+	<th style="width:100px;">IVA incluido</th>
+  </tr>
+%TABLA%
+</table>
+
+
+
+</body>
+</html>
