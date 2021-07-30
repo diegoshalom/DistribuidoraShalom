@@ -1,14 +1,12 @@
 30/07/2021 
-12:26 p.m.
+12:27 p.m.
 Ejecuto python milista.py 
 Template cargado
-Lista cargada
-Salida guardada
 Ejecuto git pull 
 Already up to date.
 Ejecuto git commit 
-[main f2aea04] test
- 2 files changed, 6 insertions(+), 6 deletions(-)
+[main bf6e348] test
+ 4 files changed, 297 insertions(+), 179 deletions(-)
 Ejecuto git push 
 Listo  
-12:26 p.m.
+12:27 p.m.
