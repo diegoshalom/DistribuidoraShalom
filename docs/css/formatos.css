@@ -26,7 +26,17 @@
   border-bottom: 1px solid #ddd;
 }
 
-#myTable tr.header, #myTable tr:hover {
+tr:nth-child(even) {
+  background-color: #f8f8f8;
+}
+
+#myTable tr:hover {
+  /* Add a grey background color to the table header and on hover */
+  background-color: #a1ffa1;
+}
+*/
+
+#myTable thead {
   /* Add a grey background color to the table header and on hover */
   background-color: #f1f1f1;
 }
