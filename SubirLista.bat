@@ -1,6 +1,5 @@
 c:
 cd C:\REPOS\DistribuidoraShalom
-copy lastlog.txt previouslog.txt /y
 copy \\WIN32VIRTUAL\qb45\TEXTO.TXT . /y
 date /t > lastlog.txt
 time /t >> lastlog.txt
