@@ -1926,7 +1926,6 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 92.725050  Panty Lycra s/punt.T.esp. .............. Par   _  128.250
 92.750000  panty c/lycra Y Multifibra ............. Doc   _  113.790
 92.750050  Media panty lycra y multif.T/e ......... Par   _  124.780
-92.800000  Anula N.C: B000200000006 ............... Doc   _%549,587.840
 92.810000  art .................................... UNI   _   78.380
 93.340000  Pie enganche Singer .................... UNI   _  154.790
 93.350000  U chapa recta 6281 ..................... UNI   _  210.000
@@ -2000,13 +1999,3 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 96.037223  reflectiva 23 .......................... UNI   _  574.800
 96.037239  reflectiva 39 .......................... UNI   _  810.000
 97.        Hilo SEDIL ............................. UNI   _  167.200
-ART VARIOS  ....................................... UNI              
-ART.VARIOS articulos varios ....................... UNI              
-ARTVARIOS  Artículos varios ....................... ***   _    0.010
-lili       articulo pruebaq lili .................. UNI              
-lili3      lili 3 ................................. UNI              
-lili_2     art lili_2 ............................. UNI              
-lili_4     otro articulo .......................... UNI              
-
-=====================================================================
-

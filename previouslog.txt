@@ -5,8 +5,8 @@ Template cargado
 Ejecuto git pull 
 Already up to date.
 Ejecuto git commit 
-[main bf6e348] test
- 4 files changed, 297 insertions(+), 179 deletions(-)
+[main b22baad] test
+ 2 files changed, 5 insertions(+), 7 deletions(-)
 Ejecuto git push 
 Listo  
-12:27 p.m.
+12:28 p.m.
