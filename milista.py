@@ -20,29 +20,35 @@ miwebpage = miwebpage.replace('%FECHA%', fecha)
 
 import re
 L=[]
+resto = []
 for line in list_:    
-    if re.match("^\d", line): # si empieza con un dígito
-        l={}
-        l['line'] = line
-        l['cod'] = line[:11].strip()
-        l['desc'] = line[11:52].strip()
-        l['desc'] = re.sub('[\.]{3,}','',l['desc'])
-        l['unidad'] = line[52:55].strip()
-        unit = line[59:].strip().replace(',','')
-        if len(unit.strip())==0:
-            l['unit'] = ''
-            l['iva'] = ''
-        else:
-            l['unit'] = ('%.2f')  % (float(unit))
-            l['iva'] = ('%.2f')  % (round(float(l['unit'])*1.21,2))
-        # print(line)
-        # print(l)
-        if len(l['desc'])==0: #si la descripción está vacía salteo
-            continue
-        # if l['unit']=='': #si el precio está vacía salteo
-            # continue
-        
-        L.append(l)
+	try:
+		if re.match("^\d", line): # si empieza con un dígito
+			l={}
+			l['line'] = line
+			l['cod'] = line[:11].strip()
+			l['desc'] = line[11:52].strip()
+			l['desc'] = re.sub('[\.]{3,}','',l['desc'])
+			l['unidad'] = line[52:55].strip()
+			unit = line[59:].strip().replace(',','')
+			if len(unit.strip())==0:
+				l['unit'] = ''
+				l['iva'] = ''
+			else:
+				l['unit'] = ('%.2f')  % (float(unit))
+				l['iva'] = ('%.2f')  % (round(float(l['unit'])*1.21,2))
+			# print(line)
+			# print(l)
+			if len(l['desc'])==0: #si la descripción está vacía salteo
+				continue
+			# if l['unit']=='': #si el precio está vacía salteo
+				# continue
+			
+			L.append(l)
+		else:
+			resto.append(line)
+	except:
+		print("Hubo un error al manipular la linea: " + line)
 print('Lista cargada')
 # 80.702008  FIESTA 8mm ............................. UNI   _  259.050
 # 80.705020  VICTORIAN 20mm ......................... Pza   _  245.320
