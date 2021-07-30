@@ -1,5 +1,5 @@
 30/07/2021 
-11:58 a.m.
+12:26 p.m.
 Ejecuto python milista.py 
 Template cargado
 Lista cargada
