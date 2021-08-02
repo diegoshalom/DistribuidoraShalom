@@ -30,7 +30,7 @@ for line in list_:
 			l['desc'] = line[11:52].strip()
 			l['desc'] = re.sub('[\.]{3,}','',l['desc'])
 			l['unidad'] = line[52:55].strip()
-			unit = line[59:].strip().replace(',','')
+			unit = line[59:].strip().replace(',','').replace('%','')
 			if len(unit.strip())==0:
 				l['unit'] = ''
 				l['iva'] = ''
