@@ -1,6 +1,6 @@
 c:
 cd C:\REPOS\DistribuidoraShalom
-copy \\WIN32VIRTUAL\qb45\TEXTO.TXT . /y
+copy c:\qb45\TEXTO.TXT . /y
 date /t > lastlog.txt
 time /t >> lastlog.txt
 echo Ejecuto python milista.py >> lastlog.txt
