@@ -1,6 +1,6 @@
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 20/04/23
-DOLARES                                                    Hoja Nro   1
+PESOS                                                      Hoja Nro   1
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -61,7 +61,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 20/04/23
-DOLARES                                                    Hoja Nro   2
+PESOS                                                      Hoja Nro   2
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -122,7 +122,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 20/04/23
-DOLARES                                                    Hoja Nro   3
+PESOS                                                      Hoja Nro   3
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -183,7 +183,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 20/04/23
-DOLARES                                                    Hoja Nro   4
+PESOS                                                      Hoja Nro   4
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -244,7 +244,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 20/04/23
-DOLARES                                                    Hoja Nro   5
+PESOS                                                      Hoja Nro   5
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -305,7 +305,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 20/04/23
-DOLARES                                                    Hoja Nro   6
+PESOS                                                      Hoja Nro   6
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -366,7 +366,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 20/04/23
-DOLARES                                                    Hoja Nro   7
+PESOS                                                      Hoja Nro   7
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -427,7 +427,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 20/04/23
-DOLARES                                                    Hoja Nro   8
+PESOS                                                      Hoja Nro   8
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -488,7 +488,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 20/04/23
-DOLARES                                                    Hoja Nro   9
+PESOS                                                      Hoja Nro   9
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -549,7 +549,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 20/04/23
-DOLARES                                                    Hoja Nro  10
+PESOS                                                      Hoja Nro  10
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -610,7 +610,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 20/04/23
-DOLARES                                                    Hoja Nro  11
+PESOS                                                      Hoja Nro  11
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -671,7 +671,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 20/04/23
-DOLARES                                                    Hoja Nro  12
+PESOS                                                      Hoja Nro  12
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -732,7 +732,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 20/04/23
-DOLARES                                                    Hoja Nro  13
+PESOS                                                      Hoja Nro  13
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -793,7 +793,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 20/04/23
-DOLARES                                                    Hoja Nro  14
+PESOS                                                      Hoja Nro  14
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -842,46 +842,46 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 68.903000  prol.x3ganchos 243/903 ................. Doc   _2,816.000
 68.968000  prol.x2ganch.ancho 232/968 ............. Doc   _1,936.000
 69.000000  TIJERAS Y ALICATES ..................... Mt               
-69.708000  Tijera de costura 6 Barrilito/6 ........ UNI   _1,647.000
-69.709000  Tijera de costura 7 Barrilito/7 ........ UNI   _1,979.870
-69.788040  tijera costura 788/4 ................... UNI   _  896.300
-69.788050  tijera costura 788/5 ................... UNI   _2,085.000
-69.788060  tijera costura 788/6 ................... UNI   _2,435.000
-69.788070  tijera costura 788/7 ................... UNI   _2,910.000
-69.788080  tijera costura 788/8 ................... UNI   _3,460.000
-69.791060  tijera modista 791/6 ................... UNI   _2,427.000
-69.791070  tijera modista 791/7 ................... UNI   _2,717.000
+69.708000  Tijera de costura 6 Barrilito/6 ........ UNI   _1,811.700
+69.709000  Tijera de costura 7 Barrilito/7 ........ UNI   _2,177.860
+69.788040  tijera costura 788/4 ................... UNI   _  985.930
+69.788050  tijera costura 788/5 ................... UNI   _2,293.500
+69.788060  tijera costura 788/6 ................... UNI   _2,678.500
+69.788070  tijera costura 788/7 ................... UNI   _3,201.000
+69.788080  tijera costura 788/8 ................... UNI   _3,806.000
+69.791060  tijera modista 791/6 ................... UNI   _2,669.700
+69.791070  tijera modista 791/7 ................... UNI   _2,988.700
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 20/04/23
-DOLARES                                                    Hoja Nro  15
+PESOS                                                      Hoja Nro  15
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
-69.791080  tijera modista 791/8 ................... UNI   _3,686.000
-69.802000  tijera bordar 802 ...................... UNI   _1,560.000
-69.804000  tijera bordar 804/807 .................. UNI   _1,560.000
-69.816070  Tijera SASTRE 816/7 .................... UNI   _2,455.000
-69.816080  Tijera SASTRE 816/8 .................... UNI   _4,620.000
-69.816090  Tijera SASTRE 816/9 .................... UNI   _6,350.000
-69.821000  tijera bordar 821 ...................... UNI   _1,008.950
-69.822000  tijera 822C ............................ UNI   _1,100.910
-69.835000  tijera peluquero 835 ................... UNI   _1,163.990
-69.839070  tijera 839/6 peluquero ................. UNI   _2,450.000
-69.843070  tijera ENTRESACAR 843/7 ................ UNI   _1,968.990
-69.84407   tijera 844/7 ........................... UNI   _1,932.020
+69.791080  tijera modista 791/8 ................... UNI   _4,054.600
+69.802000  tijera bordar 802 ...................... UNI   _1,716.000
+69.804000  tijera bordar 804/807 .................. UNI   _1,716.000
+69.816070  Tijera SASTRE 816/7 .................... UNI   _2,700.500
+69.816080  Tijera SASTRE 816/8 .................... UNI   _5,082.000
+69.816090  Tijera SASTRE 816/9 .................... UNI   _6,985.000
+69.821000  tijera bordar 821 ...................... UNI   _1,109.850
+69.822000  tijera 822C ............................ UNI   _1,211.010
+69.835000  tijera peluquero 835 ................... UNI   _1,280.390
+69.839070  tijera 839/6 peluquero ................. UNI   _2,695.000
+69.843070  tijera ENTRESACAR 843/7 ................ UNI   _2,165.890
+69.84407   tijera 844/7 ........................... UNI   _2,125.230
 69.844070  tijera 844/7 ........................... UNI              
-69.845000  tijera bebe 845 ........................ UNI   _1,022.870
-69.847000  tijera 847 ............................. UNI   _1,170.600
-69.865000  tijera ZIG ZAG ......................... UNI   _2,555.000
-69.888070  tijera 888/5 1/2 peluquero ............. UNI   _1,864.570
-69.888075  tijera 888/7 1/2 peluquero ............. UNI   _1,546.870
-69.911000  alicate cuticula 911 ................... UNI   _1,873.280
-69.914000  alicate de uñas 914 .................... UNI   _2,196.300
-69.920000  tijera Condor/6 ........................ UNI   _2,022.000
-69.921000  tijera Condor/7 ........................ UNI   _2,427.000
-69.930000  tijera bordar Condor ................... UNI   _1,560.000
-69.940000  U tijera de XIAN K18 ................... UNI   _1,455.300
+69.845000  tijera bebe 845 ........................ UNI   _1,125.160
+69.847000  tijera 847 ............................. UNI   _1,287.660
+69.865000  tijera ZIG ZAG ......................... UNI   _2,810.500
+69.888070  tijera 888/5 1/2 peluquero ............. UNI   _2,051.030
+69.888075  tijera 888/7 1/2 peluquero ............. UNI   _1,701.560
+69.911000  alicate cuticula 911 ................... UNI   _2,060.610
+69.914000  alicate de uñas 914 .................... UNI   _2,415.930
+69.920000  tijera Condor/6 ........................ UNI   _2,224.200
+69.921000  tijera Condor/7 ........................ UNI   _2,669.700
+69.930000  tijera bordar Condor ................... UNI   _1,716.000
+69.940000  U tijera de XIAN K18 ................... UNI   _1,600.830
 69.950000  U tijera de XIAN K19 ................... UNI   _1,470.000
 76.020000  2R x50m ................................ Pza   _1,494.920
 76.020130  fantasia 2013 .......................... Pza   _1,128.580
@@ -915,7 +915,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 20/04/23
-DOLARES                                                    Hoja Nro  16
+PESOS                                                      Hoja Nro  16
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -976,7 +976,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 20/04/23
-DOLARES                                                    Hoja Nro  17
+PESOS                                                      Hoja Nro  17
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -1037,7 +1037,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 20/04/23
-DOLARES                                                    Hoja Nro  18
+PESOS                                                      Hoja Nro  18
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -1098,7 +1098,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 20/04/23
-DOLARES                                                    Hoja Nro  19
+PESOS                                                      Hoja Nro  19
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -1159,7 +1159,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 20/04/23
-DOLARES                                                    Hoja Nro  20
+PESOS                                                      Hoja Nro  20
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -1220,7 +1220,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 20/04/23
-DOLARES                                                    Hoja Nro  21
+PESOS                                                      Hoja Nro  21
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -1281,7 +1281,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 20/04/23
-DOLARES                                                    Hoja Nro  22
+PESOS                                                      Hoja Nro  22
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -1342,7 +1342,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 20/04/23
-DOLARES                                                    Hoja Nro  23
+PESOS                                                      Hoja Nro  23
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -1403,7 +1403,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 20/04/23
-DOLARES                                                    Hoja Nro  24
+PESOS                                                      Hoja Nro  24
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -1464,7 +1464,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 20/04/23
-DOLARES                                                    Hoja Nro  25
+PESOS                                                      Hoja Nro  25
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -1525,7 +1525,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 20/04/23
-DOLARES                                                    Hoja Nro  26
+PESOS                                                      Hoja Nro  26
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -1586,7 +1586,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 20/04/23
-DOLARES                                                    Hoja Nro  27
+PESOS                                                      Hoja Nro  27
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -1647,7 +1647,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 20/04/23
-DOLARES                                                    Hoja Nro  28
+PESOS                                                      Hoja Nro  28
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -1708,7 +1708,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 20/04/23
-DOLARES                                                    Hoja Nro  29
+PESOS                                                      Hoja Nro  29
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -1769,7 +1769,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 20/04/23
-DOLARES                                                    Hoja Nro  30
+PESOS                                                      Hoja Nro  30
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -1830,7 +1830,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 20/04/23
-DOLARES                                                    Hoja Nro  31
+PESOS                                                      Hoja Nro  31
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -1891,7 +1891,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 20/04/23
-DOLARES                                                    Hoja Nro  32
+PESOS                                                      Hoja Nro  32
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -1952,7 +1952,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 20/04/23
-DOLARES                                                    Hoja Nro  33
+PESOS                                                      Hoja Nro  33
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
