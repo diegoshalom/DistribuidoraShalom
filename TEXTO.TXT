@@ -878,7 +878,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 69.888075  tijera 888/7 1/2 peluquero ............. UNI   _1,701.560
 69.911000  alicate cuticula 911 ................... UNI   _2,060.610
 69.914000  alicate de uñas 914 .................... UNI   _2,415.930
-69.920000  tijera Condor/6 ........................ UNI   _2,224.200
+69.920000  tijera Condor/6 ........................ UNI   _2,678.500
 69.921000  tijera Condor/7 ........................ UNI   _2,669.700
 69.930000  tijera bordar Condor ................... UNI   _1,716.000
 69.940000  U tijera de XIAN K18 ................... UNI   _1,600.830
