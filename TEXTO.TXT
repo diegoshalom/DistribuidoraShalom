@@ -1,5 +1,5 @@
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 11/07/23
+     LISTA DE PRECIOS al: 01/08/23
 PESOS                                                      Hoja Nro   1
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -26,12 +26,12 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 01.340000  agujas acunadas ........................ Doc   _  178.200
 01.350000  aguja para FIELTRO x7 .................. UNI   _  299.000
 01.360000  U enhebrador chino ..................... UNI   _   34.000
-02.400000  Tomapuntos chico-106/1- ................ Doc   _2,690.000
-02.410000  Tomapuntos gde-106/2- .................. Doc   _2,960.000
+02.400000  Tomapuntos chico-106/1- ................ Doc   _2,880.000
+02.410000  Tomapuntos gde-106/2- .................. Doc   _3,240.000
 02.420000  Tomapuntos IMRA ........................ UNI   _   71.000
 02.430000  Aguja Tunecina 3.1/2-8 ................. UNI   _   73.600
 04.000500  lana NACHITO ........................... UNI   _5,256.500
-04.000501  lana NACHITO matizado .................. UNI   _5,404.370
+04.000501  lana NACHITO matizado .................. UNI   _5,600.000
 04.000504  lana SUPER AJUAR / matizado ............ UNI   _6,248.710
 04.000507  kilo SWEET BABY ........................ UNI   _4,566.580
 04.000514  lana PREMIUM ........................... UNI   _4,215.430
@@ -39,9 +39,9 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 04.000614  kilo MACRAME cl. ....................... UNI   _7,147.520
 04.000615  kilo MACRAME med. ...................... UNI   _8,330.110
 04.000616  kilo MACRAME osc. ...................... UNI   _9,066.310
-04.000663  kilo SOLE cl. .......................... UNI   _5,435.760
-04.000664  kilo SOLE med. ......................... UNI   _6,071.990
-04.000665  kilo SOLE osc. ......................... UNI   _6,296.400
+04.000663  kilo SOLE cl. .......................... UNI   _5,330.000
+04.000664  kilo SOLE med. ......................... UNI   _6,753.000
+04.000665  kilo SOLE osc. ......................... UNI   _6,988.000
 04.000666  kilo SOLE MATIZADO ..................... UNI   _6,394.940
 04.000668  Kg lana SOFTI .......................... UNI   _4,974.490
 04.000669  kilo FAMILIA HERTZ ..................... UNI   _4,974.490
@@ -49,191 +49,186 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 04.000671  Kilo JOR FRANC ......................... UNI   _5,770.810
 04.000672  ovillos PERUANO claros ................. UNI   _9,048.200
 04.000673  kilo CASH-LHO .......................... UNI   _5,770.810
-04.201000  doc agujas tejer aluminio 2 ............ UNI   _4,158.000
-04.202000  doc agujas tejer aluminio 2 1/2 ........ UNI   _5,016.000
-04.203000  doc agujas Tejer SILVER 3 .............. UNI   _5,247.000
-04.203500  doc agujas Tejer SILVER 3 1/2 .......... UNI   _5,489.000
-04.204000  doc agujas Tejer Aluminio 4 ............ UNI   _5,764.000
-04.204500  doc.agujas Tejer Aluminio 4 1/2 ........ UNI   _5,940.000
-04.205000  doc agujas Tejer SILVER 5 .............. UNI   _6,248.000
-04.205500  doc agujas Tejer SILVER 5 1/2 .......... UNI   _6,721.000
-04.206000  doc agujas Tejer SILVER 6 .............. UNI   _7,315.000
+04.201000  doc agujas tejer aluminio 2 ............ UNI   _4,490.640
+04.202000  doc agujas tejer aluminio 2 1/2 ........ UNI   _5,417.280
+04.203000  doc agujas Tejer SILVER 3 .............. UNI   _5,666.760
+04.203500  doc agujas Tejer SILVER 3 1/2 .......... UNI   _5,928.120
+04.204000  doc agujas Tejer Aluminio 4 ............ UNI   _6,225.120
+04.204500  doc.agujas Tejer Aluminio 4 1/2 ........ UNI   _6,415.200
+04.205000  doc agujas Tejer SILVER 5 .............. UNI   _6,747.840
+04.205500  doc agujas Tejer SILVER 5 1/2 .......... UNI   _7,258.680
+04.206000  doc agujas Tejer SILVER 6 .............. UNI   _7,900.200
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 11/07/23
+     LISTA DE PRECIOS al: 01/08/23
 PESOS                                                      Hoja Nro   2
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
-04.207000  doc agujas Tejer SILVER 7 .............. UNI   _7,502.000
-04.208000  doc agujas Tejer SILVER 8 .............. UNI   _8,459.000
-04.209000  doc agujas Tejer SILVer 9 .............. UNI   _9,603.000
-04.209100  doc agujas Tejer SILVER 10 ............. UNI   _%11,523.600
-04.209110  doc.agujas Tejer Aluminio 11 ........... UNI   _%12,650.000
-04.209120  doc agujas Tejer SILVER 12 ............. UNI   _%13,739.000
-04.209140  doc agujas Tejer SILVER 14 ............. UNI   _%16,335.000
-04.316000  doc agujas tejer Silver 16 ............. UNI   _%16,610.000
+04.207000  doc agujas Tejer SILVER 7 .............. UNI   _8,102.160
+04.208000  doc agujas Tejer SILVER 8 .............. UNI   _9,135.720
+04.209000  doc agujas Tejer SILVer 9 .............. UNI   _%10,371.240
+04.209100  doc agujas Tejer SILVER 10 ............. UNI   _%12,445.490
+04.209110  doc.agujas Tejer Aluminio 11 ........... UNI   _%13,662.000
+04.209120  doc agujas Tejer SILVER 12 ............. UNI   _%14,838.120
+04.209140  doc agujas Tejer SILVER 14 ............. UNI   _%17,641.800
+04.316000  doc agujas tejer Silver 16 ............. UNI   _%17,938.800
 04.318000  doc agujas Tejer Silver 18 ............. UNI   _%17,160.000
 05.000000  AGUJAS de MANO ......................... Mt               
-05.220000  ag.cuero maq.705/18x5U ................. Sob   _  932.760
-05.312000  aguja DOBLE Singer ..................... UNI   _  632.560
-05.313000  aguja doble 90/14 ...................... UNI   _  456.810
-05.314000  Aguja Cuero de Mano 3-5x25u ............ Sob   _4,390.560
+05.220000  ag.cuero maq.705/18x5U ................. Sob   _1,119.320
+05.312000  aguja DOBLE Singer ..................... UNI   _  759.080
+05.313000  aguja doble 90/14 ...................... UNI   _  548.180
+05.314000  Aguja Cuero de Mano 3-5x25u ............ Sob   _6,900.000
 05.350000  agujas MULTIUSO x5U jap. ............... Sob   _  198.360
-08.010000  Aguja Singer 2020 x10u ................. Sob   _1,072.500
-08.020000  Aguja Singer 2045 x10U ................. Sob   _1,122.000
-08.030000  Aguja máquina Familiar ................. Doc   _  229.900
-08.040000  agujas PB x10U ......................... Sob   _  242.000
-08.050000  Aguja Industx10U ....................... Sob   _  267.070
-08.060000  ag.ind.PB .............................. Sob   _  272.250
-08.070000  Aguja máq. Overlockx10U ................ Sob   _  295.480
-08.110000  Aguja Mano ............................. Sob   _  578.990
-08.120000  Aguja sastre ........................... Sob   _   62.530
-08.13      agujas p/fieltro x7u ................... UNI   _1,144.250
-08.131000  Aguja Curva gde x10u ................... Sob   _  905.130
-08.140000  Aguja matambrera x 25u ................. Sob   _  229.900
-08.150000  Aguja Pellonera no.6/0x25u ............. Sob   _  228.410
-08.160000  Aguja Colchonera Rec/Curv .5-6 ......... Sob   _2,117.500
-08.170000  agujas p/CIEGOS x12U ................... Sob   _  471.900
-08.180000  agujas lana PLAST. Silver .............. Doc   _  860.900
-08.190000  sobre lana x6 .......................... Sob   _  511.640
-08.200000  agujas lana gorda x10U ................. Sob   _  544.660
-08.210000  ag. lana finita x25U ................... Sob   _  886.420
+08.010000  Aguja Singer 2020 x10u ................. Sob   _1,550.000
+08.020000  Aguja Singer 2045 x10U ................. Sob   _1,500.000
+08.030000  Aguja máquina Familiar ................. Doc   _  275.880
+08.040000  agujas PB x10U ......................... Sob   _  290.400
+08.050000  Aguja Industx10U ....................... Sob   _  320.490
+08.060000  ag.ind.PB .............................. Sob   _  326.700
+08.070000  Aguja máq. Overlockx10U ................ Sob   _  354.580
+08.110000  Aguja Mano ............................. Sob   _  410.000
+08.120000  Aguja sastre ........................... Sob   _   75.040
+08.13      agujas p/fieltro x7u ................... UNI   _1,373.100
+08.131000  Aguja Curva gde x10u ................... Sob   _1,086.160
+08.140000  Aguja matambrera x 25u ................. Sob   _  275.880
+08.150000  Aguja Pellonera no.6/0x25u ............. Sob   _  274.100
+08.160000  Aguja Colchonera Rec/Curv .5-6 ......... Sob   _2,541.000
+08.170000  agujas p/CIEGOS x12U ................... Sob   _  340.000
+08.180000  agujas lana PLAST. Silver .............. Doc   _1,033.080
+08.190000  sobre lana x6 .......................... Sob   _  613.970
+08.200000  agujas lana gorda x10U ................. Sob   _  588.240
+08.210000  ag. lana finita x25U ................... Sob   _  957.340
 08.213000  Ag. CROCHET SILVER ..................... Mt               
-08.214000  Crochet Silver 0000/14 ................. Doc   _3,388.000
-08.214100  crochet aluminio 2 a 3.5 ............... UNI   _4,112.620
-08.214110  doc crochet aluminio 4-4.5 ............. UNI   _5,261.990
-08.214200  doc agujas crochet aluminio 5-5.5 ...... UNI   _5,706.480
-08.216     doc agujas crochet al.6/7 .............. UNI   _6,484.810
-08.218000  doc agujas crochet aluminio 8-9 ........ UNI   _6,545.550
-08.220000  crochet aluminio 10.0 .................. DOC   _6,681.930
-08.230000  Crochet aluminio 12.0 .................. UNI   _7,925.500
+08.214000  Crochet Silver 0000/14 ................. Doc   _3,659.040
+08.214100  crochet aluminio 2 a 3.5 ............... UNI   _4,441.640
+08.214110  doc crochet aluminio 4-4.5 ............. UNI   _5,682.960
+08.214200  doc agujas crochet aluminio 5-5.5 ...... UNI   _6,163.010
+08.216     doc agujas crochet al.6/7 .............. UNI   _7,003.610
+08.218000  doc agujas crochet aluminio 8-9 ........ UNI   _7,069.200
+08.220000  crochet aluminio 10.0 .................. DOC   _7,216.490
+08.230000  Crochet aluminio 12.0 .................. UNI   _9,510.600
 08.400000  AGUJAS SURTIDAS ........................ Mt               
-08.500000  Canastita Gde agujas ................... UNI   _  223.850
-08.510000  Canastita Chica de agujas .............. UNI   _   91.020
-08.800000  Aguja Indio surtidas ................... Car   _  544.500
-09.100000  Roseta jap. perlada .................... UNI   _  229.670
-09.110000  roseta china REGAL ..................... UNI   _  226.320
-09.210000  alfiler Silver x 20 gs ................. Caj   _  677.610
-09.220000  alfiler en caja LOTUS x25g ............. Caj   _  335.250
-09.820000  Alfiler Bebé gde c/seguro .............. Car   _  543.440
-09.830000  Alfiler Bebé chico c/seguro ............ Doc   _  673.400
-09.870000  Alfiler Dor/Plat Niquel 00/000 ......... Caj   _4,791.600
+08.500000  Canastita Gde agujas ................... UNI   _  155.000
+08.510000  Canastita Chica de agujas .............. UNI   _  109.230
+08.800000  Aguja Indio surtidas ................... Car   _  653.400
+09.100000  Roseta jap. perlada .................... UNI   _  275.610
+09.110000  roseta china REGAL ..................... UNI   _  271.590
+09.210000  alfiler Silver x 20 gs ................. Caj   _  813.140
+09.220000  alfiler en caja LOTUS x25g ............. Caj   _  402.300
+09.820000  Alfiler Bebé gde c/seguro .............. Car   _  652.130
+09.830000  Alfiler Bebé chico c/seguro ............ Doc   _  808.080
+09.870000  Alfiler Dor/Plat Niquel 00/000 ......... Caj   _5,749.920
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 11/07/23
+     LISTA DE PRECIOS al: 01/08/23
 PESOS                                                      Hoja Nro   3
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
-09.900000  Alfiler 0/1/2 gancho chino ............. Caj   _3,920.400
-09.910000  Alfiler 2/3/4 gancho chino ............. Caj   _3,448.500
-09.911000  Alfiler Nro  1 gancho .................. Caj   _6,034.210
-09.912000  Alfiler Nro  0 gancho .................. Caj   _5,159.180
-09.920000  Alfiler Nro  2 gancho .................. Caj   _3,386.070
-09.940000  Alfiler Nro 3 y 4 gancho ............... Caj   _3,522.780
-09.941000  costurero de viaje ..................... UNI   _  925.650
-09.942000  U pasacinta ............................ UNI   _   95.590
-09.981000  ALFILER de gancho p/falda 57mm ......... Caj   _  649.440
+09.900000  Alfiler 0/1/2 gancho chino ............. Caj   _4,704.480
+09.910000  Alfiler 2/3/4 gancho chino ............. Caj   _4,138.200
+09.911000  Alfiler Nro  1 gancho .................. Caj   _7,241.060
+09.912000  Alfiler Nro  0 gancho .................. Caj   _6,191.020
+09.920000  Alfiler Nro  2 gancho .................. Caj   _4,063.290
+09.940000  Alfiler Nro 3 y 4 gancho ............... Caj   _4,227.340
+09.941000  costurero de viaje ..................... UNI   _1,110.780
+09.942000  U pasacinta ............................ UNI   _  114.710
+09.981000  ALFILER de gancho p/falda 57mm ......... Caj   _  779.330
 10.        art.varios ............................. UNI              
-10.000000  Abreojal chino chico ................... UNI   _  163.560
-10.010000  abreojal jap. .......................... UNI   _  399.980
-10.011000  marcadores de puntos x100 .............. Pza   _1,427.800
-10.0111    abnreojal chino GDE. ................... UNI   _  243.580
-10.012000  doc alf. falda 57mm .................... UNI   _  626.710
-10.014000  carretel maq. metal .................... UNI   _  110.480
-10.015000  carretel maq.industrial ................ UNI   _  107.870
-10.020000  Enhebradores x100 ...................... Paq   _2,395.800
-10.021000  Carretelito plástico ................... UNI   _   68.900
-10.022000  doc alf.falda 63mm ..................... UNI   _  871.400
-10.028000  Enhebradores japoneses x50u ............ Paq   _4,791.600
-10.029000  enhebrador MAGICO ...................... Paq   _  111.380
+10.000000  Abreojal chino chico ................... UNI   _  196.280
+10.010000  abreojal jap. .......................... UNI   _  479.980
+10.011000  marcadores de puntos x100 .............. Pza   _1,713.360
+10.0111    abnreojal chino GDE. ................... UNI   _  292.300
+10.012000  doc alf. falda 57mm .................... UNI   _  752.060
+10.014000  carretel maq. metal .................... UNI   _   60.000
+10.015000  carretel maq.industrial ................ UNI   _  129.450
+10.020000  Enhebradores x100 ...................... Paq   _2,874.960
+10.021000  Carretelito plástico ................... UNI   _   40.000
+10.022000  doc alf.falda 63mm ..................... UNI   _1,045.680
+10.028000  Enhebradores japoneses x50u ............ Paq   _5,749.920
+10.029000  enhebrador MAGICO ...................... Paq   _  133.660
 10.030000  TANZAS Y CENTIMETROS ................... Mt               
-10.032000  Centímetro Mexicano .................... Doc   _5,820.100
-10.033000  Centímetro Chino gr .................... Doc   _2,442.130
-10.034000  cm 10A ................................. UNI   _4,455.000
-10.035100  Tanza Elastica 0.40 x20m ............... Pza   _  306.130
-10.036000  Tanza 20mm 25mm ........................ Pza   _  511.420
-10.038000  Tanza x 100m  30mm ..................... Pza   _  580.800
-10.039000  Tanza x 100m  35mm ..................... Pza   _  729.600
-10.040000  Tanza 40mm ............................. Pza   _  843.330
-10.041000  Tanza 50mm ............................. Pza   _  949.850
-10.041110  Tanza 60mm ............................. Pza   _1,427.800
-10.041111  tanza 70mm ............................. UNI   _1,561.430
-10.043000  Ruleta Marcar Plástico ................. UNI   _  326.700
-10.044000  Ruleta marcar madera ................... UNI   _  387.200
-10.045000  cortahilacha metal ..................... Doc   _3,068.230
-10.045100  cortahilachas c/dedo ................... UNI   _  565.390
-10.046100  Tiza gde sastre x10u ................... Caj   _1,820.810
-10.046200  Tiza chica sastre x10u ................. Caj   _1,790.470
+10.032000  Centímetro Mexicano .................... Doc   _6,984.120
+10.033000  Centímetro Chino gr .................... Doc   _2,930.560
+10.034000  cm 10A ................................. UNI   _4,880.000
+10.035100  Tanza Elastica 0.40 x20m ............... Pza   _  367.360
+10.036000  Tanza 20mm 25mm ........................ Pza   _  613.710
+10.038000  Tanza x 100m  30mm ..................... Pza   _  696.960
+10.039000  Tanza x 100m  35mm ..................... Pza   _  875.520
+10.040000  Tanza 40mm ............................. Pza   _1,012.000
+10.041000  Tanza 50mm ............................. Pza   _1,139.820
+10.041110  Tanza 60mm ............................. Pza   _1,713.360
+10.041111  tanza 70mm ............................. UNI   _1,873.720
+10.043000  Ruleta Marcar Plástico ................. UNI   _  392.040
+10.044000  Ruleta marcar madera ................... UNI   _  464.640
+10.045000  cortahilacha metal ..................... Doc   _3,681.880
+10.045100  cortahilachas c/dedo ................... UNI   _  678.470
+10.046100  Tiza gde sastre x10u ................... Caj   _2,184.980
+10.046200  Tiza chica sastre x10u ................. Caj   _2,148.570
 10.046250  HILO CONO, ESTUCHE,TIJ PLEG ............ Mt               
-10.046300  Cono hilo poliester .................... UNI   _  826.480
-10.046310  Estuche Agujas disco ................... UNI   _  223.850
+10.046300  Cono hilo poliester .................... UNI   _  991.780
+10.046310  Estuche Agujas disco ................... UNI   _  268.620
 10.04640   tij.pleable x doc ...................... UNI              
-10.046400  TIJERITAS plegables .................... Doc   _7,821.820
-10.047000  agujas INDIO ........................... UNI   _  440.180
-10.047100  Dedales metal x48u ..................... Paq   _3,227.360
-10.047200  Monofilamento x 100m ................... Doc   _1,581.230
+10.046400  TIJERITAS plegables .................... Doc   _9,386.190
+10.047000  agujas INDIO ........................... UNI   _  528.220
+10.047100  Dedales metal x48u ..................... Paq   _3,872.840
+10.047200  Monofilamento x 100m ................... Doc   _1,897.480
 10.047250  HILO CHINO Y ART. COSTURA .............. Mt               
-10.047300  hilo surtido gdes. ..................... Caj   _2,100.320
-10.047400  Mozku hilo chino chico ................. Caj   _  829.330
-10.047500  Alfiletero TOMATE chico ................ Pza   _  279.510
-10.047600  Alfiletero TOMATE grande ............... Pza   _  227.300
-10.047700  silic.liq.50cc xdocena ................. UNI   _7,840.800
+10.0473     ....................................... UNI              
+10.047400  Mozku hilo chino chico ................. Caj   _  995.200
+10.047700  silic.liq.50cc xdocena ................. UNI   _9,408.960
+10.047800  silic.liq.100cc xdocena ................ UNI   _%12,944.990
+10.048000  dedales plasticos x48 .................. UNI   _1,205.160
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 11/07/23
+     LISTA DE PRECIOS al: 01/08/23
 PESOS                                                      Hoja Nro   4
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
-10.047800  silic.liq.100cc xdocena ................ UNI   _%10,787.490
-10.047900  Caja hilo 450m x6u ..................... UNI   _1,098.080
-10.048000  dedales plasticos x48 .................. UNI   _1,004.300
-10.048100  Dedal alemán/ ded.sastre ............... UNI   _  574.390
-10.0482    hilo pol.500yds x12u ................... UNI              
-10.048200  hilo chino 450m ........................ UNI   _1,396.080
+10.048100  Dedal alemán/ ded.sastre ............... UNI   _  758.200
 10.04821   hilo pol. 500yds x12u .................. UNI   _2,734.880
-10.07000   ALFILERES Y BROCHES SAETA .............. Pza              
+10.07000   ALFILERES Y BROCHES SAETA .............. PZA              
 10.079000  ALFILER GCHO, BROCHE Y PRES ............ Pza              
-10.090000  Alfiler x 9grs ......................... Caj   _  328.020
-10.200000  Alfiler x 20grs ........................ Caj   _  645.520
-10.250000  Alfiler x 25grs ........................ Caj   _  539.860
-10.460000  Alfiler x 46grs ........................ Caj   _  971.100
-10.500000  Alfiler x 50grs ........................ Caj   _  745.210
-10.950000  alfiler X 95GS 0 ....................... Caj   _1,518.920
-10.951000  alfiler X 95 gs 1 ...................... Caj   _1,441.000
-10.953000  Alfiler x 95grs 2 al 7 ................. Caj   _1,513.780
-10.954000  Alfiler x 95grs xkilo .................. Caj   _%19,019.640
+10.090000  Alfiler x 9grs ......................... Caj   _  360.830
+10.200000  Alfiler x 20grs ........................ Caj   _  710.080
+10.250000  Alfiler x 25grs ........................ Caj   _  593.850
+10.460000  Alfiler x 46grs ........................ Caj   _1,068.210
+10.500000  Alfiler x 50grs ........................ Caj   _  819.730
+10.950000  alfiler X 95GS 0 ....................... Caj   _1,670.820
+10.951000  alfiler X 95 gs 1 ...................... Caj   _1,585.100
+10.953000  Alfiler x 95grs 2 al 7 ................. Caj   _1,665.160
+10.954000  Alfiler x 95grs xkilo .................. Caj   _%20,921.610
 10.980000  ABREOJAL, ENEBRADOR, TIZA .............. Pza              
-11.010000  Alfiler Erizo cajas .................... Paq   _3,471.950
-12.130000  NINON 1/3 alfiler gancho ............... Gru   _4,554.010
-12.450000  NINON 4/5 alfiler gancho ............... Gru   _5,259.560
-13.010000  ESTILETO 1 alfiler gancho .............. Caj   _4,066.700
-13.020000  ESTILETO 2 alfiler gancho .............. Caj   _4,346.760
-13.030000  ESTILETO 3 alfiler gancho .............. Caj   _4,359.980
-13.040000  ESTILETO 4 alfiler gancho .............. Caj   _4,785.100
-13.050000  ESTILETO 5 alfiler gancho .............. Caj   _6,027.700
-14.060000  Broche de gancho 6 Bco ................. Caj   _4,694.340
-14.061000  broche de gancho 6Neg. ................. Caj   _4,907.290
-14.080000  broche de gancho 8Bco .................. Caj   _5,008.940
-14.081000  broche de gancho 8Neg. ................. Caj   _5,275.040
-14.100000  broche de gancho 10 bco ................ Caj   _5,158.920
-14.101000  broche de gancho 10Neg. ................ Caj   _5,516.960
-14.120000  broche de gancho 12Bco ................. Caj   _5,275.040
-14.121000  broche de gancho 12Neg. ................ Caj   _5,758.960
-14.140000  broche de gancho 14Bco ................. Caj   _5,454.090
-14.141000  broche de gancho 14Neg. ................ Caj   _5,928.350
+11.010000  Alfiler Erizo cajas .................... Paq   _3,819.150
+12.130000  NINON 1/3 alfiler gancho ............... Gru   _5,009.420
+12.450000  NINON 4/5 alfiler gancho ............... Gru   _5,785.520
+13.010000  ESTILETO 1 alfiler gancho .............. Caj   _4,473.370
+13.020000  ESTILETO 2 alfiler gancho .............. Caj   _4,781.440
+13.030000  ESTILETO 3 alfiler gancho .............. Caj   _4,795.980
+13.040000  ESTILETO 4 alfiler gancho .............. Caj   _5,263.610
+13.050000  ESTILETO 5 alfiler gancho .............. Caj   _6,630.470
+14.060000  Broche de gancho 6 Bco ................. Caj   _5,163.780
+14.061000  broche de gancho 6Neg. ................. Caj   _5,398.020
+14.080000  broche de gancho 8Bco .................. Caj   _5,509.840
+14.081000  broche de gancho 8Neg. ................. Caj   _5,802.550
+14.100000  broche de gancho 10 bco ................ Caj   _5,674.820
+14.101000  broche de gancho 10Neg. ................ Caj   _6,068.660
+14.120000  broche de gancho 12Bco ................. Caj   _5,802.550
+14.121000  broche de gancho 12Neg. ................ Caj   _6,334.860
+14.140000  broche de gancho 14Bco ................. Caj   _5,999.500
+14.141000  broche de gancho 14Neg. ................ Caj   _6,521.190
 15          ....................................... PAPEL            
-15.000000  pulpo 0/8 broche presion ............... PAPEL _2,962.430
-15.030000  pulpo 3 broche presion ................. PAPEL _6,223.470
-15.100000  pulpo 1/7 broche presion ............... PAPEL _2,943.000
-15.110000  pulpo 11 broche presion ................ PAPEL _4,369.620
-15.200000  pulpo 2/9 broche presion ............... PAPEL _3,433.500
-15.400000  PULPO 4 BROCHE PRESION ................. DOC   _3,615.710
-15.600000  pulpo 6 broche presion ................. DOCENA_4,557.500
-16.100000  Clips NINON ............................ Gru   _2,012.430
-16.110800  agujas crochet 8/9 SAETA ............... Doc   _6,402.130
+15.000000  pulpo 0/8 broche presion ............... PAPEL _3,258.680
+15.030000  pulpo 3 broche presion ................. PAPEL _6,845.820
+15.100000  pulpo 1/7 broche presion ............... PAPEL _3,237.300
+15.110000  pulpo 11 broche presion ................ PAPEL _4,806.590
+15.200000  pulpo 2/9 broche presion ............... PAPEL _3,776.850
+15.400000  PULPO 4 BROCHE PRESION ................. DOC   _3,977.280
+15.600000  pulpo 6 broche presion ................. DOCENA_5,013.250
+16.100000  Clips NINON ............................ Gru   _2,213.680
+16.110800  agujas crochet 8/9 SAETA ............... Doc   _7,042.350
 16.111000  agujas crochet 10 SAETA ................ Doc   _1,574.910
 17.000000  CEPILLOS y ANILINAS .................... Pza              
 17.000001  sacamota ............................... UNI   _  530.000
@@ -241,109 +236,116 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 17.000003  cardar cepillo ......................... UNI   _  425.000
 17.000004  ANILINAS ............................... Pza              
 17.100000  Decolorante Colibrí .................... Sob   _1,033.540
-=====================================================================
-SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 11/07/23
-PESOS                                                      Hoja Nro   5
----------------------------------------------------------------------
-CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
-=====================================================================
 17.200000  Anilina Frío Colibrí ................... Sob   _  468.220
 17.300000  Anilina Polyester Colibrí .............. Sob   _1,082.410
 17.400000  Blanqueador Colibrí .................... Sob   _  389.500
 17.460000  anilina a la grasa 10g ................. UNI   _  214.200
 17.970000  MARCADOR, ARPILLERA, VELCRO ............ PZA              
-17.980000  BALLENA, TUL, PAÑO Y TAFETA ............ Pza              
-18.091000  fantasia 0910 x10m ..................... Pza   _  266.000
-18.150000  mt ARPILLERA ........................... UNI   _1,245.000
-18.200000  ballena angosta x25m ................... Pza   _2,725.000
-18.210000  ballena ancha x10m ..................... Pza   _2,580.000
-18.300000  Mt velcro BIFAZ 2cm .................... UNI   _  388.690
-18.320000  velcro 2 cm ............................ Pza   _1,569.330
-18.320025   Velcro 2,5cm .......................... UNI   _1,733.260
-18.320050  velcro 5cm ............................. Pza   _4,137.320
-18.320051  velcro 5cm COLOR ....................... Pza   _4,270.860
-18.320055  cierre de contacto 100 mm .............. Pza   _8,904.000
-18.320060  Velcro autoad.  2cm .................... Pza   _5,345.180
-18.320070  Velcro autoad. 50 mm ................... Pza   _%13,512.090
-18.320075  mt velcro doble faz 2cm ................ UNI   _  839.340
-18.320100  Velcro 2cm color ....................... Pza   _1,741.850
-18.320110  2011 cordón raso x30m .................. Pza   _1,354.250
-18.320111  2011 cordón raso x30m multicol ......... Pza   _2,217.260
-18.320120  2012/0 cordón x50m ..................... Pza   _1,221.970
-18.320121  2012/1 cordón x50m ..................... Pza   _1,558.960
-18.330010  mt velcro BIFAZ 10mm ................... UNI   _  257.850
-18.330040  mt velcro BIFAZ 40mm ................... UNI   _  852.860
-18.330050  mt velcro BIFAZ 50mm ................... UNI   _  932.190
-18.330130  velcro BIFAZ 130mm ..................... UNI              
-18.330240  velcro BIFAZ 20mm ...................... UNI   _  655.000
-18.380000  extrafort x50m ......................... Pza   _2,204.800
-18.400000  Paño Lenci Sintético ................... Mt    _1,710.000
-18.510000  tafeta ................................. Mt    _  580.000
-18.520000  TUL .................................... Mt    _  240.000
-18.530000  TUL x metro ............................ UNI   _  250.000
-18.550000  TNT tela ............................... Mt    _  200.000
-18.560000  BANDERA tela 90cm ancho ................ Mt    _1,369.500
-18.603000  fantasia 603x10m ....................... Pza   _  709.970
-18.604000  fantasia 604x10m ....................... Pza   _1,415.550
-18.605000  fantasia 605x10m ....................... Pza   _  867.620
-18.750090  cinta escosesa-9  750-09 ............... UNI   _  622.070
-18.800000  ENTRETELA .............................. Pza              
-18.810011  Entret. 1001F/liviana pegar ............ Mt    _  670.000
-18.810012  Entretela 1002F med. pegar ............. Mt    _  755.000
-18.810014  Entretela 1004F gruesa. pegar .......... Mt    _  895.000
-18.811009  Entret 1001coser, liviana .............. Mt    _  260.450
-18.811010  Entretela1002C coser, mediana .......... Mt    _  274.530
-18.811012  Entretela 1004-C grue, cocer ........... Mt    _  505.000
-18.902000  cinta yute 902  x3m .................... Pza   _  482.680
-18.903000  cinta YUTE 903 x3m ..................... UNI   _  637.500
-18.904000  lienzo poliester ....................... Mt    _  345.970
-18.910000  linea bebe 910 x10m .................... Pza   _  570.120
-18.910800  linea bebe 9108 x10m ................... Pza   _  672.000
-18.912000  linea bebe 912 x10m .................... Pza   _  846.550
-18.923000  cordon yute 923 x5m .................... UNI   _  299.490
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 11/07/23
+     LISTA DE PRECIOS al: 01/08/23
+PESOS                                                      Hoja Nro   5
+---------------------------------------------------------------------
+CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
+=====================================================================
+17.980000  BALLENA, TUL, PAÑO Y TAFETA ............ Pza              
+18.091000  fantasia 0910 x10m ..................... Pza   _  266.000
+18.150000  mt ARPILLERA ........................... UNI   _1,600.000
+18.200000  ballena angosta x25m ................... Pza   _3,750.000
+18.210000  ballena ancha x10m ..................... Pza   _2,700.000
+18.300000  Mt velcro BIFAZ 2cm .................... UNI   _  388.690
+18.320000  velcro 2 cm ............................ Pza   _1,782.150
+18.320025   Velcro 2,5cm .......................... UNI   _1,889.260
+18.320050  velcro 5cm ............................. Pza   _4,509.680
+18.320051  velcro 5cm COLOR ....................... Pza   _4,655.240
+18.320055  cierre de contacto 100 mm .............. Pza   _9,705.360
+18.320060  Velcro autoad.  2cm .................... Pza   _5,826.250
+18.320070  Velcro autoad. 50 mm ................... Pza   _%14,728.180
+18.320075  mt velcro doble faz 2cm ................ UNI   _  914.880
+18.320100  Velcro 2cm color ....................... Pza   _1,898.620
+18.320110  2011 cordón raso x30m .................. Pza   _1,476.140
+18.320111  2011 cordón raso x30m multicol ......... Pza   _2,416.820
+18.320120  2012/0 cordón x50m ..................... Pza   _1,331.950
+18.320121  2012/1 cordón x50m ..................... Pza   _1,699.270
+18.330010  mt velcro BIFAZ 10mm ................... UNI   _  281.060
+18.330040  mt velcro BIFAZ 40mm ................... UNI   _  929.620
+18.330050  mt velcro BIFAZ 50mm ................... UNI   _1,016.090
+18.330130  velcro BIFAZ 130mm ..................... UNI              
+18.330240  velcro BIFAZ 20mm ...................... UNI   _  713.950
+18.380000  extrafort x50m ......................... Pza   _2,403.240
+18.400000  Paño Lenci Sintético ................... Mt    _1,863.900
+18.510000  tafeta ................................. Mt    _  882.900
+18.520000  TUL .................................... Mt    _  261.600
+18.530000  TUL x metro ............................ UNI   _  272.500
+18.550000  TNT tela ............................... Mt    _  218.000
+18.560000  BANDERA tela 90cm ancho ................ Mt    _1,492.760
+18.603000  fantasia 603x10m ....................... Pza   _  773.870
+18.604000  fantasia 604x10m ....................... Pza   _1,542.950
+18.605000  fantasia 605x10m ....................... Pza   _  945.710
+18.750090  cinta escosesa-9  750-09 ............... UNI   _  678.060
+18.800000  ENTRETELA .............................. Pza              
+18.810011  Entret. 1001F/liviana pegar ............ Mt    _  730.300
+18.810012  Entretela 1002F med. pegar ............. Mt    _  822.950
+18.810014  Entretela 1004F gruesa. pegar .......... Mt    _  975.550
+18.811009  Entret 1001coser, liviana .............. Mt    _  283.890
+18.811010  Entretela1002C coser, mediana .......... Mt    _  299.240
+18.811012  Entretela 1004-C grue, cocer ........... Mt    _  550.450
+18.902000  cinta yute 902  x3m .................... Pza   _  526.130
+18.903000  cinta YUTE 903 x3m ..................... UNI   _  694.880
+18.904000  lienzo poliester ....................... Mt    _  377.110
+18.910000  linea bebe 910 x10m .................... Pza   _  621.430
+18.910800  linea bebe 9108 x10m ................... Pza   _  732.480
+18.912000  linea bebe 912 x10m .................... Pza   _  922.740
+18.923000  cordon yute 923 x5m .................... UNI   _  326.450
+18.925000  cinta yute 925 x 5m .................... Pza   _  940.120
+18.926000  cordon yute 926 x5m .................... UNI   _  443.970
+18.930000  Cordon yute 930 x5m .................... UNI   _  359.070
+18.931000  cinta yute 931 x5m ..................... Pza   _1,104.650
+18.942000  cinta YUTE 942 x3m ..................... UNI   _  892.210
+=====================================================================
+SHALOM ELIAS                  
+     LISTA DE PRECIOS al: 01/08/23
 PESOS                                                      Hoja Nro   6
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
-18.925000  cinta yute 925 x 5m .................... Pza   _  862.490
-18.926000  cordon yute 926 x5m .................... UNI   _  407.310
-18.930000  Cordon yute 930 x5m .................... UNI   _  329.420
-18.931000  cinta yute 931 x5m ..................... Pza   _1,013.440
-18.942000  cinta YUTE 942 x3m ..................... UNI   _  818.540
-18.943000  fantasia 943 x10m ...................... Pza   _1,277.660
-18.945000  cinta Yute 945 x3m ..................... UNI   _  409.700
-18.946000  cinta yute 946 colores x10m ............ UNI   _1,006.090
-18.950000  cinta yute x3m 950 ..................... UNI   _  717.790
-18.951000  cinta yute x3m 951 ..................... UNI   _1,089.280
-18.952000  cinta yute 952 x3m ..................... UNI   _  815.070
-18.954000  cinta yute x 3m 954 .................... UNI   _  722.360
-18.955000  cinta YUTE 955 x3m ..................... UNI   _  787.040
+18.943000  fantasia 943 x10m ...................... Pza   _1,392.650
+18.94402   cinta yute x5m 944-02 .................. UNI   _  730.300
+18.94403   cinta yute x5m 944-03 .................. UNI   _1,030.050
+18.945000  cinta Yute 945 x3m ..................... UNI   _  860.010
+18.946000  cinta yute 946 colores x10m ............ UNI   _4,087.500
+18.947000  cinta yute x10m 947 .................... UNI   _4,087.500
+18.950000  cinta yute x3m 950 ..................... UNI   _1,106.350
+18.95025   cinta yute x3m 95025 ................... UNI   _1,106.350
+18.951000  cinta yute x3m 951 ..................... UNI   _1,711.300
+18.952000  cinta yute 952 x3m ..................... UNI   _1,711.300
+18.952035  cinta yute 952-35 ...................... UNI   _1,711.300
+18.95305   cinta yute x5m 953-5 ................... UNI   _1,422.450
+18.95309   cinta yute x5m 953-09 .................. UNI   _1,896.600
+18.954000  cinta yute x 3m 954 .................... UNI   _  787.380
+18.955000  cinta YUTE 955 x3m ..................... UNI   _  857.880
 18.968000  fantasia 968 x10m ...................... Pza   _  237.380
 19.000000  CORDON POLIP, REP. CORTINA ............. Pza              
 19.100000  CINTA PLASTICA ......................... Pza              
 20          ....................................... UNI              
-20.000001  Cordon Poliprop. x100m ................. Pza   _1,465.520
-20.000002  Argollas plásticas 6 ................... Doc   _   60.800
-20.003100  Ojales plásticos manual 31 ............. Gru   _2,240.000
-20.003200  Ojales plásticos manual 32 ............. Gru   _3,060.000
-20.003300  ojal manual dorado 31 .................. Gru   _2,568.830
-20.003400  ojal manual dorado 32 .................. Gru   _2,704.420
-20.010200  cin.fruncidora102 ...................... Pza   _3,186.100
-20.010300  Cinta fruncidora de 7cm ................ Pza   _6,454.790
-20.010400  Cinta ruf.pol.de 4 hilos ............... Pza   _4,540.880
-20.010500  Cinta ruf.pol.de 5 hilos ............... Pza   _4,649.370
-20.032700  327/326/329/30/31 x50m ................. Pza   _5,484.600
-20.032800  pieza 302  brooklin .................... UNI   _4,703.230
-20.100000  Ganch Rufl plást 1000u/833 ............. Paq   _2,286.900
-20.210000  Gancho Rufl.hierro1000-830 ............. Paq   _%13,222.880
-20.300000  Gancho cortina INGLES 831/10 ........... Paq   _7,816.600
-20.4       alfiler niquelado 832 x1000 ............ UNI   _9,922.000
-20.410000  alfiler niquelado 832 x500 ............. UNI   _5,500.000
-20.800000  Rollo Cint Plast.4.5cmx100m812 ......... UNI   _3,927.000
+20.000001  Cordon Poliprop. x100m ................. Pza   _1,612.080
+20.000002  Argollas plásticas 6 ................... Doc   _   66.880
+20.003100  Ojales plásticos manual 31 ............. Gru   _2,464.000
+20.003200  Ojales plásticos manual 32 ............. Gru   _3,366.000
+20.003300  ojal manual dorado 31 .................. Gru   _2,825.720
+20.003400  ojal manual dorado 32 .................. Gru   _2,974.870
+20.010200  cin.fruncidora102 ...................... Pza   _3,504.710
+20.010300  Cinta fruncidora de 7cm ................ Pza   _7,100.270
+20.010400  Cinta ruf.pol.de 4 hilos ............... Pza   _4,994.970
+20.010500  Cinta ruf.pol.de 5 hilos ............... Pza   _5,114.310
+20.032700  327/326/329/30/31 x50m ................. Pza   _6,033.060
+20.032800  pieza 302  brooklin .................... UNI   _5,173.560
+20.100000  Ganch Rufl plást 1000u/833 ............. Paq   _2,515.590
+20.210000  Gancho Rufl.hierro1000-830 ............. Paq   _%14,545.170
+20.300000  Gancho cortina INGLES 831/10 ........... Paq   _8,598.260
+20.4       alfiler niquelado 832 x1000 ............ UNI   _%10,914.200
+20.410000  alfiler niquelado 832 x500 ............. UNI   _6,050.000
+20.800000  Rollo Cint Plast.4.5cmx100m812 ......... UNI   _4,319.700
 20.900000  Rollo Cint Plast.7cmx100m 813 .......... UNI   _4,230.000
 25.001500  CIERRES INVISIBLES ..................... Pza              
 25.002000  u cierre invisible 14-16-18-20 ......... UNI   _  267.620
@@ -354,22 +356,22 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 26.015000  CIERRE 6MM FIJO Y SEP .................. Mt               
 26.100000  Cierre sport  fijo 08 a 14 ............. UNI   _   92.810
 26.160000  Cierre Sport  fijo 16 .................. UNI   _  101.230
-26.180000  Cierre Sport  fijo 18 .................. UNI   _  101.340
+26.180000  Cierre Sport  fijo 18 .................. UNI   _  103.000
 26.200000  Cierre Sport  fijo 20 .................. UNI   _   92.390
 27.250000  cierre sep  25cm ....................... UNI   _  137.520
-27.300000  cierre  sep 30cm ....................... UNI   _  145.610
+27.300000  cierre  sep 30cm ....................... UNI   _  160.000
 27.350000  Cierre   sep 35 ........................ UNI   _  149.080
 27.400000  Cierre   sep 40 ........................ UNI   _  151.390
 27.450000  Cierre   sep 45 ........................ UNI   _  153.010
-27.500000  Cierre   sep 50 ........................ UNI   _  181.050
-27.550000  Cierre   sep 55 ........................ UNI   _  184.900
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 11/07/23
+     LISTA DE PRECIOS al: 01/08/23
 PESOS                                                      Hoja Nro   7
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
+27.500000  Cierre   sep 50 ........................ UNI   _  181.050
+27.550000  Cierre   sep 55 ........................ UNI   _  184.900
 27.600000  Cierre   sep 60 ........................ UNI   _  187.250
 27.650000  Cierre   sep 65 ........................ UNI   _  192.530
 27.700000  Cierre   sep 70 ........................ UNI   _  197.710
@@ -415,31 +417,27 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 30.220000  desliz.  revers. EMPAVONADO ............ UNI   _   94.720
 30.300000  Deslizador dorado ...................... UNI   _   88.120
 30.310000  Reversible Bronce ...................... UNI   _  175.540
-30.320000  desl.cierre PLASTICO ................... UNI   _  103.790
+30.320000  desl.cierre PLASTICO ................... UNI   _  104.000
 30.330000  reversible DIENTE DP ................... UNI   _  110.740
 30.340000  revers. cierre plast. DP ............... UNI   _  126.490
 30.350000  Cadena Xmetro bronce ................... Mt    _  660.810
-30.360000  reversible diente/ plast. .............. UNI   _  157.040
-30.370000  desl.cierre DIENTE ..................... UNI              
+30.360000  reversible diente/ plast. .............. UNI   _  130.000
 30.380000  desl.cierre diente ..................... UNI   _  113.910
 30.400000  Tope abajo dorado ...................... UNI   _   63.420
-30.410000  Accesorios cierre ...................... UNI   _  189.420
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 11/07/23
+     LISTA DE PRECIOS al: 01/08/23
 PESOS                                                      Hoja Nro   8
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 30.420000  mtro cadena 4mm ........................ UNI   _  109.930
-30.430000  metro cadena 6mm ....................... UNI   _  120.060
 30.610000  Cadena Xmetro nylon 6mm ................ Mt    _  164.210
 30.710000  deslizador niquelado 8mm ............... UNI   _  145.400
-30.72       ....................................... UNI   _  303.680
 30.800000  CIERRE S/ENVASE 4mm .................... Pza              
 30.810000  deslizador niquelado 3mm ............... UNI              
 30.816000  u cierre 10/16 cm ...................... UNI   _   54.570
-30.818000  u cierre 18cm .......................... UNI   _   56.810
+30.818000  u cierre 18cm .......................... UNI   _   58.000
 30.820000  Cierre sin envase 20cm ................. UNI   _   69.450
 30.825000  Cierre sin envase 25cm ................. UNI   _   76.510
 30.830000  Cierre sin envase 30cm ................. UNI   _   82.390
@@ -458,9 +456,9 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 30.935000  cierre diente de perro 35cm ............ UNI   _  185.930
 30.940000  Cierre Diente de Perro 40cm ............ UNI   _  192.990
 30.945000  Cierre Diente de perro 45cm ............ UNI   _  199.150
-30.950000  Cierre Diente de perro 50cm ............ UNI   _  205.250
-30.955000  Cierre Diente de perro 55cm ............ UNI   _  211.340
-30.960000  Cierre Diente de perro 60cm ............ UNI   _  217.470
+30.950000  Cierre Diente de perro 50cm ............ UNI   _  220.000
+30.955000  Cierre Diente de perro 55cm ............ UNI   _  225.000
+30.960000  Cierre Diente de perro 60cm ............ UNI   _  230.000
 30.965000  Cierre diente de perro 65cm ............ UNI   _  231.350
 30.970000  Cierre diente de perro 70cm ............ UNI   _  237.970
 30.975000  Cierre diente de perro 75cm ............ UNI   _  250.230
@@ -480,20 +478,20 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 31.435000  Cierre aluminio separ 25/40 ............ UNI   _  285.830
 31.445000  Cierre aluminio sep 45/50 .............. UNI   _  308.910
 31.455000  Cierre Aluminio sep 55/60 .............. UNI   _  340.200
-31.465000  Cierre aluminio sep 65/70 .............. UNI   _  355.040
+31.465000  Cierre aluminio sep 65/70 .............. UNI   _  370.000
 31.475000  Cierre aluminio sep 75/80 .............. UNI   _  232.930
 32.000000  CINTA FALLETINA ........................ Mt               
 32.010500  Cinta Falletina 1 x 50 ................. Pza   _1,312.170
 32.020000  Cinta Falletina 2 ...................... Pza   _  473.710
+32.030000  Cinta Falletina 3 ...................... Pza   _  513.480
+32.050000  Cinta Falletina 5 ...................... Pza   _  696.730
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 11/07/23
+     LISTA DE PRECIOS al: 01/08/23
 PESOS                                                      Hoja Nro   9
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
-32.030000  Cinta Falletina 3 ...................... Pza   _  513.480
-32.050000  Cinta Falletina 5 ...................... Pza   _  696.730
 32.090000  Cinta Falletina 9 ...................... Pza   _  960.250
 32.120000  Cinta Falletina 12 ..................... Pza   _1,242.000
 32.130000  U fall 1x100 ........................... UNI   _2,400.480
@@ -541,20 +539,20 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 35.017000  gros 5 C.O. FLUO ....................... Pza   _1,222.070
 35.018000  gros de seda 9 FLUO .................... Pza   _1,266.040
 35.019000  gros de seda 12 FLUO ................... Pza   _  530.440
-35.030000  Gross seda 3 ........................... Pza   _  651.900
-35.050000  Gross seda 5 ........................... Pza   _  871.890
-35.090000  Gross seda 9 ........................... Pza   _1,482.220
+35.030000  Gross seda 3 ........................... Pza   _  691.020
+35.050000  Gross seda 5 ........................... Pza   _  924.210
+35.090000  Gross seda 9 ........................... Pza   _1,571.160
 35.120000  Gross seda 12 .......................... Pza   _1,690.500
 35.125000  CINTA BIES ............................. Mt               
+35.130000  Bies 13 mm Bco poplin .................. Pza   _1,088.410
+35.131000  Bies 13 mm Color poplin ................ Pza   _1,221.490
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 11/07/23
+     LISTA DE PRECIOS al: 01/08/23
 PESOS                                                      Hoja Nro  10
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
-35.130000  Bies 13 mm Bco poplin .................. Pza   _1,088.410
-35.131000  Bies 13 mm Color poplin ................ Pza   _1,221.490
 35.200000  Bies 20 mm Bco poplin .................. Pza   _1,150.720
 35.201000  Bies 20mm Color poplin ................. Pza   _1,242.000
 35.202000  LAME al bies 20mm dorado x25m .......... UNI   _4,617.630
@@ -606,106 +604,106 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 49.400000  Elástico 4 cm .......................... Pza   _1,931.160
 49.500000  Elástico 5 cm .......................... Pza   _2,593.500
 49.600000  Elástico 6 cm .......................... Pza   _2,894.000
-49.800000  Elástico Afelpado 30mm ................. Pza   _1,380.000
+49.800000  Elástico Afelpado 30mm ................. Pza   _2,980.000
+49.810000  elastico afelpado KIDS ................. Pza   _  352.570
+5.21000    AGUJAS COSER y ALFILERES ............... UNI              
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 11/07/23
+     LISTA DE PRECIOS al: 01/08/23
 PESOS                                                      Hoja Nro  11
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
-49.810000  elastico afelpado KIDS ................. Pza   _  352.570
-5.21000    AGUJAS COSER y ALFILERES ............... UNI              
-50.331100  Elást Bretel 3311 X 20m ................ Pza   _2,471.150
-50.331500  Elást Bretel 3315 x 20m ................ Pza   _2,886.000
-51.820000  Elástico redondo 82 bco ................ Pza   _1,256.080
-51.840000  Elástico redondo 84 bco ................ Pza   _1,417.950
-51.860000  Elástico redondo 86 bco ................ Pza   _1,489.160
-52.820000  Elástico redondo 82 neg ................ Pza   _1,528.010
-52.840000  Elástico redondo 84 neg ................ Pza   _1,774.040
-52.860000  Elástico redondo 86 neg ................ Pza   _2,020.080
-53.100000  Elástico liso 10 bco ................... Pza   _1,487.110
-53.120000  Elástico liso 12 bco ................... Pza   _1,707.400
-53.140000  Elástico liso 14 bco ................... Pza   _1,968.810
-53.160000  Elástico liso 16 bco ................... Pza   _2,294.990
-53.180000  Elástico liso 18 ....................... Pza   _3,102.680
-53.200000  Elástico liso 20 bco ................... Pza   _3,494.110
-53.220000  Elástico liso 22 bco ................... Pza   _3,818.690
-53.240000  Elástico liso 24 bco ................... Pza   _4,039.000
-53.280000  Elástico liso 28 bco ................... Pza   _4,773.340
-54.100000  Elástico liso 10 neg ................... Pza   _2,098.200
-54.120000  elastico liso 12 neg ................... Pza   _2,529.420
-54.140000  Elástico liso 14 neg ................... Pza   _2,998.670
-54.160000  Elástico liso 16 neg ................... Pza   _3,121.050
-54.180000  Elástico liso 18 neg ................... Pza   _4,596.660
-54.200000  Elástico liso 20 neg ................... Pza   _4,917.670
-54.220000  Elástico liso 22 neg ................... Pza   _5,267.930
-54.240000  Elástico liso 24 neg ................... Pza   _5,569.990
-54.280000  Elástico liso 28 neg ................... Pza   _6,756.120
-55.100000  elastico acordonado 10 ................. Pza   _2,092.400
-55.120000  Elástico acordonado 12 ................. Pza   _2,074.590
-55.140000  Elástico acordonado 14 ................. Pza   _2,978.980
-55.160000  Elástico acordonado 16 ................. Pza   _2,827.300
-55.180000  Elástico acordonado 18 ................. Pza   _3,616.720
+50.331100  Elást Bretel 3311 X 20m ................ Pza   _2,718.270
+50.331500  Elást Bretel 3315 x 20m ................ Pza   _3,174.600
+51.820000  Elástico redondo 82 bco ................ Pza   _1,381.690
+51.840000  Elástico redondo 84 bco ................ Pza   _1,559.750
+51.860000  Elástico redondo 86 bco ................ Pza   _1,638.080
+52.820000  Elástico redondo 82 neg ................ Pza   _1,680.810
+52.840000  Elástico redondo 84 neg ................ Pza   _1,951.450
+52.860000  Elástico redondo 86 neg ................ Pza   _2,222.090
+53.100000  Elástico liso 10 bco ................... Pza   _1,635.830
+53.120000  Elástico liso 12 bco ................... Pza   _1,878.140
+53.140000  Elástico liso 14 bco ................... Pza   _2,165.690
+53.160000  Elástico liso 16 bco ................... Pza   _2,524.490
+53.180000  Elástico liso 18 ....................... Pza   _3,412.950
+53.200000  Elástico liso 20 bco ................... Pza   _3,843.530
+53.220000  Elástico liso 22 bco ................... Pza   _4,200.560
+53.240000  Elástico liso 24 bco ................... Pza   _4,442.900
+53.280000  Elástico liso 28 bco ................... Pza   _5,250.680
+54.100000  Elástico liso 10 neg ................... Pza   _2,308.020
+54.120000  elastico liso 12 neg ................... Pza   _2,782.370
+54.140000  Elástico liso 14 neg ................... Pza   _3,298.540
+54.160000  Elástico liso 16 neg ................... Pza   _3,433.160
+54.180000  Elástico liso 18 neg ................... Pza   _5,056.330
+54.200000  Elástico liso 20 neg ................... Pza   _5,409.440
+54.220000  Elástico liso 22 neg ................... Pza   _5,794.730
+54.240000  Elástico liso 24 neg ................... Pza   _6,126.990
+54.280000  Elástico liso 28 neg ................... Pza   _7,431.740
+55.100000  elastico acordonado 10 ................. Pza   _2,301.640
+55.120000  Elástico acordonado 12 ................. Pza   _2,282.050
+55.140000  Elástico acordonado 14 ................. Pza   _3,276.880
+55.160000  Elástico acordonado 16 ................. Pza   _3,110.030
+55.180000  Elástico acordonado 18 ................. Pza   _3,978.400
 55.185000  TRENZA MULTICOLOR ...................... Mt               
-55.190000  Trenza multicolor ...................... UNI   _  656.770
-56.163100  CORDON polip.163 x50m bc ............... Pza   _1,503.710
+55.190000  Trenza multicolor ...................... UNI   _  722.450
+56.163100  CORDON polip.163 x50m bc ............... Pza   _1,654.090
 56.1632    art 163 x50m color ..................... UNI              
-56.163200  cono polipropileno x100m ............... UNI   _3,702.550
+56.163200  cono polipropileno x100m ............... UNI   _4,072.810
 56.381000  ELÁSTICO ALGODÓN ....................... MT               
-56.381100  elastico 4mm barbijo ................... UNI   _   27.820
-56.381500  elastico 3815 x25m ..................... Pza   _1,767.860
-56.3820    elastico 3820 x25m ..................... Pza   _2,027.090
-56.382500  elastico 3825 x25m ..................... Pza   _2,622.730
-56.383000  Elastico 3830 x25m ..................... Pza   _3,238.080
-56.383500  elastico 3835 x25m ..................... UNI   _3,676.060
-56.384000  elastico 3840 x25m ..................... UNI   _4,083.040
-56.385000  Elástico algodon 5cm x25m .............. Pza   _5,259.970
-56.386000  Elastico algodon 6cm x25m .............. Pza   _6,349.660
-56.517000  Elástico algodón 517 x50m .............. Pza   _2,587.070
-56.531000  Elástico algodón 531 x50m .............. Pza   _3,032.850
-56.548000  elastico 548x50m ....................... Pza   _3,160.080
-56.550000  Elástico algodón 550 x50m .............. Pza   _3,753.190
-56.552000  Elástico algodón 552 x50m .............. Pza   _5,477.700
-56.554000  Elástico algodón 554 x50m .............. Pza   _5,202.820
+56.381100  elastico 4mm barbijo ................... UNI   _   30.610
+56.381500  elastico 3815 x25m ..................... Pza   _1,944.650
+56.3820    elastico 3820 x25m ..................... Pza   _2,229.800
+56.382500  elastico 3825 x25m ..................... Pza   _2,885.010
+56.383000  Elastico 3830 x25m ..................... Pza   _3,561.890
+56.383500  elastico 3835 x25m ..................... UNI   _4,043.670
+56.384000  elastico 3840 x25m ..................... UNI   _4,491.350
+56.385000  Elástico algodon 5cm x25m .............. Pza   _5,785.970
+56.386000  Elastico algodon 6cm x25m .............. Pza   _6,984.630
+56.517000  Elástico algodón 517 x50m .............. Pza   _2,845.780
+56.531000  Elástico algodón 531 x50m .............. Pza   _3,336.140
+56.548000  elastico 548x50m ....................... Pza   _3,476.090
+56.550000  Elástico algodón 550 x50m .............. Pza   _4,128.510
+56.552000  Elástico algodón 552 x50m .............. Pza   _6,025.470
+56.554000  Elástico algodón 554 x50m .............. Pza   _5,723.110
+56.565000  2lastico 565 x25m ...................... UNI   _3,069.650
+56.573000  Elástico algodón 573 x25m .............. Pza   _5,723.300
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 11/07/23
+     LISTA DE PRECIOS al: 01/08/23
 PESOS                                                      Hoja Nro  12
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
-56.565000  2lastico 565 x25m ...................... UNI   _2,790.590
-56.573000  Elástico algodón 573 x25m .............. Pza   _5,203.000
-56.584000  Elástico algodón 584 x25m .............. Pza   _6,493.830
-56.596000  Elástico algodón 596 x25m .............. Pza   _7,748.490
-56.597000  Elástico algodón 597 x25m .............. Pza   _8,338.660
-56.598000  Elástico algodón 598 x25m .............. Pza   _9,223.990
-56.600000  Elástico algodón 600 x25m .............. Pza   _%10,846.950
-56.715000  elastico 715 ........................... Pza   _2,768.120
-56.720000  elastico 720 ........................... Pza   _3,435.920
-56.725000  elastico 725 ........................... Pza   _4,317.530
-56.730000  elastico 730 ........................... Pza   _5,165.650
-56.735000  elastico 735 ........................... Pza   _6,051.270
-56.740000  elastico 740 ........................... Pza   _6,863.120
-56.750000  elastico 750 ........................... Pza   _9,150.060
+56.584000  Elástico algodón 584 x25m .............. Pza   _7,143.220
+56.596000  Elástico algodón 596 x25m .............. Pza   _8,523.340
+56.597000  Elástico algodón 597 x25m .............. Pza   _9,172.530
+56.598000  Elástico algodón 598 x25m .............. Pza   _%10,146.390
+56.600000  Elástico algodón 600 x25m .............. Pza   _%11,931.650
+56.715000  elastico 715 ........................... Pza   _3,044.940
+56.720000  elastico 720 ........................... Pza   _3,779.520
+56.725000  elastico 725 ........................... Pza   _4,749.290
+56.730000  elastico 730 ........................... Pza   _5,682.220
+56.735000  elastico 735 ........................... Pza   _6,656.400
+56.740000  elastico 740 ........................... Pza   _7,549.440
+56.750000  elastico 750 ........................... Pza   _%10,065.070
 56.7630    elastico 30mm x50m ..................... UNI              
-56.763000  Elástico c/cordón 7630 20m ............. PZA   _4,895.320
-56.764000  Elástico c/cordón 7640 20m ............. PZA   _9,339.650
+56.763000  Elástico c/cordón 7630 20m ............. PZA   _5,384.860
+56.764000  Elástico c/cordón 7640 20m ............. PZA   _%10,273.620
 56.901200  Elastico 9012 x50m córdon .............. Pza   _1,890.000
 57.000000  HILOS .................................. Mt               
-57.120000  Hilo CADENA DIAG.450m Bco .............. CAJ   _8,350.000
-57.130000  Cadena Diagonal NEGRO .................. Caj   _8,860.000
-57.150000  DRIMA DIAGONAL 405 gde. ................ Caj   _4,560.000
-57.160000  Hilo Cadena chico x10u ................. Caj   _2,220.000
-57.200000  Hilo CadenaD. bobina x450m NEG ......... UNI   _  445.000
-57.210000  Hilo Cadena D. bobinna BLANCO .......... UNI   _  420.000
-57.250000  Hilo Pesponto jeans x30m ............... Caj   _1,065.000
-57.260000  Hilo Drima chico ....................... Caj   _2,030.000
+57.120000  Hilo CADENA DIAG.450m Bco .............. CAJ   _%12,480.000
+57.130000  Cadena Diagonal NEGRO .................. Caj   _%12,980.000
+57.150000  DRIMA DIAGONAL 405 gde. ................ Caj   _7,720.000
+57.160000  Hilo Cadena chico x10u ................. Caj   _3,938.000
+57.200000  Hilo CadenaD. bobina x450m NEG ......... UNI   _3,245.000
+57.210000  Hilo Cadena D. bobinna BLANCO .......... UNI   _3,120.000
+57.250000  Hilo Pesponto jeans x30m ............... Caj   _1,620.000
+57.260000  Hilo Drima chico ....................... Caj   _3,010.000
 57.270000  Mercer Croch x6ov.No.20/40 ............. Caj   _1,432.340
-57.300000  Hilo Perle chico x10ov. ................ Caj   _5,300.000
+57.300000  Hilo Perle chico x10ov. ................ Caj   _8,680.000
 57.310000  Hilo Mouline Metalizado x12mad ......... Caj   _1,828.450
-57.320000  Hilo Mouline x12madejas ................ Caj   _2,110.000
+57.320000  Hilo Mouline x12madejas ................ Caj   _3,190.000
 57.330000  Mouline Bilevich x12 ................... UNI   _1,715.670
 57.340000  Mouline Bilevich x24 ................... UNI   _2,325.150
 57.400000  Hilo Coselotodo chico 100m ............. Caj   _2,000.030
@@ -718,26 +716,26 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 58.160000  Bobina Guterman x450m bco .............. UNI   _  730.000
 58.170000  Bobina Guterman Gde color .............. UNI   _  800.000
 58.740000  Hilo Pespunte 10bx30m azul ............. Caj   _  328.600
-60.000000  Sedil fuerte ........................... Caj   _2,645.000
+60.000000  Sedil fuerte ........................... Caj   _2,910.000
 61.900005  lentejuelas x 1/2 kilo ................. Sob   _  760.360
 61.900007  canut/mostacillas ...................... Sob   _    4.770
 61.900010  lentejuelas x hilo x 80yardas .......... Pza   _1,450.000
 61.903000  Cono hilo elastico bco ................. UNI   _  468.700
 61.904000  Cono hilo elastico negro ............... UNI   _  498.130
 61.910000  hilo bordar maquina .................... Caj   _  186.640
-61.980000  ENCERADO x70m Cono hilo ................ UNI   _  359.700
-61.981000  encerado x70m cono hilo FLUO ........... UNI   _  414.200
+61.980000  ENCERADO x70m Cono hilo ................ UNI   _  348.000
+61.981000  encerado x70m cono hilo FLUO ........... UNI   _  398.000
 61.990000  Hilo elástico blanco ................... Caj   _1,534.720
 61.991000  Hilo elástico negro .................... Caj   _1,630.640
+61.992000  hilo elastico colores .................. Doc   _1,714.570
+61.993000  Lúrex Dor-Plat ......................... Doc   _  720.000
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 11/07/23
+     LISTA DE PRECIOS al: 01/08/23
 PESOS                                                      Hoja Nro  13
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
-61.992000  hilo elastico colores .................. Doc   _1,714.570
-61.993000  Lúrex Dor-Plat ......................... Doc   _  720.000
 62.000000  HOMBRERAS .............................. Mt               
 62.700000  hombreras 0 ............................ Par   _  354.180
 62.701000  Hombreras  No.1 ........................ Par   _  486.540
@@ -754,24 +752,24 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 62.917000  etiquetas termoadhesivas x72 ........... UNI   _  390.000
 62.920     bandera de tela argentina 1metro ....... UNI   _  890.400
 64.000000  PEGATELA, UHU, UNIPOX .................. Mt               
-64.133000  UHU x35ml .............................. UNI   _  605.000
-64.134000  UHU Frasco f cil ....................... UNI   _  572.210
-64.135000  UHU x7ml ............................... Mt    _  340.000
+64.133000  UHU x35ml .............................. UNI   _  665.500
+64.134000  UHU Frasco f cil ....................... UNI   _  629.440
+64.135000  UHU x7ml ............................... Mt    _  374.000
 64.136000  UHU 20ml ............................... Mt    _  425.000
 64.500000  Eccole peg. para zapatillas ............ UNI   _1,055.000
 64.999996  UNIPOX gel x24ml -silicona ............. UNI   _  152.080
-64.999997  Gotita peg. 2ml ........................ UNI   _  420.000
-64.999998  gotita GEL 3g. ......................... UNI   _  540.000
-64.999999  UNIPOX x25ml ........................... UNI   _  405.000
-65.100000  Pegamil UNIVERSAL x33ml ................ UNI   _  639.000
-65.110000  u pegamento para zapatillas ............ UNI   _  639.750
-65.200000  Pegatela Grande Instantáneo ............ UNI   _  572.320
+64.999997  Gotita peg. 2ml ........................ UNI   _  440.000
+64.999998  gotita GEL 3g. ......................... UNI   _  560.000
+64.999999  UNIPOX x25ml ........................... UNI   _  490.000
+65.100000  Pegamil UNIVERSAL x33ml ................ UNI   _  775.000
+65.110000  u pegamento para zapatillas ............ UNI   _  822.850
+65.200000  Pegatela Grande Instantáneo ............ UNI   _  674.000
 65.500000  Pegamil Tac ............................ UNI   _  570.000
 66.000000  MENDAFACIL ............................. Mt               
 66.100000  Mendafácil chico 101 ................... Doc   _  209.410
-66.210000  Maxi patch liviano DT .................. Doc   _3,210.000
+66.210000  Maxi patch liviano DT .................. Doc   _3,006.000
 66.250000  Mendafácil Jean/trabajo ................ Doc   _3,400.000
-66.260000  sarga colegial adhesiva ................ Doc   _4,130.000
+66.260000  sarga colegial adhesiva ................ Doc   _4,200.000
 66.600000  QUITAMANCHAS ........................... Mt               
 66.610000  Quita Oxido x10ml ...................... UNI   _  505.000
 66.700000  Quita Tinta x10ml ...................... UNI   _  440.000
@@ -779,43 +777,43 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 66.900000  quitasangre ............................ UNI   _  189.000
 66.910000  quita grasa ............................ UNI   _   57.110
 66.920000  REF. KILT, BIES, AJUSTABLES ............ Mt               
-67.000000  Refuerzo Jean/Escosés Plas ............. Par   _  100.320
-67.000001  Trabas tipo Kilt ....................... Doc   _6,398.600
-67.000002  bies al sesgo autoadhesiva ............. Pza   _  424.600
-67.000003  Ajustables p/sábanas ................... UNI   _3,250.000
+67.000000  Refuerzo Jean/Escosés Plas ............. Par   _  100.380
+67.000001  Trabas tipo Kilt ....................... Doc   _6,977.970
+67.000002  bies al sesgo autoadhesiva ............. Pza   _  463.060
+67.000003  Ajustables p/sábanas ................... UNI   _3,544.280
 67.000004  CINTA ID Y ADHE DOBLADILLO ............. Mt               
 67.000005  REFUERZO, NÚMEROS, RIB ................. Mt               
-67.001000  Cinta Dobladillos adhesiva ............. UNI   _  990.000
-67.002000  Termoadh. transferible ................. Doc   _1,257.410
-67.100000  Refuerzo Matelassé ..................... Par   _  144.180
-67.110000  Refuerzo Corderoy ...................... Par   _  179.660
-67.111111  POLAR plancha y listo .................. Par   _  111.080
+67.001000  Cinta Dobladillos adhesiva ............. UNI   _1,079.650
+67.002000  Termoadh. transferible ................. Doc   _1,371.280
+67.100000  Refuerzo Matelassé ..................... Par   _  157.250
+67.110000  Refuerzo Corderoy ...................... Par   _  195.930
+67.111111  POLAR plancha y listo .................. Par   _  121.160
+67.200000  Refuerzo S.antílope .................... Par   _  776.480
+67.210000  Números deportivos 20cm x3 ............. Paq   _1,308.660
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 11/07/23
+     LISTA DE PRECIOS al: 01/08/23
 PESOS                                                      Hoja Nro  14
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
-67.200000  Refuerzo S.antílope .................... Par   _  712.000
-67.210000  Números deportivos 20cm x3 ............. Paq   _1,200.000
-67.220000  Números deportivos 10cm x6 ............. Paq   _1,200.000
-67.400000  refuerzo jogging ....................... UNI   _  283.550
-67.500000  refuerzo jersey ........................ UNI   _  310.300
-67.510000  Refuerzo Cuerina gde ................... Par   _  320.000
-67.520000  Refuerzo Cuerina ch .................... Par   _   65.180
-67.530000  tela plastificada escosesa ............. Par   _  117.950
-67.600000  Refuerzo Entrepierna ................... Par   _  143.340
-67.900000  Bolsillos Pegar ........................ Doc   _%10,480.000
-67.922000  etiquetas 6 sobres x14U ................ Paq   _  741.860
-67.923400  CINTA ROTULADORA 13mmx10m .............. Pza   _  565.000
-67.930000  RIB polyester .......................... Mt    _  287.880
-67.931000  RIB x 1m ............................... Mt    _1,105.000
+67.220000  Números deportivos 10cm x6 ............. Paq   _1,308.660
+67.400000  refuerzo jogging ....................... UNI   _  309.240
+67.500000  refuerzo jersey ........................ UNI   _  338.410
+67.510000  Refuerzo Cuerina gde ................... Par   _  348.980
+67.520000  Refuerzo Cuerina ch .................... Par   _   71.090
+67.530000  tela plastificada escosesa ............. Par   _  128.650
+67.600000  Refuerzo Entrepierna ................... Par   _  156.330
+67.900000  Bolsillos Pegar ........................ Doc   _%11,428.920
+67.922000  etiquetas 6 sobres x14U ................ Paq   _  809.050
+67.923400  CINTA ROTULADORA 13mmx10m .............. Pza   _  616.170
+67.930000  RIB polyester .......................... Mt    _  313.960
+67.931000  RIB x 1m ............................... Mt    _1,192.000
 67.940000  REPUESTO de CORPIÑO .................... Mt               
 68.000000  tazas SOFT ............................. Par   _  125.420
 68.011000  pares de tazas SOFT .................... UNI   _  654.660
 68.012000  U corpiño AUTOADHESIVO ................. Mt    _  711.640
-68.045000  arcos corpino metal .................... Par   _  133.450
+68.045000  arcos corpino metal .................... Par   _  147.000
 68.045100  arcos corpino plastico ................. Par   _  120.860
 68.099015  bretel ancho 15mm ...................... Par   _  259.350
 68.09918   bretel ancho 18mm ...................... UNI   _  302.150
@@ -832,13 +830,13 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 68.568000  rep.x2 ancho 132/568 ................... Doc   _2,341.650
 68.569000  repx3 143/569 .......................... Doc   _3,503.670
 68.591000  Rep.de Corpiño 1/111/591 ............... Doc   _1,213.630
-68.592000  rep x2 angosto 122/592 ................. Doc   _1,670.970
+68.592000  rep x2 angosto 122/592 ................. Doc   _1,830.000
 68.811000  Pza elastico bretel 811 x10m ........... UNI   _1,976.560
 68.811000P Pza elastico bretel 811 x10m ........... UNI              
 68.815000  Pza ellastico bretel 815 x10m .......... UNI   _2,312.010
 68.818000  Pza elastico bretel 818 x10m ........... UNI   _2,618.620
 68.901000  prol.x1gancho 211/901 .................. Doc   _1,269.030
-68.902000  prol.angosto 222/902 ................... Doc   _1,716.750
+68.902000  prol.angosto 222/902 ................... Doc   _1,870.000
 68.903000  prol.x3ganchos 243/903 ................. Doc   _3,216.050
 68.968000  prol.x2ganch.ancho 232/968 ............. Doc   _1,960.000
 69.000000  TIJERAS Y ALICATES ..................... Mt               
@@ -851,15 +849,15 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 69.788080  tijera costura 788/8 ................... UNI   _4,605.260
 69.791060  tijera modista 791/6 ................... UNI   _3,230.340
 69.791070  tijera modista 791/7 ................... UNI   _3,616.330
+69.791080  tijera modista 791/8 ................... UNI   _4,906.070
+69.802000  tijera bordar 802 ...................... UNI   _2,076.360
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 11/07/23
+     LISTA DE PRECIOS al: 01/08/23
 PESOS                                                      Hoja Nro  15
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
-69.791080  tijera modista 791/8 ................... UNI   _4,906.070
-69.802000  tijera bordar 802 ...................... UNI   _2,076.360
 69.804000  tijera bordar 804/807 .................. UNI   _2,076.360
 69.816070  Tijera SASTRE 816/7 .................... UNI   _3,267.610
 69.816080  Tijera SASTRE 816/8 .................... UNI   _5,311.900
@@ -912,15 +910,15 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 76.113015  cinta 1130/15mm x10m ................... Pza   _1,304.050
 76.113025  DULCINEA 1130/25 ....................... Pza   _1,240.430
 76.150600  lurex1506 x10m/2mmx20m ................. Pza   _  851.290
+76.150601  cinta lurex 1506/1 x10m ................ Pza   _  745.960
+76.150603  lurex 1506/3 ........................... Pza   _  867.370
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 11/07/23
+     LISTA DE PRECIOS al: 01/08/23
 PESOS                                                      Hoja Nro  16
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
-76.150601  cinta lurex 1506/1 x10m ................ Pza   _  745.960
-76.150603  lurex 1506/3 ........................... Pza   _  867.370
 76.150604  lurex 1506/0 x20m /4mm ................. Pza   _  845.000
 76.150605  lurex 1506/5 ........................... Pza   _1,053.120
 76.150609  lurex 1506/9 ........................... Pza   _1,550.440
@@ -973,15 +971,15 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 76.198600  art 1986 ............................... Pza   _1,846.450
 76.198700  ATENAS 1987 ............................ Pza   _2,744.160
 76.198800  cinta 1988 ............................. Pza   _  798.630
+76.198900  Pza 1989 ............................... UNI   _1,866.380
+76.199000  cinta 1990 ............................. Pza   _1,573.840
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 11/07/23
+     LISTA DE PRECIOS al: 01/08/23
 PESOS                                                      Hoja Nro  17
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
-76.198900  Pza 1989 ............................... UNI   _1,866.380
-76.199000  cinta 1990 ............................. Pza   _1,573.840
 76.199100  Pza 1991 ............................... UNI   _1,799.080
 76.199200  cinta 1992 ............................. Pza   _1,894.160
 76.199300  COSMOS 1993 ............................ Pza   _1,862.210
@@ -1034,15 +1032,15 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 76.300200  3000-0 /3002 x20m ...................... Pza   _1,219.110
 76.300300  cinta 3000/1-3003x20m .................. Pza   _1,438.240
 76.300400  3004 x20m .............................. Pza   _3,559.060
+76.300500  3005 x20m .............................. Pza   _3,117.370
+76.300800  art. 3008 x20m ......................... Pza   _1,080.680
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 11/07/23
+     LISTA DE PRECIOS al: 01/08/23
 PESOS                                                      Hoja Nro  18
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
-76.300500  3005 x20m .............................. Pza   _3,117.370
-76.300800  art. 3008 x20m ......................... Pza   _1,080.680
 76.302300  3023 x10m .............................. Pza   _1,271.960
 76.304000  cordon c/alambre 3040 x10m ............. Pza   _  964.410
 76.305300  3053 c/alambre x5m ..................... Pza   _1,897.990
@@ -1095,15 +1093,15 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 76.522000  ZOO 522 ................................ Pza   _4,272.870
 76.523000  Pza HINDU 523 .......................... UNI   _2,514.510
 76.524000  PERSA 524 .............................. Pza   _2,829.880
+76.525000  cinta 525 x10m ......................... Pza   _  792.400
+76.527030  ROSARIO 527-3 x10m ..................... Pza   _2,695.100
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 11/07/23
+     LISTA DE PRECIOS al: 01/08/23
 PESOS                                                      Hoja Nro  19
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
-76.525000  cinta 525 x10m ......................... Pza   _  792.400
-76.527030  ROSARIO 527-3 x10m ..................... Pza   _2,695.100
 76.527090  ROSARIO 527-9 x10m ..................... Pza   _4,308.770
 76.528000  cinta RAMON  528 x10m .................. Pza   _4,024.060
 76.529000  cinta POMPIS 529 x10m .................. Pza   _3,110.600
@@ -1146,98 +1144,98 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 76.989090  cinta 989/9 GUARDA PAMPA/9 ............. Pza   _1,545.650
 76.990000  990 .................................... Pza   _  342.610
 77.000000  BRODERIE ............................... Pza              
-77.001000  Broderie 001 x13,70 .................... Pza   _6,044.400
-77.013000  BRODERIE 13  x13.70m ................... Mt    _4,630.440
-77.014000  Broderie 14 x13.70m .................... Pza   _6,672.810
-77.015000  BRODERIE 15  x13.70m ................... Mt    _5,325.030
-77.018000  Broderie 18 x13.70m .................... Pza   _8,605.350
-77.019000  Broderie 019 x13.70 .................... Pza   _6,204.720
-77.071000  Broderie 71 x13.70m .................... Pza   _6,887.790
-77.159000  Broderie 159 x13,70m ................... Pza   _7,925.800
-77.160000  Broderie 160 x13.70m ................... Pza   _%10,290.950
-77.262014  Broderie 262-14 x13.70m ................ Pza   _8,311.660
+77.001000  Broderie 001 x13,70 .................... Pza   _6,588.400
+77.013000  BRODERIE 13  x13.70m ................... Mt    _5,047.180
+77.014000  Broderie 14 x13.70m .................... Pza   _7,273.370
+77.015000  BRODERIE 15  x13.70m ................... Mt    _5,804.290
+77.018000  Broderie 18 x13.70m .................... Pza   _9,379.840
+77.019000  Broderie 019 x13.70 .................... Pza   _6,763.150
+77.071000  Broderie 71 x13.70m .................... Pza   _7,507.700
+77.159000  Broderie 159 x13,70m ................... Pza   _8,639.130
+77.160000  Broderie 160 x13.70m ................... Pza   _%11,217.140
+77.262014  Broderie 262-14 x13.70m ................ Pza   _9,059.710
+77.262015  Broderie 262-15 x13,70m ................ Pza   _7,714.990
+77.262024. Broderie 262-24 ........................ Pza   _9,373.340
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 11/07/23
+     LISTA DE PRECIOS al: 01/08/23
 PESOS                                                      Hoja Nro  20
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
-77.262015  Broderie 262-15 x13,70m ................ Pza   _7,077.970
-77.262024. Broderie 262-24 ........................ Pza   _8,599.390
-77.262026  Broderie 262/26 x13,70m ................ Pza   _%14,538.060
-77.262027  Broderie 262-27 x13,70m ................ Pza   _%11,120.640
-77.400030  Broderie 40003 x13.70m ................. Pza   _9,886.000
-77.500074  punt.algodon 74 x10m ................... UNI   _2,527.630
-77.500084  puntilla algodon 084 x10m .............. PZA   _4,398.820
-77.500143  puntilla algodon 143 x10m .............. PZA   _2,477.300
-77.500352  puntilla algodon 352 x10m .............. PZA   _8,562.970
-77.500515  puntilla algodon 515 x10m .............. PZA   _2,432.060
-77.500703  puntilla algodon 703 ................... UNI   _5,375.790
-77.500802  puntilla algodon 802 x10m .............. PZA   _4,689.270
-77.501728  puntilla algodon 1728 x10m ............. PZA   _4,029.060
-77.507038  puntilla algodon 7038 x10m ............. PZA   _5,809.860
-77.507060  puntilla algodon 7060 x10m ............. PZA   _6,182.720
-77.507125  Puntilla 7125 x10m ..................... Pza   _4,516.560
-77.507149  Puntilla 7149 x 10m .................... Pza   _6,627.920
-77.507175  Puntilla 7175 x10m ..................... Pza   _5,198.990
-77.507176  Puntilla 7175A x10m .................... Pza   _4,583.340
-77.507178  Puntilla 7178 x10m ..................... Pza   _3,012.900
-77.508001  Puntilla 8001 x10m ..................... Pza   _3,596.110
-77.600001  puntilla nylon 001 x10m ................ UNI   _1,486.350
-77.600074  puntilla nylon 074 x10m ................ UNI   _1,317.880
-77.600076  puntilla nylon 076 x20m ................ UNI   _1,855.780
-77.600130  puntilla nylon 130 x20m ................ UNI   _1,805.900
-77.600179  puntilla nylon 179 x20m ................ UNI   _1,684.500
-77.600189  punt.nylon 189 x20m .................... UNI   _2,022.610
-77.600203  puntilla nylon 203 x10m ................ UNI   _1,457.890
-77.600210  puntilla nylon 210 x20m ................ UNI   _1,771.500
-77.600211  puntilla nylon 211 x10m ................ UNI   _2,175.680
-77.600212  puntilla nylon 212 x10m ................ UNI   _1,034.850
-77.600226  puntilla nylon 226 x20m ................ UNI   _2,310.390
-77.600244  puntilla nylon 244 x20m ................ UNI   _1,548.680
-77.600247  puntilla nylon 247 x20m ................ UNI   _1,709.320
-77.600261  puntilla nylon 261 x20m ................ UNI   _2,449.900
-77.600299  puntilla nylon 299 x20m ................ UNI   _3,370.990
-77.600336  puntilla nylon 336 x10m ................ UNI   _1,117.280
-77.600387  puntilla nylon 387 x10m ................ UNI   _1,634.940
-77.600402  puntilla nylon 402 x20m ................ UNI   _2,167.070
-77.600520  puntilla nylon 520 x10m ................ UNI   _1,386.370
-77.600550  puntilla nylon 550 x10m ................ UNI   _1,887.610
-77.600613  puntilla nylon 613 x10m ................ UNI   _1,461.530
-77.600668  puntilla nylon 668 x20m ................ UNI   _1,788.700
-77.600703  ppuntilla nylon 703 x20m ............... UNI   _1,788.700
-77.600734  puntilla nylon 734 x10m ................ UNI   _1,838.040
-77.600826  puntilla nylon 826 x10m ................ UNI   _1,327.820
-77.600913  puntilla nylon 913 x10m ................ UNI   _1,877.680
-77.600931  puntilla nylon 931 x20m ................ UNI   _1,456.640
-77.600943  puntilla nylon 943 x10m ................ UNI   _1,238.630
-77.601599  puntilla nylon 1599 x20m ............... UNI   _1,797.300
-77.603441  puntilla nylon 3441 x20m ............... UNI   _2,219.510
-77.605619  puntilla nylon 5619 x3m ................ UNI   _1,684.500
-77.605630  puntilla nylon 5630 x3m ................ UNI   _1,263.420
-77.605634  puntilla nylon x3m 5634 ................ UNI   _1,862.850
+77.262026  Broderie 262/26 x13,70m ................ Pza   _%15,846.490
+77.262027  Broderie 262-27 x13,70m ................ Pza   _%12,121.500
+77.400030  Broderie 40003 x13.70m ................. Pza   _%10,775.740
+77.500074  punt.algodon 74 x10m ................... UNI   _2,755.120
+77.500084  puntilla algodon 084 x10m .............. PZA   _4,794.720
+77.500143  puntilla algodon 143 x10m .............. PZA   _2,700.260
+77.500352  puntilla algodon 352 x10m .............. PZA   _9,333.640
+77.500515  puntilla algodon 515 x10m .............. PZA   _2,650.950
+77.500703  puntilla algodon 703 ................... UNI   _5,859.620
+77.500802  puntilla algodon 802 x10m .............. PZA   _5,111.310
+77.501728  puntilla algodon 1728 x10m ............. PZA   _4,391.680
+77.507038  puntilla algodon 7038 x10m ............. PZA   _6,332.750
+77.507060  puntilla algodon 7060 x10m ............. PZA   _6,739.170
+77.507125  Puntilla 7125 x10m ..................... Pza   _4,923.050
+77.507149  Puntilla 7149 x 10m .................... Pza   _7,224.440
+77.507175  Puntilla 7175 x10m ..................... Pza   _5,666.900
+77.507176  Puntilla 7175A x10m .................... Pza   _4,995.840
+77.507178  Puntilla 7178 x10m ..................... Pza   _3,284.070
+77.508001  Puntilla 8001 x10m ..................... Pza   _3,919.760
+77.600001  puntilla nylon 001 x10m ................ UNI   _1,620.130
+77.600074  puntilla nylon 074 x10m ................ UNI   _1,436.490
+77.600076  puntilla nylon 076 x20m ................ UNI   _2,022.800
+77.600130  puntilla nylon 130 x20m ................ UNI   _1,968.440
+77.600179  puntilla nylon 179 x20m ................ UNI   _1,836.110
+77.600189  punt.nylon 189 x20m .................... UNI   _2,204.650
+77.600203  puntilla nylon 203 x10m ................ UNI   _1,589.100
+77.600210  puntilla nylon 210 x20m ................ UNI   _1,930.940
+77.600211  puntilla nylon 211 x10m ................ UNI   _2,371.500
+77.600212  puntilla nylon 212 x10m ................ UNI   _1,127.990
+77.600226  puntilla nylon 226 x20m ................ UNI   _2,518.330
+77.600244  puntilla nylon 244 x20m ................ UNI   _1,688.070
+77.600247  puntilla nylon 247 x20m ................ UNI   _1,863.160
+77.600261  puntilla nylon 261 x20m ................ UNI   _2,670.400
+77.600299  puntilla nylon 299 x20m ................ UNI   _3,674.380
+77.600336  puntilla nylon 336 x10m ................ UNI   _1,217.840
+77.600387  puntilla nylon 387 x10m ................ UNI   _1,782.090
+77.600402  puntilla nylon 402 x20m ................ UNI   _2,362.110
+77.600520  puntilla nylon 520 x10m ................ UNI   _1,511.150
+77.600550  puntilla nylon 550 x10m ................ UNI   _2,057.500
+77.600613  puntilla nylon 613 x10m ................ UNI   _1,593.070
+77.600668  puntilla nylon 668 x20m ................ UNI   _1,949.690
+77.600703  ppuntilla nylon 703 x20m ............... UNI   _1,949.690
+77.600734  puntilla nylon 734 x10m ................ UNI   _2,003.470
+77.600826  puntilla nylon 826 x10m ................ UNI   _1,447.330
+77.600913  puntilla nylon 913 x10m ................ UNI   _2,046.680
+77.600931  puntilla nylon 931 x20m ................ UNI   _1,587.740
+77.600943  puntilla nylon 943 x10m ................ UNI   _1,350.110
+77.601599  puntilla nylon 1599 x20m ............... UNI   _1,959.060
+77.603441  puntilla nylon 3441 x20m ............... UNI   _2,419.270
+77.605619  puntilla nylon 5619 x3m ................ UNI   _1,836.110
+77.605630  puntilla nylon 5630 x3m ................ UNI   _1,377.130
+77.605634  puntilla nylon x3m 5634 ................ UNI   _2,030.510
+77.606513  puntilla nylon 651/3 x10m .............. UNI   _1,134.110
+77.608014  puntilla nylon 8014 x3m ................ UNI   _3,564.040
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 11/07/23
+     LISTA DE PRECIOS al: 01/08/23
 PESOS                                                      Hoja Nro  21
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
-77.606513  puntilla nylon 651/3 x10m .............. UNI   _1,040.460
-77.608014  puntilla nylon 8014 x3m ................ UNI   _3,269.760
-77.610211  puntilla nylon c/lurex 211 x10m ........ UNI   _  941.390
-77.610244  puntilla nylon c/lurex 244 x20m ........ UNI   _2,130.380
-77.615003  puntilla lycra x10m 15003 .............. UNI   _9,858.670
-77.700211  punt.nylon 211 c/lurex plateado ........ UNI   _1,107.630
-77.700244  punt.nylon 244 c/lurex plateado x20m ... UNI   _2,511.050
-77.702879  punt.nylon 2879 c/lurex plateado ....... UNI   _1,203.940
-77.800211  punt.nylon 211 x10m natural ............ UNI   _2,184.270
-77.800402  punt.nylon 402 x20m natural ............ UNI   _2,485.240
-77.800520  punt.nylon 520 x10m natural ............ UNI   _1,651.110
-77.800703  punt.nylon 703 x20m natural ............ UNI   _2,081.070
-77.801599  punt.nylon 1599 x20m natural ........... UNI   _2,115.480
-77.803441  punt.nylon 3441 x20m natural ........... UNI   _3,009.810
+77.610211  puntilla nylon c/lurex 211 x10m ........ UNI   _1,026.120
+77.610244  puntilla nylon c/lurex 244 x20m ........ UNI   _2,322.120
+77.615003  puntilla lycra x10m 15003 .............. UNI   _%10,745.950
+77.700211  punt.nylon 211 c/lurex plateado ........ UNI   _1,207.320
+77.700244  punt.nylon 244 c/lurex plateado x20m ... UNI   _2,737.050
+77.702879  punt.nylon 2879 c/lurex plateado ....... UNI   _1,312.300
+77.800211  punt.nylon 211 x10m natural ............ UNI   _2,380.860
+77.800402  punt.nylon 402 x20m natural ............ UNI   _2,708.920
+77.800520  punt.nylon 520 x10m natural ............ UNI   _1,799.710
+77.800703  punt.nylon 703 x20m natural ............ UNI   _2,268.370
+77.801599  punt.nylon 1599 x20m natural ........... UNI   _2,305.880
+77.803441  punt.nylon 3441 x20m natural ........... UNI   _3,280.700
 78.074      ....................................... UNI              
 79.000002  cola rata x20m ......................... Pza   _  901.130
 79.000047  galon CAIREL P47 ....................... Pza   _4,000.200
@@ -1278,15 +1276,15 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 79.081000  cordoncito lame 81/82 .................. Pza   _2,615.880
 79.100801  puntilla algodon 801 ................... MT    _   79.950
 79.100802  puntilla algodon 802 ................... Mt    _   93.220
+79.100803  puntilla algodon 803 ................... Mt    _  109.760
+79.100804  entredos algodon 804 ................... Mt    _  109.760
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 11/07/23
+     LISTA DE PRECIOS al: 01/08/23
 PESOS                                                      Hoja Nro  22
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
-79.100803  puntilla algodon 803 ................... Mt    _  109.760
-79.100804  entredos algodon 804 ................... Mt    _  109.760
 79.10100   cordon 1/0 x30m ........................ UNI   _2,069.840
 79.101000  cordon "C"  x100m ...................... Pza   _5,929.370
 79.101500  crochetina ............................. Pza   _1,515.660
@@ -1339,15 +1337,15 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 79.264     pieza 261/2d negra x10m ................ UNI   _1,151.210
 79.295000  Flecos seda 25cm x10m .................. PZA   _%18,383.340
 79.313400  encaje 3134 x13.71m .................... Pza   _5,949.210
+79.313500  encaje 3135 x13.71m .................... Pza   _4,918.050
+79.320000  ZIG ZAG angosto 320 x20m ............... Pza   _1,165.480
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 11/07/23
+     LISTA DE PRECIOS al: 01/08/23
 PESOS                                                      Hoja Nro  23
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
-79.313500  encaje 3135 x13.71m .................... Pza   _4,918.050
-79.320000  ZIG ZAG angosto 320 x20m ............... Pza   _1,165.480
 79.321000  Pza fleco N32 x10m ..................... UNI   _1,293.460
 79.336000  Puntilla 336 ........................... Pza   _  694.130
 79.340000  galon 340/350 .......................... Pza   _1,695.500
@@ -1400,15 +1398,15 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 79.808500  puntilla 808 x50m ...................... Pza   _1,360.800
 79.808810  puntilla 808 c/lurex x20m .............. Pza   _1,177.350
 79.809000  punt.FRUNCIDA doble x10m ............... Pza   _2,468.790
+79.815000  puntilla 815 x10m ...................... Pza   _3,626.380
+79.816000  puntilla 816 x10m ...................... Pza   _3,681.690
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 11/07/23
+     LISTA DE PRECIOS al: 01/08/23
 PESOS                                                      Hoja Nro  24
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
-79.815000  puntilla 815 x10m ...................... Pza   _3,626.380
-79.816000  puntilla 816 x10m ...................... Pza   _3,681.690
 79.817000  puntilla 817 ........................... Mt    _  175.940
 79.821000  Puntilla 821 ........................... Pza   _1,914.480
 79.826000  entredos 826 ........................... Mt    _  208.740
@@ -1427,7 +1425,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 79.879010  Pza puntilla 879 crudo x10m ............ UNI   _  862.910
 79.880000  Cono yute hindu L88 .................... UNI   _  235.160
 79.881000  Cono algodon PREMIUM  P/MANUAL ......... UNI   _   98.250
-79.882000  Cono yute hindu x50m ................... UNI   _  299.270
+79.882000  Cono yute hindu x50m ................... UNI   _  371.000
 79.883000  cono yute x500m ........................ UNI   _3,618.160
 79.900000  ovillo SISAL x25m ...................... UNI   _  800.000
 79.909150  ANTILOPE 3mm 915 x20m .................. Pza   _  848.310
@@ -1461,15 +1459,15 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 80.066923  OPULENCE CAMUFLAGE 23mm ................ Pza   _1,054.250
 80.066935  OPULENCE CAMUFLAGE 35mm ................ Pza   _1,656.940
 80.067508  Lady chifon 08mm-67508 ................. Pza   _1,087.820
+80.067515  lady chifon 15mm-67515 ................. Pza   _  714.880
+80.067523  lady chifon 23mm-67523 ................. Pza   _  798.800
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 11/07/23
+     LISTA DE PRECIOS al: 01/08/23
 PESOS                                                      Hoja Nro  25
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
-80.067515  lady chifon 15mm-67515 ................. Pza   _  714.880
-80.067523  lady chifon 23mm-67523 ................. Pza   _  798.800
 80.067539  Lady Chiffon 39mm-67539 ................ Pza   _1,072.270
 80.067560  Lady chifon 60mm-67560 ................. Pza   _2,237.730
 80.076825  YUTE c/oro   25mm ...................... Pza   _1,000.430
@@ -1522,15 +1520,15 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 80.113112  CLOUDS 12mm--113112 .................... Pza   _1,479.820
 80.113238  DESTELLOS 38mm--113238 ................. Pza   _1,385.370
 80.113305  Cinta Picot 1133/5 ..................... Pza   _1,868.040
+80.113309  Cinta Picot 1133/9 ..................... Pza   _1,777.120
+80.1135010 CINTA ESPERANZA 10 mm--113510 .......... Pza              
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 11/07/23
+     LISTA DE PRECIOS al: 01/08/23
 PESOS                                                      Hoja Nro  26
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
-80.113309  Cinta Picot 1133/9 ..................... Pza   _1,777.120
-80.1135010 CINTA ESPERANZA 10 mm--113510 .......... Pza              
 80.113510  ESPERANZA 10mm--113510 ................. Pza   _  821.900
 80.113635  ALLEGRA 35mm--113635 ................... Pza   _1,324.450
 80.113740  IRISE--113740 .......................... Pza   _2,245.620
@@ -1559,7 +1557,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 80.116725  CUADRILLE BRIT 25mm--116725 ............ Pza   _1,472.610
 80.116820  RAYADO BRIT 20mm--116820 ............... Pza   _1,226.950
 80.116923  ZOOKIDS 23mm--116923 ................... Pza   _1,411.940
-80.116939  ZOOKIDS 39mm--116939 ................... Pza   _1,383.000
+80.116939  ZOOKIDS 39mm--116939 ................... Pza   _1,620.000
 80.117025  FAIRYTALE--117025 ...................... Pza   _1,634.570
 80.117125  SILKY FLOREAL 25mm--117125 ............. Pza   _1,177.890
 80.117165  SILKY FLOREAL 65mm--117165 ............. Pza   _4,198.890
@@ -1583,15 +1581,15 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 80.118812  GALON FEDE--118812 ..................... Pza   _1,037.650
 80.118915  galon CAMUFLADO--118915 ................ Pza   _1,293.250
 80.119015  BABY SHOWER--119015 .................... Pza   _1,106.380
+80.119123  SILKY CIGUEÑAS--119123 ................. Pza   _1,155.820
+80.119223  SILKY Lunares 23mm--119223 ............. Pza   _1,081.010
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 11/07/23
+     LISTA DE PRECIOS al: 01/08/23
 PESOS                                                      Hoja Nro  27
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
-80.119123  SILKY CIGUEÑAS--119123 ................. Pza   _1,155.820
-80.119223  SILKY Lunares 23mm--119223 ............. Pza   _1,081.010
 80.119323  AVIONES--119323 ........................ Pza   _1,366.960
 80.119415  TACITAS de TE--119415 .................. Pza   _1,104.610
 80.119512  FLORES VINTAGE--119512 ................. Pza   _1,525.860
@@ -1644,15 +1642,15 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 80.124265  SILKY BELEN 65--124265 ................. Pza   _3,797.230
 80.124300  fantasy 124300 ......................... Pza   _1,030.590
 80.124350  PAZ AMOR 50mm--124350 .................. Pza   _2,361.200
+80.124415  CIBELES de LUXE 1244/15 ................ Pza   _1,486.830
+80.124445  SANTA 45mm--124445 ..................... Pza              
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 11/07/23
+     LISTA DE PRECIOS al: 01/08/23
 PESOS                                                      Hoja Nro  28
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
-80.124415  CIBELES de LUXE 1244/15 ................ Pza   _1,486.830
-80.124445  SANTA 45mm--124445 ..................... Pza              
 80.124523  SILKY ESTRELLAS 1245/23 ................ Pza   _1,575.060
 80.124607  LOLLIPOP 7mm--124607 ................... Pza   _  889.170
 80.124650  LOLLIPOP 50mm--124650 .................. Pza   _2,113.930
@@ -1705,15 +1703,15 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 80.128525  Patchwork 25mm--128525 ................. Mt    _1,605.190
 80.128623  Silky Primavera 23mm--128623 ........... Mt    _1,428.830
 80.128665  Silky Primavera 65mm--128665 ........... Mt    _3,190.110
+80.128740  Pza GINEBRA--128740 .................... Pza   _2,798.920
+80.128806  Pza AURORA 6mm--128806 ................. Pza   _  927.100
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 11/07/23
+     LISTA DE PRECIOS al: 01/08/23
 PESOS                                                      Hoja Nro  29
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
-80.128740  Pza GINEBRA--128740 .................... Pza   _2,798.920
-80.128806  Pza AURORA 6mm--128806 ................. Pza   _  927.100
 80.128915  Pza CUPCAKES II 15mm--128915 ........... Pza   _1,669.740
 80.129015  Pza MULTIESTR II 15mm--129015 .......... Pza   _1,669.740
 80.129115  Pza LOVELY II--129115 .................. Pza   _1,669.740
@@ -1766,15 +1764,15 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 80.133123  TROQ: ESTRELLAS 23mm 133123 ............ Pza   _1,909.630
 80.133210  TROQ CORAZONES 10mm 133210 ............. Pza   _1,340.280
 80.133323  TROQ COLIBRI 23mm 133323 ............... Pza   _2,002.770
+80.133325  Cartagena .............................. Pza   _1,619.350
+80.133410  SOFIA 10mm 133410 ...................... Pza   _  663.040
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 11/07/23
+     LISTA DE PRECIOS al: 01/08/23
 PESOS                                                      Hoja Nro  30
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
-80.133325  Cartagena .............................. Pza   _1,619.350
-80.133410  SOFIA 10mm 133410 ...................... Pza   _  663.040
 80.133508  AMORINA 8mm 133508 ..................... Pza   _  870.670
 80.133615  ACACIA 15mm 133615 ..................... Pza   _1,228.240
 80.134015  PREMIUM 15mm ........................... Pza   _  880.860
@@ -1808,8 +1806,8 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 80.138025  Geminis 25mm ........................... Pza   _  884.770
 80.138225  Nico 25mm .............................. Pza   _1,261.910
 80.138319  Donas 19mm ............................. Pza   _1,051.080
-80.138425  Tren de la Selva 25mm .................. Pza   _1,261.910
-80.138439  Tren de la Selva 39mm .................. Pza   _1,389.320
+80.138425  Tren de la Selva 25mm .................. Pza   _1,620.000
+80.138439  Tren de la Selva 39mm .................. Pza   _1,770.000
 80.138525  Bosque 25mm ............................ Pza   _1,256.430
 80.138539  Bosque 39mm ............................ Pza   _1,384.920
 80.138625  Flamenco 25mm .......................... Pza   _1,261.910
@@ -1827,15 +1825,15 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 80.139725  Pza ENSALADA de FRIUTAS 25mm ........... UNI   _1,547.800
 80.139816  RED AIREADA 160mm ...................... UNI   _1,546.330
 80.139915  TRIGAL RALUR 15mm ...................... UNI   _1,252.550
+80.140050  FRONDA 50mm ............................ UNI   _1,866.900
+80.140125  Pza MUSICA 25mm ........................ UNI   _1,547.800
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 11/07/23
+     LISTA DE PRECIOS al: 01/08/23
 PESOS                                                      Hoja Nro  31
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
-80.140050  FRONDA 50mm ............................ UNI   _1,866.900
-80.140125  Pza MUSICA 25mm ........................ UNI   _1,547.800
 80.140310  baby gross 10mm ........................ UNI   _  725.000
 80.140311  pza BABY GROS x50m ..................... UNI   _1,118.020
 80.140410  baby gross lurex x20m .................. UNI   _  777.200
@@ -1888,15 +1886,15 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 80.194509  bandera extranjera 9--194509 ........... Pza   _1,552.340
 80.194512  bandera extranjera 12--194512 .......... Pza   _1,649.330
 80.194705  COOPERATIVA 5 .......................... Pza   _1,289.340
+80.194709  COOPERATIVA 9 .......................... Pza   _2,111.880
+80.195850  Pza FLOCK 50mm ......................... UNI   _  833.660
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 11/07/23
+     LISTA DE PRECIOS al: 01/08/23
 PESOS                                                      Hoja Nro  32
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
-80.194709  COOPERATIVA 9 .......................... Pza   _2,111.880
-80.195850  Pza FLOCK 50mm ......................... UNI   _  833.660
 80.196703  Cinta Escosesa 1967/3 .................. Pza   _  686.860
 80.196705  Cinta Escosesa 1967/5 .................. Pza   _  907.970
 80.196709  Cinta Escosesa 1967/9 .................. Pza   _1,221.220
@@ -1949,15 +1947,15 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 80.514512  BANDONEON .............................. Pza   _2,451.910
 80.600015  FUNTAPE 15mm-600015 .................... Pza   _  938.190
 80.700025  GALON PAMPA ARGENTINA .................. Pza   _1,333.960
+80.702008  FIESTA 8mm ............................. UNI   _  805.160
+80.705020  VICTORIAN 20mm ......................... Pza   _  762.520
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 11/07/23
+     LISTA DE PRECIOS al: 01/08/23
 PESOS                                                      Hoja Nro  33
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
-80.702008  FIESTA 8mm ............................. UNI   _  805.160
-80.705020  VICTORIAN 20mm ......................... Pza   _  762.520
 80.710000  Raso 0 FLUO x50m ....................... Pza   _1,219.700
 80.723000  galon Pampa ............................ Pza   _2,741.360
 80.790020  Pza GLOW 20mm .......................... UNI   _  697.930
