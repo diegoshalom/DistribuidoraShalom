@@ -768,9 +768,9 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 65.500000  Pegamil Tac ............................ UNI   _1,620.000
 66.000000  MENDAFACIL ............................. Mt               
 66.100000  Mendafácil chico 101 ................... Doc   _4,251.830
-66.210000  Maxi patch liviano DT .................. Doc   _7,076.930
-66.250000  Mendafácil Jean/trabajo ................ Doc   _8,019.090
-66.260000  sarga colegial adhesiva ................ Doc   _9,750.000
+66.210000  Maxi patch liviano DT .................. Doc   _8,424.000
+66.250000  Mendafácil Jean/trabajo ................ Doc   _9,525.000
+66.260000  sarga colegial adhesiva ................ Doc   _%11,666.000
 66.600000  QUITAMANCHAS ........................... Mt               
 66.610000  Quita Oxido x10ml ...................... UNI   _  894.650
 66.700000  Quita Tinta x10ml ...................... UNI   _  779.500
@@ -778,18 +778,18 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 66.900000  quitasangre ............................ UNI   _  334.840
 66.910000  quita grasa ............................ UNI   _   65.530
 66.920000  REF. KILT, BIES, AJUSTABLES ............ Mt               
-67.000000  Refuerzo Jean/Escosés Plas ............. Par   _  795.000
-67.000001  Trabas tipo Kilt ....................... Doc   _%15,095.670
+67.000000  Refuerzo Jean/Escosés Plas ............. Par   _  871.000
+67.000001  Trabas tipo Kilt ....................... Doc   _%18,035.000
 67.000002  bies al sesgo autoadhesiva ............. Pza   _  943.410
-67.000003  Ajustables p/sábanas ................... UNI   _7,870.000
+67.000003  Ajustables p/sábanas ................... UNI   _9,440.000
 67.000004  CINTA ID Y ADHE DOBLADILLO ............. Mt               
 67.000005  REFUERZO, NÚMEROS, RIB ................. Mt               
-67.001000  Cinta Dobladillos adhesiva ............. UNI   _2,397.570
+67.001000  Cinta Dobladillos adhesiva ............. UNI   _2,765.000
 67.002000  Termoadh. transferible ................. Doc   _2,793.700
 67.100000  Refuerzo Matelassé ..................... Par   _  320.400
 67.110000  Refuerzo Corderoy ...................... Par   _  399.190
 67.111111  POLAR plancha y listo .................. Par   _  246.870
-67.200000  Refuerzo S.antílope .................... Par   _2,015.000
+67.200000  Refuerzo S.antílope .................... Par   _2,006.000
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 20/12/23
@@ -797,19 +797,19 @@ PESOS                                                      Hoja Nro  14
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
-67.210000  Números deportivos 20cm x3 ............. Paq   _2,610.000
+67.210000  Números deportivos 20cm x3 ............. Paq   _1,300.000
 67.220000  Números deportivos 10cm x6 ............. Paq   _2,610.000
 67.400000  refuerzo jogging ....................... UNI   _  795.000
 67.500000  refuerzo jersey ........................ UNI   _  871.000
 67.510000  Refuerzo Cuerina gde ................... Par   _  901.000
 67.520000  Refuerzo Cuerina ch .................... Par   _  144.860
 67.530000  tela plastificada escosesa ............. Par   _  262.120
-67.600000  Refuerzo Entrepierna ................... Par   _  318.550
-67.900000  Bolsillos Pegar ........................ Doc   _%25,511.670
+67.600000  Refuerzo Entrepierna ................... Par   _1,012.000
+67.900000  Bolsillos Pegar ........................ Doc   _   29.532
 67.922000  etiquetas 6 sobres x14U ................ Paq   _1,648.270
-67.923400  CINTA ROTULADORA 13mmx10m .............. Pza   _1,367.500
+67.923400  CINTA ROTULADORA 13mmx10m .............. Pza   _1,580.000
 67.930000  RIB polyester .......................... Mt    _  639.670
-67.931000  RIB x 1m ............................... Mt    _2,873.000
+67.931000  RIB x 1m ............................... Mt    _3,470.000
 67.940000  REPUESTO de CORPIÑO .................... Mt               
 68.000000  tazas SOFT ............................. Par   _  281.040
 68.011000  tazas Soft 85 a 100 .................... UNI   _1,848.640
