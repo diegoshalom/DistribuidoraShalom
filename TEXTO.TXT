@@ -272,12 +272,12 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 18.605000  fantasia 605x10m ....................... Pza   _1,336.570
 18.750090  cinta escosesa-9  750-09 ............... UNI   _  871.170
 18.800000  ENTRETELA .............................. Pza              
-18.810011  Entret. 1001F/liviana pegar ............ Mt    _1,640.000
-18.810012  Entretela 1002F med. pegar ............. Mt    _2,705.000
-18.810014  Entretela 1004F gruesa. pegar .......... Mt    _3,150.000
-18.811009  Entret 1001coser, liviana .............. Mt    _  542.700
-18.811010  Entretela1002C coser, mediana .......... Mt    _  906.000
-18.811012  Entretela 1004-C grue, cocer ........... Mt    _1,584.000
+18.810011  Entret. 1001F/liviana pegar ............ Mt    _2,624.000
+18.810012  Entretela 1002F med. pegar ............. Mt    _4,328.000
+18.810014  Entretela 1004F gruesa. pegar .......... Mt    _5,040.000
+18.811009  Entret 1001coser, liviana .............. Mt    _  868.320
+18.811010  Entretela1002C coser, mediana .......... Mt    _1,449.600
+18.811012  Entretela 1004-C grue, cocer ........... Mt    _2,534.400
 18.902000  cinta yute 902  x3m .................... Pza   _  675.990
 18.903000  cinta YUTE 903 x3m ..................... UNI   _  892.790
 18.904000  lienzo poliester ....................... Mt    _  484.530
