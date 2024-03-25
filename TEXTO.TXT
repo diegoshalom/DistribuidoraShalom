@@ -1,5 +1,5 @@
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 18/03/24
+     LISTA DE PRECIOS al: 25/03/24
 PESOS                                                      Hoja Nro   1
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -60,7 +60,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 05.220000  ag.cuero maq.705/18x5U ................. Sob   _2,610.170
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 18/03/24
+     LISTA DE PRECIOS al: 25/03/24
 PESOS                                                      Hoja Nro   2
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -121,7 +121,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 10.000000  Abreojal chino chico ................... UNI   _  440.000
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 18/03/24
+     LISTA DE PRECIOS al: 25/03/24
 PESOS                                                      Hoja Nro   3
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -159,7 +159,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 10.046300  Cono hilo poliester .................... UNI   _1,830.000
 10.046310  Estuche Agujas disco ................... UNI   _  587.280
 10.04640   tij.pleable x doc ...................... UNI              
-10.046400  TIJERITAS plegables .................... Doc   _%20,519.510
+10.046400  TIJERITAS plegables .................... Doc   _  970.000
 10.047000  agujas INDIO ........................... UNI   _1,154.800
 10.047100  Dedales metal x48u ..................... Paq   _8,466.580
 10.047200  Monofilamento x 100m ................... Doc   _4,350.000
@@ -182,7 +182,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 10.953000  Alfiler x 95grs 2 al 7 ................. Caj   _3,045.510
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 18/03/24
+     LISTA DE PRECIOS al: 25/03/24
 PESOS                                                      Hoja Nro   4
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -235,22 +235,22 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 18.200000  ballena angosta x25m ................... Pza   _6,875.000
 18.210000  ballena ancha x10m ..................... Pza   _7,348.000
 18.300000  Mt velcro BIFAZ 2cm .................... UNI   _  588.580
-18.320000  velcro 2 cm ............................ Pza   _3,300.000
+18.320000  velcro 2 cm ............................ Pza   _2,760.000
 18.320025   Velcro 2,5cm .......................... UNI   _3,364.240
-18.320050  velcro 5cm ............................. Pza   _8,450.000
-18.320051  velcro 5cm COLOR ....................... Pza   _9,380.000
-18.320055  cierre de contacto 100 mm .............. Pza   _%18,480.000
-18.320060  Velcro autoad.  2cm .................... Pza   _%11,150.000
+18.320050  velcro 5cm ............................. Pza   _7,100.000
+18.320051  velcro 5cm COLOR ....................... Pza   _7,900.000
+18.320055  cierre de contacto 100 mm .............. Pza   _%15,500.000
+18.320060  Velcro autoad.  2cm .................... Pza   _9,300.000
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 18/03/24
+     LISTA DE PRECIOS al: 25/03/24
 PESOS                                                      Hoja Nro   5
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
-18.320070  Velcro autoad. 50 mm ................... Pza   _   27.800
+18.320070  Velcro autoad. 50 mm ................... Pza   _%23,400.000
 18.320075  mt velcro doble faz 2cm ................ UNI   _1,629.160
-18.320100  Velcro 2cm color ....................... Pza   _3,620.000
+18.320100  Velcro 2cm color ....................... Pza   _3,050.000
 18.320110  2011 cordón raso x30m .................. Pza   _3,247.200
 18.320111  2011 cordón raso x30m multicol ......... Pza   _4,896.630
 18.320120  2012/0 cordón x50m ..................... Pza   _3,009.600
@@ -304,7 +304,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 18.95305   cinta yute x5m 953-5 ................... UNI   _1,827.550
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 18/03/24
+     LISTA DE PRECIOS al: 25/03/24
 PESOS                                                      Hoja Nro   6
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -327,12 +327,12 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 20.010400  Cinta ruf.pol.de 4 hilos ............... Pza   _%10,399.740
 20.010500  Cinta ruf.pol.de 5 hilos ............... Pza   _%10,648.180
 20.032700  327/326/329/30/31 x50m ................. Pza   _%12,561.050
-20.032800  pieza 302  brooklin .................... UNI   _%11,986.260
+20.032800  pieza 302  brooklin .................... UNI   _%16,800.000
 20.100000  Ganch Rufl plást 1000u/833 ............. Paq   _6,040.320
 20.210000  Gancho Rufl.hierro1000-830 ............. Paq   _%30,283.570
-20.300000  Gancho cortina INGLES 831/10 ........... Paq   _%28,750.000
-20.4       alfiler niquelado 832 x1000 ............ UNI   _%34,600.000
-20.410000  alfiler niquelado 832 x500 ............. UNI   _%18,000.000
+20.300000  Gancho cortina INGLES 831/10 ........... Paq   _%26,000.000
+20.4       alfiler niquelado 832 x1000 ............ UNI   _%27,450.000
+20.410000  alfiler niquelado 832 x500 ............. UNI   _%14,000.000
 20.800000  Rollo Cint Plast.4.5cmx100m812 ......... UNI   _%14,600.000
 20.900000  Rollo Cint Plast.7cmx100m 813 .......... UNI   _%23,310.000
 25.001500  CIERRES INVISIBLES ..................... Pza              
@@ -365,7 +365,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 28.010000  CIERRE de BRONCE FIJO .................. Pza              
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 18/03/24
+     LISTA DE PRECIOS al: 25/03/24
 PESOS                                                      Hoja Nro   7
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -426,7 +426,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 30.840000  Cierre sin envase 40cm ................. UNI   _  319.200
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 18/03/24
+     LISTA DE PRECIOS al: 25/03/24
 PESOS                                                      Hoja Nro   8
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -487,7 +487,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 33.120000  Cinta Raso 12 .......................... Pza   _4,326.000
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 18/03/24
+     LISTA DE PRECIOS al: 25/03/24
 PESOS                                                      Hoja Nro   9
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -534,7 +534,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 35.125000  CINTA BIES ............................. Mt               
 35.130000  Bies 13 mm Bco poplin .................. Pza   _3,080.250
 35.131000  Bies 13 mm Color poplin ................ Pza   _3,456.890
-35.200000  Bies 20 mm Bco poplin .................. Pza   _3,256.590
+35.200000  Bies 20 mm Bco poplin .................. Pza   _2,900.000
 35.201000  Bies 20mm Color poplin ................. Pza   _3,354.780
 35.202000  LAME al bies 20mm dorado x25m .......... UNI   _%15,404.670
 35.300000  Bies Raso 20 mm ........................ Pza   _%12,371.700
@@ -545,10 +545,10 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 41.000000  REPUESTOS MAQUINA ...................... UNI              
 42.100000  Bobina 15/30 derecho ................... UNI   _1,141.400
 42.110000  Bobina 15/88 revés ..................... UNI   _2,048.770
-42.111000  pie cierre invisible bajo .............. UNI   _  137.660
+42.111000  pie cierre invisible bajo .............. UNI   _  110.000
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 18/03/24
+     LISTA DE PRECIOS al: 25/03/24
 PESOS                                                      Hoja Nro  10
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -558,7 +558,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 42.112000  Destornillador ......................... UNI   _   72.530
 42.270000  cepillo limpieza ....................... UNI   _   45.280
 42.300000  Correa de cuero ........................ UNI   _2,500.000
-42.31      u correa de goma ....................... UNI   _1,430.000
+42.31      u correa de goma ....................... UNI   _1,160.000
 42.400000  Gomita devanadora ...................... UNI   _  223.700
 42.500000  lampara a presion ...................... UNI   _  493.270
 42.51      U correa dentada ....................... UNI   _1,520.000
@@ -609,7 +609,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 53.160000  Elástico liso 16 bco ................... Pza   _6,588.260
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 18/03/24
+     LISTA DE PRECIOS al: 25/03/24
 PESOS                                                      Hoja Nro  11
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -670,7 +670,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 56.750000  elastico 750 ........................... Pza   _%26,266.930
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 18/03/24
+     LISTA DE PRECIOS al: 25/03/24
 PESOS                                                      Hoja Nro  12
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -684,7 +684,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 57.120000  Hilo CADENA DIAG.450m Bco .............. C.    _%27,500.000
 57.130000  Cadena Diagonal NEGRO .................. Caj   _%28,600.000
 57.15      drima Diagonal 405 x5bob. .............. UNI              
-57.150000  DRIMA DIAGONAL 405 gde. ................ Caj   _%17,880.000
+57.150000  DRIMA DIAGONAL 405 gde. ................ Caj   _%31,700.000
 57.160000  Hilo Cadena chico x10u ................. Caj   _%11,590.000
 57.200000  Hilo CadenaD. bobina x450m NEG ......... UNI   _9,395.870
 57.210000  Hilo Cadena D. bobinna BLANCO .......... UNI   _8,764.780
@@ -731,7 +731,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 62.910000  Hombreras s/forrar No.10 ............... Par   _  121.910
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 18/03/24
+     LISTA DE PRECIOS al: 25/03/24
 PESOS                                                      Hoja Nro  13
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -788,11 +788,11 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 67.520000  Refuerzo Cuerina ch .................... Par   _  175.290
 67.530000  tela plastificada escosesa ............. Par   _  317.180
 67.600000  Refuerzo Entrepierna ................... Par   _1,224.520
-67.900000  Bolsillos Pegar ........................ Doc   _   35.740
+67.900000  Bolsillos Pegar ........................ Doc   _%52,220.000
 67.922000  sobres etiquetas x15 ................... UNI   _1,155.000
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 18/03/24
+     LISTA DE PRECIOS al: 25/03/24
 PESOS                                                      Hoja Nro  14
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -853,7 +853,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 69.839070  tijera 839/6 peluquero ................. UNI   _4,675.930
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 18/03/24
+     LISTA DE PRECIOS al: 25/03/24
 PESOS                                                      Hoja Nro  15
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -914,7 +914,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 76.151601  1516/1 x25m ............................ Pza   _3,870.000
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 18/03/24
+     LISTA DE PRECIOS al: 25/03/24
 PESOS                                                      Hoja Nro  16
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -975,7 +975,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 76.199609  BACHIK /9 .............................. Pza   _8,766.260
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 18/03/24
+     LISTA DE PRECIOS al: 25/03/24
 PESOS                                                      Hoja Nro  17
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -1036,7 +1036,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 76.305722  3057/22 3058/22 3059/22 5m ............. Pza   _2,416.720
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 18/03/24
+     LISTA DE PRECIOS al: 25/03/24
 PESOS                                                      Hoja Nro  18
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -1085,8 +1085,8 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 76.520000  SOFIA 520 .............................. PZA   _4,743.850
 76.522000  ZOO 522 ................................ Pza   _%10,162.340
 76.523000  Pza HINDU 523 .......................... UNI   _5,980.400
-76.524000  PERSA 524 .............................. Pza   _6,730.440
-76.525000  cinta 525 x10m ......................... Pza   _1,884.630
+76.524000  PERSA 524 .............................. Pza   _8,150.000
+76.525000  cinta 525 x10m ......................... Pza   _8,150.000
 76.527030  ROSARIO 527-3 x10m ..................... Pza   _6,409.900
 76.527090  ROSARIO 527-9 x10m ..................... Pza   _%10,247.750
 76.528000  cinta RAMON  528 x10m .................. Pza   _9,570.620
@@ -1097,17 +1097,17 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 76.533000  PRIMAVERA 533 x10m ..................... Pza   _7,796.340
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 18/03/24
+     LISTA DE PRECIOS al: 25/03/24
 PESOS                                                      Hoja Nro  19
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 76.534000  NATAL 534 x10m ......................... PZA   _7,667.020
-76.535000  FRICK 535 x10m ......................... PZA   _7,667.020
+76.535000  FRICK 535 x10m ......................... PZA   _9,270.000
 76.536000  MAPUCHE 536 x10m ....................... Pza   _7,796.340
 76.537000  INDONESIA 537 x10m ..................... Pza   _%12,428.570
-76.546000  Pza BUDA 546 ........................... UNI   _6,730.440
-76.552000  Pza TEMPUC 552 ......................... UNI   _4,480.230
+76.546000  Pza BUDA 546 ........................... UNI   _9,270.000
+76.552000  Pza TEMPUC 552 ......................... UNI   _5,420.000
 76.600000  cinta VELUR 0 .......................... Pza   _1,772.100
 76.600010  VELUR 1 ................................ Pza   _2,172.500
 76.600030  VELUR 3 ................................ Pza   _3,038.200
@@ -1158,7 +1158,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 77.500352  puntilla algodon 352 x10m .............. PZA   _%21,912.000
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 18/03/24
+     LISTA DE PRECIOS al: 25/03/24
 PESOS                                                      Hoja Nro  20
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -1219,7 +1219,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 77.800402  punt.nylon 402 x20m natural ............ UNI   _5,836.840
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 18/03/24
+     LISTA DE PRECIOS al: 25/03/24
 PESOS                                                      Hoja Nro  21
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -1280,7 +1280,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 79.111062  Pza encaje 1062 x20m ................... Mt    _2,288.320
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 18/03/24
+     LISTA DE PRECIOS al: 25/03/24
 PESOS                                                      Hoja Nro  22
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -1341,7 +1341,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 79.389100  Pza galon ROCOQUITO lame ............... Pza   _5,458.600
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 18/03/24
+     LISTA DE PRECIOS al: 25/03/24
 PESOS                                                      Hoja Nro  23
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -1402,7 +1402,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 79.842000  Tira para bordar 842 x 10m ............. UNI   _7,234.400
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 18/03/24
+     LISTA DE PRECIOS al: 25/03/24
 PESOS                                                      Hoja Nro  24
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -1463,7 +1463,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 80.101523  ATENEA 23mm--101523 .................... Pza   _1,861.510
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 18/03/24
+     LISTA DE PRECIOS al: 25/03/24
 PESOS                                                      Hoja Nro  25
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -1524,7 +1524,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 80.114703  MULTIRAYAS FLUO--114703 ................ Pza   _1,500.870
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 18/03/24
+     LISTA DE PRECIOS al: 25/03/24
 PESOS                                                      Hoja Nro  26
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -1585,7 +1585,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 80.119923  SILKY LUNAR CLOWN 23mm--119923 ......... Pza   _2,272.110
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 18/03/24
+     LISTA DE PRECIOS al: 25/03/24
 PESOS                                                      Hoja Nro  27
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -1646,7 +1646,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 80.125023  SILKY MAGICA--125023 ................... Pza   _2,301.310
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 18/03/24
+     LISTA DE PRECIOS al: 25/03/24
 PESOS                                                      Hoja Nro  28
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -1707,7 +1707,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 80.129515  Pza ARCOBALENO 15mm--129515 ............ Pza   _2,175.990
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 18/03/24
+     LISTA DE PRECIOS al: 25/03/24
 PESOS                                                      Hoja Nro  29
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -1768,7 +1768,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 80.135240  CARTAGENA 40mm ......................... Pza   _2,789.670
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 18/03/24
+     LISTA DE PRECIOS al: 25/03/24
 PESOS                                                      Hoja Nro  30
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -1829,7 +1829,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 80.140910  Cinta BABY GROSS ESTAMPADO ............. UNI   _2,167.690
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 18/03/24
+     LISTA DE PRECIOS al: 25/03/24
 PESOS                                                      Hoja Nro  31
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -1890,7 +1890,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 80.196909  escosesa c/lurex y alambre ............. Pza   _4,877.950
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 18/03/24
+     LISTA DE PRECIOS al: 25/03/24
 PESOS                                                      Hoja Nro  32
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -1951,7 +1951,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 80.792025  MIA 25mm ............................... Pza   _2,201.640
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 18/03/24
+     LISTA DE PRECIOS al: 25/03/24
 PESOS                                                      Hoja Nro  33
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
