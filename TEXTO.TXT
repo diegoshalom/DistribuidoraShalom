@@ -1,6 +1,6 @@
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 09/04/24
-PESOS                                                      Hoja Nro  34
+PESOS                                                      Hoja Nro   1
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -61,7 +61,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 09/04/24
-PESOS                                                      Hoja Nro  35
+PESOS                                                      Hoja Nro   2
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -122,7 +122,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 09/04/24
-PESOS                                                      Hoja Nro  36
+PESOS                                                      Hoja Nro   3
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -183,7 +183,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 09/04/24
-PESOS                                                      Hoja Nro  37
+PESOS                                                      Hoja Nro   4
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -244,7 +244,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 09/04/24
-PESOS                                                      Hoja Nro  38
+PESOS                                                      Hoja Nro   5
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -305,7 +305,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 09/04/24
-PESOS                                                      Hoja Nro  39
+PESOS                                                      Hoja Nro   6
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -366,7 +366,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 09/04/24
-PESOS                                                      Hoja Nro  40
+PESOS                                                      Hoja Nro   7
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -427,7 +427,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 09/04/24
-PESOS                                                      Hoja Nro  41
+PESOS                                                      Hoja Nro   8
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -488,7 +488,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 09/04/24
-PESOS                                                      Hoja Nro  42
+PESOS                                                      Hoja Nro   9
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -529,7 +529,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 35.019000  gros de seda 12 FLUO ................... Pza   _  608.490
 35.030000  Gross seda 3 ........................... Pza   _1,980.000
 35.050000  Gross seda 5 ........................... Pza   _2,620.000
-35.090000  Gross seda 9 ........................... Pza   _4,470.000
+35.090000  Gross seda 9 ........................... Pza   _4,340.000
 35.120000  Gross seda 12 .......................... Pza   _5,000.000
 35.125000  CINTA BIES ............................. Mt               
 35.130000  Bies 13 mm Bco poplin .................. Pza   _3,080.250
@@ -549,7 +549,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 09/04/24
-PESOS                                                      Hoja Nro  43
+PESOS                                                      Hoja Nro  10
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -610,7 +610,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 09/04/24
-PESOS                                                      Hoja Nro  44
+PESOS                                                      Hoja Nro  11
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -671,7 +671,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 09/04/24
-PESOS                                                      Hoja Nro  45
+PESOS                                                      Hoja Nro  12
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -732,7 +732,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 09/04/24
-PESOS                                                      Hoja Nro  46
+PESOS                                                      Hoja Nro  13
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -793,7 +793,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 09/04/24
-PESOS                                                      Hoja Nro  47
+PESOS                                                      Hoja Nro  14
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -854,7 +854,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 09/04/24
-PESOS                                                      Hoja Nro  48
+PESOS                                                      Hoja Nro  15
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -915,7 +915,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 09/04/24
-PESOS                                                      Hoja Nro  49
+PESOS                                                      Hoja Nro  16
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -976,7 +976,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 09/04/24
-PESOS                                                      Hoja Nro  50
+PESOS                                                      Hoja Nro  17
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -1037,7 +1037,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 09/04/24
-PESOS                                                      Hoja Nro  51
+PESOS                                                      Hoja Nro  18
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -1098,7 +1098,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 09/04/24
-PESOS                                                      Hoja Nro  52
+PESOS                                                      Hoja Nro  19
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -1159,7 +1159,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 09/04/24
-PESOS                                                      Hoja Nro  53
+PESOS                                                      Hoja Nro  20
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -1220,7 +1220,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 09/04/24
-PESOS                                                      Hoja Nro  54
+PESOS                                                      Hoja Nro  21
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -1281,7 +1281,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 09/04/24
-PESOS                                                      Hoja Nro  55
+PESOS                                                      Hoja Nro  22
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -1342,7 +1342,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 09/04/24
-PESOS                                                      Hoja Nro  56
+PESOS                                                      Hoja Nro  23
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -1403,7 +1403,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 09/04/24
-PESOS                                                      Hoja Nro  57
+PESOS                                                      Hoja Nro  24
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -1464,7 +1464,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 09/04/24
-PESOS                                                      Hoja Nro  58
+PESOS                                                      Hoja Nro  25
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -1525,7 +1525,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 09/04/24
-PESOS                                                      Hoja Nro  59
+PESOS                                                      Hoja Nro  26
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -1586,7 +1586,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 09/04/24
-PESOS                                                      Hoja Nro  60
+PESOS                                                      Hoja Nro  27
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -1647,7 +1647,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 09/04/24
-PESOS                                                      Hoja Nro  61
+PESOS                                                      Hoja Nro  28
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -1708,7 +1708,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 09/04/24
-PESOS                                                      Hoja Nro  62
+PESOS                                                      Hoja Nro  29
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -1769,7 +1769,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 09/04/24
-PESOS                                                      Hoja Nro  63
+PESOS                                                      Hoja Nro  30
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -1830,7 +1830,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 09/04/24
-PESOS                                                      Hoja Nro  64
+PESOS                                                      Hoja Nro  31
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -1891,7 +1891,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 09/04/24
-PESOS                                                      Hoja Nro  65
+PESOS                                                      Hoja Nro  32
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
@@ -1952,7 +1952,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
 SHALOM ELIAS                  
      LISTA DE PRECIOS al: 09/04/24
-PESOS                                                      Hoja Nro  66
+PESOS                                                      Hoja Nro  33
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
