@@ -719,10 +719,10 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 61.981000  encerado x70m cono hilo FLUO ........... UNI   _1,676.100
 61.982000  blister surtido encerado x10m .......... UNI   _1,891.440
 61.983000  cordon de yute 6/2 10 bobinas x50m ..... UNI   _%12,340.000
-61.990000  Hilo elástico blanco ................... Caj   _4,368.000
-61.991000  Hilo elástico negro .................... Caj   _4,650.000
-61.992000  hilo elastico colores .................. Doc   _5,020.000
-61.993000  Lúrex Dor-Plat ......................... Doc   _2,970.000
+61.990000  Hilo elástico blanco ................... Caj   _3,980.000
+61.991000  Hilo elástico negro .................... Caj   _4,230.000
+61.992000  hilo elastico colores .................. Doc   _4,420.000
+61.993000  Lúrex Dor-Plat ......................... Doc   _4,210.000
 62.000000  HOMBRERAS .............................. Mt               
 62.700000  hombreras 0 ............................ Par   _  940.000
 62.701000  Hombreras  No.1 ........................ Par   _1,292.000
@@ -814,7 +814,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 68.045100  arcos corpino plastico ................. Par   _  427.050
 68.099015  bretel ancho 15mm ...................... Par   _  737.000
 68.09918   bretel ancho 18mm ...................... UNI   _  923.230
-68.099990  bretel armado 10mm ..................... Par   _  594.000
+68.099990  bretel armado 10mm ..................... Par   _  620.000
 68.099991  bretel armado 6mm ...................... Par   _  550.000
 68.332100  bretel silicona 10mm ................... Par   _1,006.500
 68.332200  bretel silicona 6mm .................... Par   _  803.000
@@ -827,13 +827,13 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 68.568000  rep.x2 ancho 132/568 ................... Doc   _6,190.000
 68.569000  repx3 143/569 .......................... Doc   _8,902.580
 68.591000  Rep.de Corpiño 1/111/591 ............... Doc   _3,150.980
-68.592000  rep x2 angosto 122/592 ................. Doc   _4,780.420
+68.592000  rep x2 angosto 122/592 ................. Doc   _5,040.000
 68.811000  Pza elastico bretel 811 x10m ........... UNI   _5,153.730
 68.815000  Pza ellastico bretel 815 x10m .......... UNI   _6,623.350
 68.818000  Pza elastico bretel 818 x10m ........... UNI   _6,864.930
 68.901000  prol.x1gancho 211/901 .................. Doc   _3,302.050
-68.902000  prol.angosto 222/902 ................... Doc   _5,120.000
-68.903000  prol.x3ganchos 243/903 ................. Doc   _9,258.680
+68.902000  prol.angosto 222/902 ................... Doc   _5,200.000
+68.903000  prol.x3ganchos 243/903 ................. Doc   _9,700.000
 68.968000  prol.x2ganch.ancho 232/968 ............. Doc   _6,281.000
 69,915000  U alicate chico ........................ UNI              
 69.000000  TIJERAS Y ALICATES ..................... Mt               
