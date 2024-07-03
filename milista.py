@@ -13,7 +13,7 @@ print('Template cargado')
 
 #%% Cargo lista de precios
 fname = 'TEXTO.TXT'
-list_ = open(fname).read().split('\n')
+list_ = open(fname, errors="ignore").read().split('\n')
 
 fecha = list_[1][25:].strip()
 miwebpage = miwebpage.replace('%FECHA%', fecha)
