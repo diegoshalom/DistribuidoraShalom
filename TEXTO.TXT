@@ -722,7 +722,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 57.320000  Hilo Mouline x12madejas ................ Caj   _%16,700.000
 57.330000  Mouline Bilevich x12 ................... UNI   _4,608.650
 57.340000  Mouline Bilevich x24 ................... UNI   _6,683.100
-57.400000  Hilo Coselotodo chico 100m ............. Caj   _%10,070.000
+57.400000  Hilo Coselotodo chico 100m ............. Caj   _6,800.000
 57.410000  Hilo Coselotodo fluo ................... Caj   _%11,000.000
 57.500000  Hilo Guterman x450m Bco ................ Caj   _%54,783.800
 57.600000  Hilo Guterman x 450m col ............... Caj   _%59,982.240
