@@ -1,5 +1,5 @@
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 04/08/25
+     LISTA DE PRECIOS al: 06/08/25
 PESOS                                                      Hoja Nro   1
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -60,7 +60,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 04.209140  doc agujas Tejer SILVER 14 ............. UNI   _%44,100.000
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 04/08/25
+     LISTA DE PRECIOS al: 06/08/25
 PESOS                                                      Hoja Nro   2
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -121,7 +121,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 09.940000  Alfiler Nro 3 y 4 gancho ............... Caj   _9,241.590
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 04/08/25
+     LISTA DE PRECIOS al: 06/08/25
 PESOS                                                      Hoja Nro   3
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -182,7 +182,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 10.048100  Dedal alemán/ ded.sastre ............... UNI   _1,386.720
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 04/08/25
+     LISTA DE PRECIOS al: 06/08/25
 PESOS                                                      Hoja Nro   4
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -235,15 +235,15 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 17.000003  cardar cepillo ......................... UNI   _  789.820
 17.000004  ANILINAS ............................... Pza              
 17.000005  cepillo c/portadoc. .................... UNI   _  800.000
-17.100000  Decolorante Colibrí .................... Sob   _3,795.000
-17.200000  Anilina Frío Colibrí ................... Sob   _1,770.000
-17.300000  Anilina Polyester Colibrí .............. Sob   _3,377.000
-17.400000  Blanqueador Colibrí .................... Sob   _1,397.000
+17.100000  Decolorante Colibrí .................... Sob   _4,022.700
+17.200000  Anilina Frío Colibrí ................... Sob   _1,876.200
+17.300000  Anilina Polyester Colibrí .............. Sob   _3,579.620
+17.400000  Blanqueador Colibrí .................... Sob   _1,480.820
 17.460000  anilina a la grasa 10g ................. UNI   _  245.720
 17.970000  MARCADOR, ARPILLERA, VELCRO ............ PZA              
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 04/08/25
+     LISTA DE PRECIOS al: 06/08/25
 PESOS                                                      Hoja Nro   5
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -304,7 +304,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 18.925000  cinta yute 925 x 5m .................... Pza   _1,207.870
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 04/08/25
+     LISTA DE PRECIOS al: 06/08/25
 PESOS                                                      Hoja Nro   6
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -365,7 +365,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 26.200000  Cierre Sport  fijo 20 .................. UNI   _  326.600
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 04/08/25
+     LISTA DE PRECIOS al: 06/08/25
 PESOS                                                      Hoja Nro   7
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -426,7 +426,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 30.330000  reversible DIENTE DP ................... UNI   _  395.890
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 04/08/25
+     LISTA DE PRECIOS al: 06/08/25
 PESOS                                                      Hoja Nro   8
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -487,7 +487,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 31.475000  Cierre aluminio sep 75/80 .............. UNI   _  534.440
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 04/08/25
+     LISTA DE PRECIOS al: 06/08/25
 PESOS                                                      Hoja Nro   9
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -548,7 +548,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 35.015000  gros C.O.FLUO 1 x20m ................... Pza   _2,772.830
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 04/08/25
+     LISTA DE PRECIOS al: 06/08/25
 PESOS                                                      Hoja Nro  10
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -609,7 +609,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 47.100000  elastico 10cm negro .................... PZA   _%16,815.350
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 04/08/25
+     LISTA DE PRECIOS al: 06/08/25
 PESOS                                                      Hoja Nro  11
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -630,81 +630,81 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 5.21000    AGUJAS COSER y ALFILERES ............... UNI              
 50.331100  Elást Bretel 3311 X 20m ................ Pza   _6,785.540
 50.331500  Elást Bretel 3315 x 20m ................ Pza   _7,924.650
-51.820000  Elástico redondo 82 bco ................ Pza   _3,910.000
-51.840000  Elástico redondo 84 bco ................ Pza   _3,910.000
-51.860000  Elástico redondo 86 bco ................ Pza   _3,910.000
-52.820000  Elástico redondo 82 neg ................ Pza   _4,310.000
-52.840000  Elástico redondo 84 neg ................ Pza   _5,284.000
-52.860000  Elástico redondo 86 neg ................ Pza   _5,200.000
-53.100000  Elástico liso 10 bco ................... Pza   _4,090.000
-53.120000  Elástico liso 12 bco ................... Pza   _4,700.000
-53.140000  Elástico liso 14 bco ................... Pza   _5,420.000
-53.160000  Elástico liso 16 bco ................... Pza   _5,960.000
-53.180000  Elástico liso 18 ....................... Pza   _8,510.000
-53.200000  Elástico liso 20 bco ................... Pza   _9,090.000
-53.220000  Elástico liso 22 bco ................... Pza   _%10,500.000
-53.240000  Elástico liso 24 bco ................... Pza   _%11,150.000
-53.280000  Elástico liso 28 bco ................... Pza   _%13,200.000
-54.100000  Elástico liso 10 neg ................... Pza   _5,760.000
-54.120000  elastico liso 12 neg ................... Pza   _6,600.000
-54.140000  Elástico liso 14 neg ................... Pza   _8,250.000
-54.160000  Elástico liso 16 neg ................... Pza   _8,628.000
-54.180000  Elástico liso 18 neg ................... Pza   _%12,000.000
-54.200000  Elástico liso 20 neg ................... Pza   _%12,750.000
-54.220000  Elástico liso 22 neg ................... Pza   _%14,580.000
-54.240000  Elástico liso 24 neg ................... Pza   _%15,600.000
-54.280000  Elástico liso 28 neg ................... Pza   _%21,334.210
-55.100000  elastico acordonado 10 ................. Pza   _5,420.000
-55.120000  Elástico acordonado 12 ................. Pza   _5,720.000
-55.140000  Elástico acordonado 14 ................. Pza   _7,180.000
-55.160000  Elástico acordonado 16 ................. Pza   _7,790.000
-55.180000  Elástico acordonado 18 ................. Pza   _9,960.000
+51.820000  Elástico redondo 82 bco ................ Pza   _4,144.600
+51.840000  Elástico redondo 84 bco ................ Pza   _4,144.600
+51.860000  Elástico redondo 86 bco ................ Pza   _4,144.600
+52.820000  Elástico redondo 82 neg ................ Pza   _4,568.600
+52.840000  Elástico redondo 84 neg ................ Pza   _5,601.040
+52.860000  Elástico redondo 86 neg ................ Pza   _5,512.000
+53.100000  Elástico liso 10 bco ................... Pza   _4,335.400
+53.120000  Elástico liso 12 bco ................... Pza   _4,982.000
+53.140000  Elástico liso 14 bco ................... Pza   _5,745.200
+53.160000  Elástico liso 16 bco ................... Pza   _6,317.600
+53.180000  Elástico liso 18 ....................... Pza   _9,020.600
+53.200000  Elástico liso 20 bco ................... Pza   _9,635.400
+53.220000  Elástico liso 22 bco ................... Pza   _%11,130.000
+53.240000  Elástico liso 24 bco ................... Pza   _%11,819.000
+53.280000  Elástico liso 28 bco ................... Pza   _%13,992.000
+54.100000  Elástico liso 10 neg ................... Pza   _6,105.600
+54.120000  elastico liso 12 neg ................... Pza   _6,996.000
+54.140000  Elástico liso 14 neg ................... Pza   _8,745.000
+54.160000  Elástico liso 16 neg ................... Pza   _9,145.680
+54.180000  Elástico liso 18 neg ................... Pza   _%12,720.000
+54.200000  Elástico liso 20 neg ................... Pza   _%13,515.000
+54.220000  Elástico liso 22 neg ................... Pza   _%15,454.800
+54.240000  Elástico liso 24 neg ................... Pza   _%16,536.000
+54.280000  Elástico liso 28 neg ................... Pza   _%22,614.270
+55.100000  elastico acordonado 10 ................. Pza   _5,745.200
+55.120000  Elástico acordonado 12 ................. Pza   _6,063.200
+55.140000  Elástico acordonado 14 ................. Pza   _7,610.800
+55.160000  Elástico acordonado 16 ................. Pza   _8,257.400
+55.180000  Elástico acordonado 18 ................. Pza   _%10,557.600
 55.185000  TRENZA MULTICOLOR ...................... Mt               
-55.190000  Trenza multicolor ...................... UNI   _2,074.030
-56.163100  CORDON polip.163 x50m bc ............... Pza   _5,423.000
+55.190000  Trenza multicolor ...................... UNI   _2,198.480
+56.163100  CORDON polip.163 x50m bc ............... Pza   _5,748.380
 56.1632    art 163 x50m color ..................... UNI              
-56.163200  cono polipropileno x100m ............... UNI   _%10,846.000
+56.163200  cono polipropileno x100m ............... UNI   _%11,496.760
 56.381000  ELÁSTICO ALGODÓN ....................... MT               
 56.381100  elastico 4mm barbijo ................... UNI              
-56.381500  elastico 3815 x25m ..................... Pza   _3,120.000
-56.3820    elastico 3820 x25m ..................... Pza   _3,910.000
+56.381500  elastico 3815 x25m ..................... Pza   _3,307.200
+56.3820    elastico 3820 x25m ..................... Pza   _4,144.600
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 04/08/25
+     LISTA DE PRECIOS al: 06/08/25
 PESOS                                                      Hoja Nro  12
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 =====================================================================
-56.382500  elastico 3825 x25m ..................... Pza   _4,692.000
-56.383000  Elastico 3830 x25m ..................... Pza   _5,460.000
-56.383500  elastico 3835 x25m ..................... UNI   _6,230.000
-56.384000  elastico 3840 x25m ..................... UNI   _8,230.000
-56.385000  Elástico algodon 5cm x25m .............. Pza   _9,720.000
-56.386000  Elastico algodon 6cm x25m .............. Pza   _9,720.000
-56.517000  Elástico algodón 517 x50m .............. Pza   _6,770.000
-56.531000  Elástico algodón 531 x50m .............. Pza   _7,900.000
-56.548000  elastico 548x50m ....................... Pza   _8,080.000
-56.550000  Elástico algodón 550 x50m .............. Pza   _8,080.000
-56.552000  Elástico algodón 552 x50m .............. Pza   _%11,970.000
-56.554000  Elástico algodón 554 x50m .............. Pza   _%13,660.000
-56.565000  2lastico 565 x25m ...................... UNI   _9,053.000
-56.573000  Elástico algodón 573 x25m .............. Pza   _%16,429.850
-56.584000  Elástico algodón 584 x25m .............. Pza   _%20,505.970
-56.596000  Elástico algodón 596 x25m .............. Pza   _%24,467.830
-56.597000  Elástico algodón 597 x25m .............. Pza   _%26,331.430
-56.598000  Elástico algodón 598 x25m .............. Pza   _%29,127.070
-56.600000  Elástico algodón 600 x25m .............. Pza   _%34,252.010
-56.715000  elastico 715 ........................... Pza   _8,741.170
-56.720000  elastico 720 ........................... Pza   _%10,849.850
-56.725000  elastico 725 ........................... Pza   _%13,633.800
-56.730000  elastico 730 ........................... Pza   _%16,311.890
-56.735000  elastico 735 ........................... Pza   _%19,108.430
-56.740000  elastico 740 ........................... Pza   _%21,672.070
-56.750000  elastico 750 ........................... Pza   _%28,893.630
+56.382500  elastico 3825 x25m ..................... Pza   _4,973.520
+56.383000  Elastico 3830 x25m ..................... Pza   _5,787.600
+56.383500  elastico 3835 x25m ..................... UNI   _6,603.800
+56.384000  elastico 3840 x25m ..................... UNI   _8,723.800
+56.385000  Elástico algodon 5cm x25m .............. Pza   _%10,303.200
+56.386000  Elastico algodon 6cm x25m .............. Pza   _%10,303.200
+56.517000  Elástico algodón 517 x50m .............. Pza   _7,176.200
+56.531000  Elástico algodón 531 x50m .............. Pza   _8,374.000
+56.548000  elastico 548x50m ....................... Pza   _8,564.800
+56.550000  Elástico algodón 550 x50m .............. Pza   _8,564.800
+56.552000  Elástico algodón 552 x50m .............. Pza   _%12,688.200
+56.554000  Elástico algodón 554 x50m .............. Pza   _%14,479.600
+56.565000  2lastico 565 x25m ...................... UNI   _9,596.180
+56.573000  Elástico algodón 573 x25m .............. Pza   _%17,415.640
+56.584000  Elástico algodón 584 x25m .............. Pza   _%21,736.330
+56.596000  Elástico algodón 596 x25m .............. Pza   _%25,935.900
+56.597000  Elástico algodón 597 x25m .............. Pza   _%27,911.320
+56.598000  Elástico algodón 598 x25m .............. Pza   _%30,874.700
+56.600000  Elástico algodón 600 x25m .............. Pza   _%36,307.130
+56.715000  elastico 715 ........................... Pza   _9,265.640
+56.720000  elastico 720 ........................... Pza   _%11,500.850
+56.725000  elastico 725 ........................... Pza   _%14,451.830
+56.730000  elastico 730 ........................... Pza   _%17,290.610
+56.735000  elastico 735 ........................... Pza   _%20,254.940
+56.740000  elastico 740 ........................... Pza   _%22,972.400
+56.750000  elastico 750 ........................... Pza   _%30,627.250
 56.7630    elastico 30mm x50m ..................... UNI              
-56.763000  Elástico c/cordón 7630 20m ............. PZA   _%15,458.230
-56.764000  Elástico c/cordón 7640 20m ............. PZA   _%29,492.270
-56.901200  Elastico 9012 x50m córdon .............. Pza   _7,850.000
+56.763000  Elástico c/cordón 7630 20m ............. PZA   _%16,385.730
+56.764000  Elástico c/cordón 7640 20m ............. PZA   _%31,261.810
+56.901200  Elastico 9012 x50m córdon .............. Pza   _8,321.000
 57.000000  HILOS .................................. Mt               
 57.12      C.Diag 450m x5bob ...................... UNI   _%16,490.000
 57.120000  Hilo CADENA DIAG.450m Bco .............. C.    _%20,080.000
@@ -731,7 +731,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 58.01      hilo de bordar Abrotex ................. UNI   _2,790.000
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 04/08/25
+     LISTA DE PRECIOS al: 06/08/25
 PESOS                                                      Hoja Nro  13
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -792,7 +792,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 64.888888  UNIPOX extrfuerte 25ml ................. UNI   _2,832.000
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 04/08/25
+     LISTA DE PRECIOS al: 06/08/25
 PESOS                                                      Hoja Nro  14
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -825,35 +825,35 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 66.920000  REF. KILT, BIES, AJUSTABLES ............ Mt               
 67.         ....................................... UNI              
 67.000000  Refuerzo Jean/Escosés Plas ............. PAR   _1,053.910
-67.000001  Trabas tipo Kilt ....................... Doc   _%22,420.000
-67.000002  bies al sesgo autoadhesiva ............. Pza   _1,141.530
-67.000003  Ajustables p/sábanas ................... UNI   _%11,950.000
+67.000001  Trabas tipo Kilt ....................... Doc   _%24,213.600
+67.000002  bies al sesgo autoadhesiva ............. Pza   _1,232.860
+67.000003  Ajustables p/sábanas ................... UNI   _%12,906.000
 67.000004  CINTA ID Y ADHE DOBLADILLO ............. Mt               
 67.000005  REFUERZO, NÚMEROS, RIB ................. Mt               
-67.001000  Cinta Dobladillos adhesiva ............. UNI   _3,345.650
-67.002000  Termoadh. transferible ................. Doc   _3,380.380
-67.100000  Refuerzo Matelassé ..................... Par   _  387.690
-67.110000  Refuerzo Corderoy ...................... Par   _  483.030
-67.111111  POLAR plancha y listo .................. Par   _  298.720
-67.200000  Refuerzo S.antílope .................... Par   _2,427.260
-67.210000  Números deportivos 20cm x3 ............. Paq   _1,573.000
-67.220000  Números deportivos 10cm x6 ............. Paq   _1,573.000
-67.400000  refuerzo jogging ....................... UNI   _1,180.000
-67.500000  refuerzo jersey ........................ UNI   _1,225.000
-67.510000  Refuerzo Cuerina gde ................... Par   _1,268.000
-67.520000  Refuerzo Cuerina ch .................... Par   _  175.290
-67.530000  tela plastificada escosesa ............. Par   _  317.180
-67.600000  Refuerzo Entrepierna ................... Par   _1,224.520
-67.900000  Bolsillos Pegar ........................ Doc   _%36,700.000
-67.922000  sobres etiquetas x15 ................... UNI   _1,155.000
-67.923400  CINTA ROTULADORA 13mmx10m .............. Pza   _1,960.000
-67.930000  RIB polyester .......................... Mt    _4,290.000
+67.001000  Cinta Dobladillos adhesiva ............. UNI   _3,613.310
+67.002000  Termoadh. transferible ................. Doc   _3,650.810
+67.100000  Refuerzo Matelassé ..................... Par   _  418.710
+67.110000  Refuerzo Corderoy ...................... Par   _  521.680
+67.111111  POLAR plancha y listo .................. Par   _  322.620
+67.200000  Refuerzo S.antílope .................... Par   _2,621.440
+67.210000  Números deportivos 20cm x3 ............. Paq   _1,698.840
+67.220000  Números deportivos 10cm x6 ............. Paq   _1,698.840
+67.400000  refuerzo jogging ....................... UNI   _1,274.400
+67.500000  refuerzo jersey ........................ UNI   _1,372.000
+67.510000  Refuerzo Cuerina gde ................... Par   _1,369.440
+67.520000  Refuerzo Cuerina ch .................... Par   _  189.320
+67.530000  tela plastificada escosesa ............. Par   _  342.560
+67.600000  Refuerzo Entrepierna ................... Par   _1,322.490
+67.900000  Bolsillos Pegar ........................ Doc   _%39,636.000
+67.922000  sobres etiquetas x15 ................... UNI   _1,247.400
+67.923400  CINTA ROTULADORA 13mmx10m .............. Pza   _2,116.800
+67.930000  RIB polyester .......................... Mt    _4,633.200
 67.931      ....................................... UNI              
-67.931000  RIB x 1m ............................... MT    _%11,150.000
+67.931000  RIB x 1m ............................... MT    _%12,042.000
 67.940000  REPUESTO de CORPIÑO .................... MT               
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 04/08/25
+     LISTA DE PRECIOS al: 06/08/25
 PESOS                                                      Hoja Nro  15
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -914,7 +914,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 69.845000  tijera bebe 845 ........................ UNI   _3,339.680
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 04/08/25
+     LISTA DE PRECIOS al: 06/08/25
 PESOS                                                      Hoja Nro  16
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -975,7 +975,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 76.151622  1516/22 x10m ........................... Pza   _5,380.000
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 04/08/25
+     LISTA DE PRECIOS al: 06/08/25
 PESOS                                                      Hoja Nro  17
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -1036,7 +1036,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 76.199903  RIMINI 1997-3 x10m ..................... Mt    _4,670.000
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 04/08/25
+     LISTA DE PRECIOS al: 06/08/25
 PESOS                                                      Hoja Nro  18
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -1097,7 +1097,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 76.305922  3059/22 x5m c/alambre .................. Pza   _2,416.720
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 04/08/25
+     LISTA DE PRECIOS al: 06/08/25
 PESOS                                                      Hoja Nro  19
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -1158,7 +1158,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 76.535000  FRICK 535 x10m ......................... PZA   _9,270.000
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 04/08/25
+     LISTA DE PRECIOS al: 06/08/25
 PESOS                                                      Hoja Nro  20
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -1219,7 +1219,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 77.500627  puntilla algodon 627 x10m .............. UNI   _8,712.000
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 04/08/25
+     LISTA DE PRECIOS al: 06/08/25
 PESOS                                                      Hoja Nro  21
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -1280,7 +1280,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 77.800703  punt.nylon 703 x20m natural ............ UNI   _6,058.000
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 04/08/25
+     LISTA DE PRECIOS al: 06/08/25
 PESOS                                                      Hoja Nro  22
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -1341,7 +1341,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 79.111179  Pza encaje 1179 x 13.71m ............... Mt    _%11,189.420
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 04/08/25
+     LISTA DE PRECIOS al: 06/08/25
 PESOS                                                      Hoja Nro  23
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -1402,7 +1402,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 79.404000  cordon lame 4L ......................... Pza   _9,552.280
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 04/08/25
+     LISTA DE PRECIOS al: 06/08/25
 PESOS                                                      Hoja Nro  24
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -1463,7 +1463,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 79.844100  Tela para bordar 844x5m ................ Pza   _%13,841.300
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 04/08/25
+     LISTA DE PRECIOS al: 06/08/25
 PESOS                                                      Hoja Nro  25
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -1524,7 +1524,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 80.102223  VENUS 23mm--102223 ..................... Pza   _2,398.420
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 04/08/25
+     LISTA DE PRECIOS al: 06/08/25
 PESOS                                                      Hoja Nro  26
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -1585,7 +1585,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 80.115001  MINIMONA x20m--115001 .................. Pza   _3,592.380
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 04/08/25
+     LISTA DE PRECIOS al: 06/08/25
 PESOS                                                      Hoja Nro  27
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -1646,7 +1646,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 80.120306  MINILUNAR AMALIA 6mm--120306 ........... Pza   _2,304.350
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 04/08/25
+     LISTA DE PRECIOS al: 06/08/25
 PESOS                                                      Hoja Nro  28
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -1707,7 +1707,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 80.125138  BRILLANTINA 38mm--125138 ............... Pza   _4,462.140
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 04/08/25
+     LISTA DE PRECIOS al: 06/08/25
 PESOS                                                      Hoja Nro  29
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -1768,7 +1768,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 80.129810  TRIGAL 10mm-129810 ..................... Pza   _3,326.900
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 04/08/25
+     LISTA DE PRECIOS al: 06/08/25
 PESOS                                                      Hoja Nro  30
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -1829,7 +1829,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 80.135425  PATINES 25mm ........................... Pza   _3,170.520
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 04/08/25
+     LISTA DE PRECIOS al: 06/08/25
 PESOS                                                      Hoja Nro  31
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -1890,7 +1890,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 80.141120  Pza TROQ.SACRAMMENTO x10m .............. UNI   _2,850.170
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 04/08/25
+     LISTA DE PRECIOS al: 06/08/25
 PESOS                                                      Hoja Nro  32
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -1951,7 +1951,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 80.196705  Cinta Escosesa 1967/5 .................. Pza   _1,771.650
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 04/08/25
+     LISTA DE PRECIOS al: 06/08/25
 PESOS                                                      Hoja Nro  33
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
@@ -2012,7 +2012,7 @@ CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
 80.723000  galon Pampa ............................ Pza   _5,348.800
 =====================================================================
 SHALOM ELIAS                  
-     LISTA DE PRECIOS al: 04/08/25
+     LISTA DE PRECIOS al: 06/08/25
 PESOS                                                      Hoja Nro  34
 ---------------------------------------------------------------------
 CODIGO     PRODUCTO - DESCRIPCION ................. UNIDAD     PRECIO
